@@ -16,7 +16,7 @@ public class FirstIntroScreen extends AppBasePage {
     @AndroidFindBy(id = "action")
     private WebElement next;
 
-    @SuppressWarnings("rawtypes")
+   @SuppressWarnings("rawtypes")
 	public FirstIntroScreen(AppiumDriver driver, AppiumCapabilities environment) {
         this(driver, environment, true);
     }

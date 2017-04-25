@@ -1,0 +1,20 @@
+2017-04-25 11:55:47,927 INFO app.execution.TestBase - {
+  "AppiumCapabilities" : {
+    "capabilities" : {
+      "version" : "",
+      "javascriptEnabled" : true,
+      "platform" : "ANY",
+      "browserName" : ""
+    },
+    "appName" : "test.apk"
+  }
+}
+2017-04-25 11:55:47,936 INFO app.execution.TestBase - Base setup complete!
+2017-04-25 11:55:47,980 INFO app.execution.AndroidAppInstance - Launching android app ...
+2017-04-25 11:55:47,981 INFO app.execution.AndroidAppInstance - Configuring android environment...
+2017-04-25 11:56:20,112 INFO app.execution.AndroidAppInstance - env.properties: 
+2017-04-25 11:56:32,742 INFO app.pages.AppBasePage - Navigating to [FirstIntroScreen]...
+2017-04-25 11:56:33,004 INFO app.execution.IAMBankAppInstance - Cleaning up web driver...
+2017-04-25 11:56:38,501 INFO app.execution.TestBase - Test result: Passed
+
+2017-04-25 11:56:38,502 INFO app.execution.TestBase - Test is finished, removing the tag [3daa5892-bdf0-482c-9e17-ec4ad569d68b]...

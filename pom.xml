@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.macys</groupId>
+    <groupId>com.iambank</groupId>
     <artifactId>app-framework</artifactId>
     <packaging>jar</packaging>
     <version>2.0-SNAPSHOT</version>
@@ -32,24 +32,7 @@
             <version>6.9.9</version>
         </dependency>
 
-        <dependency>
-            <groupId>org.uncommons</groupId>
-            <artifactId>reportng</artifactId>
-            <version>1.1.2</version>
-            <!--<scope>test</scope>-->
-            <exclusions>
-                <exclusion>
-                    <groupId>org.testng</groupId>
-                    <artifactId>testng</artifactId>
-                </exclusion>
-            </exclusions>
-        </dependency>
 
-        <dependency>
-            <groupId>ru.yandex.qatools.allure</groupId>
-            <artifactId>allure-testng-adaptor</artifactId>
-            <version>1.5.1</version>
-        </dependency>
 
         <dependency>
             <groupId>com.google.inject</groupId>
@@ -145,24 +128,6 @@
             <version>3.0.0</version>
         </dependency>
     </dependencies>
-
-    <reporting>
-        <excludeDefaults>true</excludeDefaults>
-        <plugins>
-            <plugin>
-                <groupId>ru.yandex.qatools.allure</groupId>
-                <artifactId>allure-maven-plugin</artifactId>
-                <version>2.5</version>
-                <configuration>
-                    <version>1.5.1</version>
-                    <properties>
-                        <allure.tests.management.pattern>https://www14.v1host.com/Macyscom/assetdetail.v1?Number=%s</allure.tests.management.pattern>
-                        <allure.issues.tracker.pattern>https://www14.v1host.com/Macyscom/assetdetail.v1?Number=%s</allure.issues.tracker.pattern>
-                    </properties>
-                </configuration>
-            </plugin>
-        </plugins>
-    </reporting>
 
     <build>
 
