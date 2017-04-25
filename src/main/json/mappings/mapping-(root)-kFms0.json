@@ -1,0 +1,20 @@
+{
+  "uuid" : "5b01a529-1375-3443-b6e3-381082d9fcfa",
+  "request" : {
+    "url" : "/",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 596,
+    "bodyFileName" : "body-(root)-kFms0.json",
+    "headers" : {
+      "X-Mashery-Error-Code" : "ERR_596_SERVICE_NOT_FOUND",
+      "Content-Type" : "text/xml",
+      "Server" : "Mashery Proxy",
+      "Date" : "Tue, 02 Aug 2016 17:03:21 GMT",
+      "access-control-allow-origin" : "m.macys.com",
+      "Connection" : "Keep-Alive",
+      "Age" : "0"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+2017-04-25 00:28:41,724 INFO app.execution.TestBase - {
+  "AppiumCapabilities" : {
+    "capabilities" : {
+      "version" : "",
+      "browserName" : "",
+      "platform" : "ANY",
+      "javascriptEnabled" : true
+    },
+    "appName" : "\"/target/test.apk\""
+  }
+}
+2017-04-25 00:28:41,743 INFO app.execution.TestBase - Base setup complete!
+2017-04-25 00:28:41,828 INFO app.execution.AndroidAppInstance - Launching android app ...
+2017-04-25 00:28:41,829 INFO app.execution.AndroidAppInstance - Configuring android environment...
+2017-04-25 00:28:53,503 INFO app.execution.TestBase - Test result: Failed
+
+2017-04-25 00:28:53,504 INFO app.execution.TestBase - Test is finished, removing the tag [5059fca0-b874-4c4c-987c-ebcc844cef4f]...

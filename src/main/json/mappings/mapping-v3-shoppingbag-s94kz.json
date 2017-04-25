@@ -1,0 +1,30 @@
+{
+  "uuid" : "28e848de-df1a-3ca9-8de1-50dfeac27f66",
+  "request" : {
+    "url" : "/v3/shoppingbag?channelType=MOBILE",
+    "method" : "POST",
+    "bodyPatterns" : [ {
+      "equalToJson" : "{\"item\":{\"itemTrackInfo\":\"cm_sp=-_--_--_--_--_--_--_--_--_--_--_--_--_--_--_-SINGLE ITEM | 2961604-_--_--_--_--_--_--_--_--_--_--_-2961604-_-1-_--_--_--_-0-_--_--_--_--_--_--_--_--_--_--_--_--_--_--_--_--_--_-\",\"quantity\":1,\"trackingCategory\":\"MAPP_onsite_search\",\"upcId\":\"31985447\"}}",
+      "ignoreArrayOrder" : true,
+      "ignoreExtraElements" : true
+    } ]
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-v3-shoppingbag-s94kz.json",
+    "headers" : {
+      "X-Mashery-Responder" : "prod-j-worker-lax-01.mashery.com",
+      "X-Mashery-Message-ID" : "062018e9-201a-4cc8-abce-cb24924655f7",
+      "Server" : "Apache-Coyote/1.1",
+      "X-Macys-Log" : "SDPT='0' UCT='0' GUID='' UID='' TOKEN='GUEST'",
+      "X-Macys-ClientId" : "iShop_Android",
+      "X-Macys-RequestId" : "062018e9-201a-4cc8-abce-cb24924655f7",
+      "Content-Type" : "application/json",
+      "Date" : "Mon, 08 Aug 2016 15:59:52 GMT",
+      "Vary" : "Accept-Encoding",
+      "access-control-allow-origin" : "m.macys.com",
+      "Connection" : "Keep-Alive",
+      "Age" : "0"
+    }
+  }
+}

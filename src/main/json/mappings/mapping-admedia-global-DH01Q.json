@@ -1,0 +1,23 @@
+{
+  "uuid" : "a0563673-4f62-310a-b856-de4c6b520ef9",
+  "request" : {
+    "url" : "/v3/admedia/global?poolName=APP_HS_BANNER_ADS_IOS&",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-admedia-global-DH01Q.json",
+    "headers" : {
+      "X-Mashery-Responder" : "prod-j-worker-lax-01.mashery.com",
+      "X-Mashery-Message-ID" : "86708782-d935-4bd9-aa06-98f39e1cc48c",
+      "X-Macys-RequestId" : "86708782-d935-4bd9-aa06-98f39e1cc48c",
+      "Content-Type" : "application/json;charset=utf-8",
+      "Server" : "Mashery Proxy",
+      "Date" : "Thu, 21 Jul 2016 16:05:45 GMT",
+      "Vary" : "Accept-Encoding",
+      "access-control-allow-origin" : "m.macys.com",
+      "Connection" : "Keep-Alive",
+      "Age" : "0"
+    }
+  }
+}

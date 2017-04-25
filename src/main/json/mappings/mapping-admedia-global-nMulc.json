@@ -1,0 +1,23 @@
+{
+  "uuid" : "098a9004-d20a-3662-9c23-a01080c3a978",
+  "request" : {
+    "url" : "/v3/admedia/global?poolName=SHOPPING_BAG_SHIPPING_BANNER_MEW",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-admedia-global-nMulc.json",
+    "headers" : {
+      "X-Mashery-Responder" : "prod-j-worker-lax-01.mashery.com",
+      "X-Mashery-Message-ID" : "735a22a5-1895-4fb9-a8f3-df6d02dbab1d",
+      "X-Macys-RequestId" : "735a22a5-1895-4fb9-a8f3-df6d02dbab1d",
+      "Content-Type" : "application/json;charset=utf-8",
+      "Server" : "Mashery Proxy",
+      "Date" : "Mon, 08 Aug 2016 15:59:54 GMT",
+      "Vary" : "Accept-Encoding",
+      "access-control-allow-origin" : "m.macys.com",
+      "Connection" : "Keep-Alive",
+      "Age" : "0"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid" : "0cd5b78f-7819-3b79-91b2-6e0f341389b8",
+  "request" : {
+    "urlPath" : "/v3/catalog/category/25300/browseproducts",
+    "queryParameters" : {
+      "currentpage" : {
+        "equalTo" : "1"
+      }
+    },
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-25300-browseproducts-EQalL.json",
+    "headers" : {
+      "X-Mashery-Responder" : "prod-j-worker-lax-03.mashery.com",
+      "X-Mashery-Message-ID" : "608eaad9-3726-47ea-a278-6a5a045e5306",
+      "X-Macys-RequestId" : "608eaad9-3726-47ea-a278-6a5a045e5306",
+      "Content-Type" : "application/json;charset=utf-8",
+      "Server" : "Mashery Proxy",
+      "Date" : "Mon, 08 Aug 2016 15:14:46 GMT",
+      "Vary" : "Accept-Encoding",
+      "access-control-allow-origin" : "m.macys.com",
+      "Connection" : "Keep-Alive",
+      "Age" : "0"
+    }
+  }
+}
