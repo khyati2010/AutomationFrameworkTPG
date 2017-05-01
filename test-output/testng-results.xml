@@ -2,98 +2,98 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="50857" started-at="2017-04-25T06:25:47Z" finished-at="2017-04-25T06:26:38Z">
+  <suite name="Default suite" duration-ms="49170" started-at="2017-04-28T14:37:16Z" finished-at="2017-04-28T14:38:05Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="50857" started-at="2017-04-25T06:25:47Z" finished-at="2017-04-25T06:26:38Z">
-      <class name="com.macys.test.system.app.IntroScreenTest">
-        <test-method status="PASS" signature="suiteInit()[pri:0, instance:com.macys.test.system.app.IntroScreenTest@28194a50]" name="suiteInit" is-config="true" duration-ms="708" started-at="2017-04-25T11:55:46Z" finished-at="2017-04-25T11:55:47Z">
+    <test name="Default test" duration-ms="49170" started-at="2017-04-28T14:37:16Z" finished-at="2017-04-28T14:38:05Z">
+      <class name="com.iambank.test.system.app.IntroScreenTest">
+        <test-method status="PASS" signature="suiteInit()[pri:0, instance:com.iambank.test.system.app.IntroScreenTest@2254127a]" name="suiteInit" is-config="true" duration-ms="835" started-at="2017-04-28T20:07:15Z" finished-at="2017-04-28T20:07:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- suiteInit -->
-        <test-method status="PASS" signature="springTestContextBeforeTestClass()[pri:0, instance:com.macys.test.system.app.IntroScreenTest@28194a50]" name="springTestContextBeforeTestClass" is-config="true" duration-ms="1" started-at="2017-04-25T11:55:47Z" finished-at="2017-04-25T11:55:47Z">
+        <test-method status="PASS" signature="springTestContextBeforeTestClass()[pri:0, instance:com.iambank.test.system.app.IntroScreenTest@2254127a]" name="springTestContextBeforeTestClass" is-config="true" duration-ms="2" started-at="2017-04-28T20:07:16Z" finished-at="2017-04-28T20:07:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- springTestContextBeforeTestClass -->
-        <test-method status="PASS" signature="springTestContextPrepareTestInstance()[pri:0, instance:com.macys.test.system.app.IntroScreenTest@28194a50]" name="springTestContextPrepareTestInstance" is-config="true" duration-ms="1" started-at="2017-04-25T11:55:47Z" depends-on-methods="org.springframework.test.context.testng.AbstractTestNGSpringContextTests.springTestContextBeforeTestClass" finished-at="2017-04-25T11:55:47Z">
+        <test-method status="PASS" signature="springTestContextPrepareTestInstance()[pri:0, instance:com.iambank.test.system.app.IntroScreenTest@2254127a]" name="springTestContextPrepareTestInstance" is-config="true" duration-ms="1" started-at="2017-04-28T20:07:16Z" depends-on-methods="org.springframework.test.context.testng.AbstractTestNGSpringContextTests.springTestContextBeforeTestClass" finished-at="2017-04-28T20:07:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- springTestContextPrepareTestInstance -->
-        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:com.macys.test.system.app.IntroScreenTest@28194a50]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2017-04-25T11:55:47Z" finished-at="2017-04-25T11:55:47Z">
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:com.iambank.test.system.app.IntroScreenTest@2254127a]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="2" started-at="2017-04-28T20:07:16Z" finished-at="2017-04-28T20:07:16Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.macys.test.system.app.IntroScreenTest.introScreenTest(com.iambank.app.execution.IAMBankAppInstance) throws java.io.IOException]]>
+                <![CDATA[public void com.iambank.test.system.app.IntroScreenTest.introScreenTest(com.iambank.app.execution.IAMBankAppInstance) throws java.io.IOException]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- springTestContextBeforeTestMethod -->
-        <test-method status="PASS" signature="baseSetup(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.macys.test.system.app.IntroScreenTest@28194a50]" name="baseSetup" is-config="true" duration-ms="251" started-at="2017-04-25T11:55:47Z" finished-at="2017-04-25T11:55:47Z">
+        <test-method status="PASS" signature="baseSetup(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.iambank.test.system.app.IntroScreenTest@2254127a]" name="baseSetup" is-config="true" duration-ms="309" started-at="2017-04-28T20:07:16Z" finished-at="2017-04-28T20:07:16Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.macys.test.system.app.IntroScreenTest.introScreenTest(com.iambank.app.execution.IAMBankAppInstance) throws java.io.IOException]]>
+                <![CDATA[public void com.iambank.test.system.app.IntroScreenTest.introScreenTest(com.iambank.app.execution.IAMBankAppInstance) throws java.io.IOException]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[[Ljava.lang.Object;@3e8f7922]]>
+                <![CDATA[[Ljava.lang.Object;@45efc20d]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- baseSetup -->
-        <test-method status="PASS" signature="introScreenTest(com.iambank.app.execution.IAMBankAppInstance)[pri:0, instance:com.macys.test.system.app.IntroScreenTest@28194a50]" name="introScreenTest" duration-ms="45063" started-at="2017-04-25T11:55:47Z" data-provider="defaultConfig" finished-at="2017-04-25T11:56:32Z">
+        <test-method status="PASS" signature="introScreenTest(com.iambank.app.execution.IAMBankAppInstance)[pri:0, instance:com.iambank.test.system.app.IntroScreenTest@2254127a]" name="introScreenTest" duration-ms="43442" started-at="2017-04-28T20:07:16Z" data-provider="defaultConfig" finished-at="2017-04-28T20:08:00Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[com.iambank.app.execution.AndroidAppInstance@771d767a]]>
+                <![CDATA[com.iambank.app.execution.AndroidAppInstance@3771b44f]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- introScreenTest -->
-        <test-method status="PASS" signature="baseCleanup(org.testng.ITestContext, org.testng.ITestResult, [Ljava.lang.Object;)[pri:0, instance:com.macys.test.system.app.IntroScreenTest@28194a50]" name="baseCleanup" is-config="true" duration-ms="5499" started-at="2017-04-25T11:56:33Z" finished-at="2017-04-25T11:56:38Z">
+        <test-method status="PASS" signature="baseCleanup(org.testng.ITestContext, org.testng.ITestResult, [Ljava.lang.Object;)[pri:0, instance:com.iambank.test.system.app.IntroScreenTest@2254127a]" name="baseCleanup" is-config="true" duration-ms="5367" started-at="2017-04-28T20:08:00Z" finished-at="2017-04-28T20:08:05Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@63192798]]>
+                <![CDATA[org.testng.TestRunner@3e5499cc]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[[TestResult name=introScreenTest status=SUCCESS method=IntroScreenTest.introScreenTest(com.iambank.app.execution.IAMBankAppInstance)[pri:0, instance:com.macys.test.system.app.IntroScreenTest@28194a50] output={null}]]]>
+                <![CDATA[[TestResult name=introScreenTest status=SUCCESS method=IntroScreenTest.introScreenTest(com.iambank.app.execution.IAMBankAppInstance)[pri:0, instance:com.iambank.test.system.app.IntroScreenTest@2254127a] output={null}]]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[[Ljava.lang.Object;@3e8f7922]]>
+                <![CDATA[[Ljava.lang.Object;@45efc20d]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- baseCleanup -->
-        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:com.macys.test.system.app.IntroScreenTest@28194a50]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2017-04-25T11:56:38Z" finished-at="2017-04-25T11:56:38Z">
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:com.iambank.test.system.app.IntroScreenTest@2254127a]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2017-04-28T20:08:05Z" finished-at="2017-04-28T20:08:05Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.macys.test.system.app.IntroScreenTest.introScreenTest(com.iambank.app.execution.IAMBankAppInstance) throws java.io.IOException]]>
+                <![CDATA[public void com.iambank.test.system.app.IntroScreenTest.introScreenTest(com.iambank.app.execution.IAMBankAppInstance) throws java.io.IOException]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- springTestContextAfterTestMethod -->
-        <test-method status="PASS" signature="springTestContextAfterTestClass()[pri:0, instance:com.macys.test.system.app.IntroScreenTest@28194a50]" name="springTestContextAfterTestClass" is-config="true" duration-ms="0" started-at="2017-04-25T11:56:38Z" finished-at="2017-04-25T11:56:38Z">
+        <test-method status="PASS" signature="springTestContextAfterTestClass()[pri:0, instance:com.iambank.test.system.app.IntroScreenTest@2254127a]" name="springTestContextAfterTestClass" is-config="true" duration-ms="0" started-at="2017-04-28T20:08:05Z" finished-at="2017-04-28T20:08:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- springTestContextAfterTestClass -->
-      </class> <!-- com.macys.test.system.app.IntroScreenTest -->
+      </class> <!-- com.iambank.test.system.app.IntroScreenTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

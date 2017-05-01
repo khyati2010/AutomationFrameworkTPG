@@ -7,5 +7,4 @@
 * Timing issues and page operations are encapsulated in the page object rather than scattered throughout tests
 * Tests must go through page objects for UI interaction and are not allowed to interact with webdriver directly
 * Locators and tests remain separate so when locators change the tests do not require any changes
-* Page objects can encapsulate platform differences and site (MCOM / BCOM) differences allowing us to write cross platform tests for both MCOM and BCOM.
 * The object orientated nature of the page object model makes test writing / reading much easier and we can take advantage of a compiled language to avoid runtime errors when changing methods / pages.

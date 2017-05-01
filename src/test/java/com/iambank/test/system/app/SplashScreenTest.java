@@ -1,4 +1,4 @@
-package com.macys.test.system.app;
+package com.iambank.test.system.app;
 
 import com.iambank.app.execution.IAMBankAppInstance;
 import com.iambank.app.execution.AppTestBase;
