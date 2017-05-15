@@ -35,7 +35,7 @@ public abstract class AppBasePage extends BasePage{
 	@AndroidFindBy(id="intro_small_txt") 
 	protected MobileElement intro_txt_small;
 	
-	@AndroidFindBy(id="progress")
+	@AndroidFindBy(id="tv_progress")
 	protected MobileElement introScreenNumber;
 
 

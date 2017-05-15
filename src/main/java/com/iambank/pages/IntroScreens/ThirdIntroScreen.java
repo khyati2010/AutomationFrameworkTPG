@@ -14,12 +14,9 @@ public class ThirdIntroScreen extends AppBasePage {
 		super(driver, driverCapabilities);
 		WebDriverWait wait = new WebDriverWait(driver, 10);
 		wait.until(ExpectedConditions.textToBePresentInElement(nextbutton, "Cool."));
-
-		LOGGER.info("Landed on Third intro screen successfully");
 	}
 	
-	public MarketSelectionScreen clickSkipThisStuffLink() throws InterruptedException
-	{
+	public MarketSelectionScreen clickSkipThisStuffLink() throws InterruptedException {
 		if(skipintroscreens.isEnabled() )
 		{
 			skipintroscreens.click();
@@ -33,45 +30,37 @@ public class ThirdIntroScreen extends AppBasePage {
 		}
 	}
 	
-	public FourthIntroScreen clickThirdIntroNextButton()
-	{
-		if(nextbutton.isEnabled())
-		{
+	public FourthIntroScreen clickThirdIntroNextButton() {
+		if(nextbutton.isEnabled()) {
 			nextbutton.click();
 			return new FourthIntroScreen(getDriver(),getDriverCapabilities());
 		}
-		else
-		{
-			LOGGER.error("Not able to click on Next button to navigate on next screen from Second intro screen");
+		else {
+			LOGGER.error("Not able to click on Next button to navigate on next screen from third intro screen");
 			return null;
 		}
 		
 	}
-	public String getThirdScreenMainDescription()
-	{
+	public String getThirdScreenMainDescription() {
 		return (intro_txt_large.getText());
 		
 	}
 	
-	public String getThirdScreenSmallDescription()
-	{
+	public String getThirdScreenSmallDescription() {
 		return (intro_txt_small.getText());
 		
 	}
 	
-	public String getThirdScreenNextButtonText()
-	{
+	public String getThirdScreenNextButtonText() {
 		return nextbutton.getText();
 		
 	}
 	
-	public String getThirdScreenSkipthisStuffLinkText()
-	{
+	public String getThirdScreenSkipthisStuffLinkText() {
 		return (skipintroscreens.getText());
 	}
 	
-	public String getIntroScreenNumberText()
-	{
+	public String getIntroScreenNumberText() {
 		return (getIntroScreenNumber());
 	}
 

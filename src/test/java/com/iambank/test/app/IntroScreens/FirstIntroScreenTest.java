@@ -1,7 +1,6 @@
 package com.iambank.test.app.IntroScreens;
 
 import java.io.IOException;
-import java.net.MalformedURLException;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import com.iambank.execution.app.IAMBankAppInstance;
@@ -12,7 +11,7 @@ import com.iambank.pages.OnBoardingScreens.*;
 public class FirstIntroScreenTest extends AppTestBase{
 	
 	@Test(dataProvider =DEFAULT_PROVIDER, priority = 1 )
-	public void testSecondScreenTexts(IAMBankAppInstance app) throws IOException, InterruptedException
+	public void testFirstScreenTexts(IAMBankAppInstance app) throws IOException, InterruptedException
 	{	
 		FirstIntroScreen firstintroscreen = moveToWelcomeScreen(app);
 		Assert.assertEquals(firstintroscreen.getFirstScreenMainDescription(), "We never charge negative fees.");		
@@ -37,12 +36,9 @@ public class FirstIntroScreenTest extends AppTestBase{
 		 FirstIntroScreen firstintroscreen = moveToWelcomeScreen(app);
 		 MarketSelectionScreen marketscreen = firstintroscreen.clickSkipThisStuffLink();
 		 Assert.assertTrue(marketscreen.getTitle().contains(marketscreen.expectedScreenTitle()));
-		// Assert.assertEquals(marketscreen.getIntroScreenNumberText(), "STEP 0 OF 6");
-		   
-		  
+			  
 	  }
 	
-	@Test(dataProvider =DEFAULT_PROVIDER)
 	public FirstIntroScreen moveToWelcomeScreen(IAMBankAppInstance app) throws IOException, InterruptedException
 	{
 		WelcomeScreen welcomescreen = app.startApp().movetoWelcomeScreen();

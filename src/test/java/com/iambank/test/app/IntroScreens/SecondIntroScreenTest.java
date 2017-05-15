@@ -34,11 +34,10 @@ public class SecondIntroScreenTest extends AppTestBase{
 		 SecondIntroScreen secondscreen = moveToSecondScreen(app);
 		 MarketSelectionScreen marketscreen = secondscreen.clickSkipThisStuffLink();
 		 Assert.assertTrue(marketscreen.getTitle().contains(marketscreen.expectedScreenTitle()));
-		 //Assert.assertEquals(marketscreen.getIntroScreenNumberText(), "STEP 0 OF 6");		  
+			  
 	  }
 	
-	@Test(dataProvider = DEFAULT_PROVIDER)
-	public SecondIntroScreen moveToSecondScreen(IAMBankAppInstance app) throws IOException, InterruptedException{
+		public SecondIntroScreen moveToSecondScreen(IAMBankAppInstance app) throws IOException, InterruptedException{
 		WelcomeScreen welcomescreen = app.startApp().movetoWelcomeScreen();
 		FirstIntroScreen firstscreen= welcomescreen.clickWelcomeScreenNextButton();
 		return(firstscreen.clickFirstIntroNextButton());	

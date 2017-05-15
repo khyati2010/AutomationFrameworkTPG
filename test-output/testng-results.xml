@@ -1,99 +1,239 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="174036" started-at="2017-05-11T14:53:11Z" finished-at="2017-05-11T14:56:05Z">
+  <suite name="Default suite" duration-ms="227389" started-at="2017-05-15T10:58:08Z" finished-at="2017-05-15T11:01:55Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="174036" started-at="2017-05-11T14:53:11Z" finished-at="2017-05-11T14:56:05Z">
-      <class name="com.iambank.test.app.SprintDemo.Sprint2DemoTest">
-        <test-method status="PASS" signature="suiteInit()[pri:0, instance:com.iambank.test.app.SprintDemo.Sprint2DemoTest@f107c50]" name="suiteInit" is-config="true" duration-ms="929" started-at="2017-05-11T20:23:10Z" finished-at="2017-05-11T20:23:11Z">
+    <test name="Default test" duration-ms="227389" started-at="2017-05-15T10:58:08Z" finished-at="2017-05-15T11:01:55Z">
+      <class name="com.iambank.test.app.IntroScreens.FourthIntroScreenTest">
+        <test-method status="PASS" signature="suiteInit()[pri:0, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="suiteInit" is-config="true" duration-ms="387" started-at="2017-05-15T16:28:07Z" finished-at="2017-05-15T16:28:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- suiteInit -->
-        <test-method status="PASS" signature="springTestContextBeforeTestClass()[pri:0, instance:com.iambank.test.app.SprintDemo.Sprint2DemoTest@f107c50]" name="springTestContextBeforeTestClass" is-config="true" duration-ms="1" started-at="2017-05-11T20:23:11Z" finished-at="2017-05-11T20:23:11Z">
+        <test-method status="PASS" signature="springTestContextBeforeTestClass()[pri:0, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="springTestContextBeforeTestClass" is-config="true" duration-ms="1" started-at="2017-05-15T16:28:08Z" finished-at="2017-05-15T16:28:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- springTestContextBeforeTestClass -->
-        <test-method status="PASS" signature="springTestContextPrepareTestInstance()[pri:0, instance:com.iambank.test.app.SprintDemo.Sprint2DemoTest@f107c50]" name="springTestContextPrepareTestInstance" is-config="true" duration-ms="0" started-at="2017-05-11T20:23:11Z" depends-on-methods="org.springframework.test.context.testng.AbstractTestNGSpringContextTests.springTestContextBeforeTestClass" finished-at="2017-05-11T20:23:11Z">
+        <test-method status="PASS" signature="springTestContextPrepareTestInstance()[pri:0, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="springTestContextPrepareTestInstance" is-config="true" duration-ms="0" started-at="2017-05-15T16:28:08Z" depends-on-methods="org.springframework.test.context.testng.AbstractTestNGSpringContextTests.springTestContextBeforeTestClass" finished-at="2017-05-15T16:28:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- springTestContextPrepareTestInstance -->
-        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:com.iambank.test.app.SprintDemo.Sprint2DemoTest@f107c50]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2017-05-11T20:23:11Z" finished-at="2017-05-11T20:23:11Z">
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2017-05-15T16:28:08Z" finished-at="2017-05-15T16:28:08Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.iambank.test.app.SprintDemo.Sprint2DemoTest.verifyNextButtonClick(com.iambank.execution.app.IAMBankAppInstance) throws java.lang.Exception]]>
+                <![CDATA[public void com.iambank.test.app.IntroScreens.FourthIntroScreenTest.testThirdScreenTexts(com.iambank.execution.app.IAMBankAppInstance) throws java.io.IOException,java.lang.InterruptedException]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- springTestContextBeforeTestMethod -->
-        <test-method status="PASS" signature="baseSetup(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.iambank.test.app.SprintDemo.Sprint2DemoTest@f107c50]" name="baseSetup" is-config="true" duration-ms="335" started-at="2017-05-11T20:23:11Z" finished-at="2017-05-11T20:23:11Z">
+        <test-method status="PASS" signature="baseSetup(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="baseSetup" is-config="true" duration-ms="158" started-at="2017-05-15T16:28:08Z" finished-at="2017-05-15T16:28:08Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.iambank.test.app.SprintDemo.Sprint2DemoTest.verifyNextButtonClick(com.iambank.execution.app.IAMBankAppInstance) throws java.lang.Exception]]>
+                <![CDATA[public void com.iambank.test.app.IntroScreens.FourthIntroScreenTest.testThirdScreenTexts(com.iambank.execution.app.IAMBankAppInstance) throws java.io.IOException,java.lang.InterruptedException]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[[Ljava.lang.Object;@51df223b]]>
+                <![CDATA[[Ljava.lang.Object;@464649c]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- baseSetup -->
-        <test-method status="PASS" signature="verifyNextButtonClick(com.iambank.execution.app.IAMBankAppInstance)[pri:0, instance:com.iambank.test.app.SprintDemo.Sprint2DemoTest@f107c50]" name="verifyNextButtonClick" duration-ms="169188" started-at="2017-05-11T20:23:11Z" data-provider="defaultConfig" finished-at="2017-05-11T20:26:01Z">
+        <test-method status="PASS" signature="testThirdScreenTexts(com.iambank.execution.app.IAMBankAppInstance)[pri:1, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="testThirdScreenTexts" duration-ms="64540" started-at="2017-05-15T16:28:08Z" data-provider="defaultConfig" finished-at="2017-05-15T16:29:12Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[com.iambank.execution.app.AndroidAppInstance@28789232]]>
+                <![CDATA[com.iambank.execution.app.AndroidAppInstance@4f377c77]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyNextButtonClick -->
-        <test-method status="PASS" signature="baseCleanup(org.testng.ITestContext, org.testng.ITestResult, [Ljava.lang.Object;)[pri:0, instance:com.iambank.test.app.SprintDemo.Sprint2DemoTest@f107c50]" name="baseCleanup" is-config="true" duration-ms="4460" started-at="2017-05-11T20:26:01Z" finished-at="2017-05-11T20:26:05Z">
+        </test-method> <!-- testThirdScreenTexts -->
+        <test-method status="PASS" signature="baseCleanup(org.testng.ITestContext, org.testng.ITestResult, [Ljava.lang.Object;)[pri:0, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="baseCleanup" is-config="true" duration-ms="8540" started-at="2017-05-15T16:29:12Z" finished-at="2017-05-15T16:29:21Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@fd46303]]>
+                <![CDATA[org.testng.TestRunner@7c22d4f]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[[TestResult name=verifyNextButtonClick status=SUCCESS method=Sprint2DemoTest.verifyNextButtonClick(com.iambank.execution.app.IAMBankAppInstance)[pri:0, instance:com.iambank.test.app.SprintDemo.Sprint2DemoTest@f107c50] output={null}]]]>
+                <![CDATA[[TestResult name=testThirdScreenTexts status=SUCCESS method=FourthIntroScreenTest.testThirdScreenTexts(com.iambank.execution.app.IAMBankAppInstance)[pri:1, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651] output={null}]]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[[Ljava.lang.Object;@51df223b]]>
+                <![CDATA[[Ljava.lang.Object;@464649c]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- baseCleanup -->
-        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:com.iambank.test.app.SprintDemo.Sprint2DemoTest@f107c50]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2017-05-11T20:26:05Z" finished-at="2017-05-11T20:26:05Z">
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2017-05-15T16:29:21Z" finished-at="2017-05-15T16:29:21Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.iambank.test.app.SprintDemo.Sprint2DemoTest.verifyNextButtonClick(com.iambank.execution.app.IAMBankAppInstance) throws java.lang.Exception]]>
+                <![CDATA[public void com.iambank.test.app.IntroScreens.FourthIntroScreenTest.testThirdScreenTexts(com.iambank.execution.app.IAMBankAppInstance) throws java.io.IOException,java.lang.InterruptedException]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- springTestContextAfterTestMethod -->
-        <test-method status="PASS" signature="springTestContextAfterTestClass()[pri:0, instance:com.iambank.test.app.SprintDemo.Sprint2DemoTest@f107c50]" name="springTestContextAfterTestClass" is-config="true" duration-ms="1" started-at="2017-05-11T20:26:05Z" finished-at="2017-05-11T20:26:05Z">
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2017-05-15T16:29:21Z" finished-at="2017-05-15T16:29:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.iambank.test.app.IntroScreens.FourthIntroScreenTest.testNextButtonFunctionality(com.iambank.execution.app.IAMBankAppInstance) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="baseSetup(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="baseSetup" is-config="true" duration-ms="7" started-at="2017-05-15T16:29:21Z" finished-at="2017-05-15T16:29:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.iambank.test.app.IntroScreens.FourthIntroScreenTest.testNextButtonFunctionality(com.iambank.execution.app.IAMBankAppInstance) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@5f59185e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="testNextButtonFunctionality(com.iambank.execution.app.IAMBankAppInstance)[pri:2, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="testNextButtonFunctionality" duration-ms="72322" started-at="2017-05-15T16:29:21Z" data-provider="defaultConfig" finished-at="2017-05-15T16:30:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.iambank.execution.app.AndroidAppInstance@258df868]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNextButtonFunctionality -->
+        <test-method status="PASS" signature="baseCleanup(org.testng.ITestContext, org.testng.ITestResult, [Ljava.lang.Object;)[pri:0, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="baseCleanup" is-config="true" duration-ms="8431" started-at="2017-05-15T16:30:33Z" finished-at="2017-05-15T16:30:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c22d4f]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=testNextButtonFunctionality status=SUCCESS method=FourthIntroScreenTest.testNextButtonFunctionality(com.iambank.execution.app.IAMBankAppInstance)[pri:2, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651] output={null}]]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@5f59185e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseCleanup -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2017-05-15T16:30:42Z" finished-at="2017-05-15T16:30:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.iambank.test.app.IntroScreens.FourthIntroScreenTest.testNextButtonFunctionality(com.iambank.execution.app.IAMBankAppInstance) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2017-05-15T16:30:42Z" finished-at="2017-05-15T16:30:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.iambank.test.app.IntroScreens.FourthIntroScreenTest.testSignInLink(com.iambank.execution.app.IAMBankAppInstance) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="baseSetup(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="baseSetup" is-config="true" duration-ms="15" started-at="2017-05-15T16:30:42Z" finished-at="2017-05-15T16:30:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.iambank.test.app.IntroScreens.FourthIntroScreenTest.testSignInLink(com.iambank.execution.app.IAMBankAppInstance) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@60bdf15d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="testSignInLink(com.iambank.execution.app.IAMBankAppInstance)[pri:3, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="testSignInLink" duration-ms="64884" started-at="2017-05-15T16:30:42Z" data-provider="defaultConfig" finished-at="2017-05-15T16:31:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.iambank.execution.app.AndroidAppInstance@6ad398a6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignInLink -->
+        <test-method status="PASS" signature="baseCleanup(org.testng.ITestContext, org.testng.ITestResult, [Ljava.lang.Object;)[pri:0, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="baseCleanup" is-config="true" duration-ms="8449" started-at="2017-05-15T16:31:47Z" finished-at="2017-05-15T16:31:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c22d4f]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=testSignInLink status=SUCCESS method=FourthIntroScreenTest.testSignInLink(com.iambank.execution.app.IAMBankAppInstance)[pri:3, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651] output={null}]]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@60bdf15d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseCleanup -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2017-05-15T16:31:55Z" finished-at="2017-05-15T16:31:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.iambank.test.app.IntroScreens.FourthIntroScreenTest.testSignInLink(com.iambank.execution.app.IAMBankAppInstance) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextAfterTestClass()[pri:0, instance:com.iambank.test.app.IntroScreens.FourthIntroScreenTest@4b213651]" name="springTestContextAfterTestClass" is-config="true" duration-ms="0" started-at="2017-05-15T16:31:55Z" finished-at="2017-05-15T16:31:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- springTestContextAfterTestClass -->
-      </class> <!-- com.iambank.test.app.SprintDemo.Sprint2DemoTest -->
+      </class> <!-- com.iambank.test.app.IntroScreens.FourthIntroScreenTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

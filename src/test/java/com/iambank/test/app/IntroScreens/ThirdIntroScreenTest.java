@@ -11,7 +11,7 @@ import com.iambank.pages.OnBoardingScreens.MarketSelectionScreen;
 public class ThirdIntroScreenTest extends AppTestBase{
 	
 	@Test(dataProvider = DEFAULT_PROVIDER , priority = 1)
-	public void testSecondScreenTexts(IAMBankAppInstance app) throws IOException, InterruptedException {
+	public void testThirdScreenTexts(IAMBankAppInstance app) throws IOException, InterruptedException {
 		ThirdIntroScreen thirdscreen = moveToSecondScreen(app);
 		Assert.assertEquals(thirdscreen.getThirdScreenMainDescription(), "We have actual people you can talk to.");
 		Assert.assertEquals(thirdscreen.getThirdScreenSmallDescription(), "A novel idea, but we hate talking to machines too.");	
@@ -35,13 +35,10 @@ public class ThirdIntroScreenTest extends AppTestBase{
 		 ThirdIntroScreen thirdscreen = moveToSecondScreen(app);
 		 MarketSelectionScreen marketscreen = thirdscreen.clickSkipThisStuffLink();
 		 Assert.assertTrue(marketscreen.getTitle().contains(marketscreen.expectedScreenTitle()));
-		// Assert.assertEquals(marketscreen.getIntroScreenNumberText(), "STEP 0 OF 6");
-		   
 		  
 	  }
 	
-	@Test(dataProvider = DEFAULT_PROVIDER)
-	public ThirdIntroScreen moveToSecondScreen(IAMBankAppInstance app) throws IOException, InterruptedException{
+		public ThirdIntroScreen moveToSecondScreen(IAMBankAppInstance app) throws IOException, InterruptedException{
 		WelcomeScreen welcomescreen = app.startApp().movetoWelcomeScreen();
 		FirstIntroScreen firstscreen= welcomescreen.clickWelcomeScreenNextButton();
 		SecondIntroScreen secondscreen = firstscreen.clickFirstIntroNextButton();
