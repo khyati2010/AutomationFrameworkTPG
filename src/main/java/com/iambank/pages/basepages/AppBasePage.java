@@ -1,0 +1,77 @@
+package com.iambank.pages.basepages;
+
+import io.appium.java_client.AppiumDriver;
+import io.appium.java_client.MobileElement;
+import io.appium.java_client.pagefactory.AndroidFindBy;
+import com.iambank.configuration.app.AppiumCapabilities;
+import com.iambank.configuration.framework.ScreenTitles;
+
+public abstract class AppBasePage extends BasePage{
+
+	@AndroidFindBy(id = "intro_big_txt")
+	protected MobileElement screenTitle;
+
+	@AndroidFindBy(id = "bottom_btn_name")
+	protected MobileElement nextButton;
+	
+	@AndroidFindBy(id = "supportIcon")
+	protected MobileElement supportIcon;
+	
+	@AndroidFindBy(id = "why_txt")
+	protected MobileElement whyText;
+	
+	@AndroidFindBy(id = "sign_in_txt")
+	protected MobileElement signInText;
+	
+	@AndroidFindBy(id="bottom_btn")
+	protected MobileElement nextbutton;
+	
+	@AndroidFindBy(id="bottom_text")
+	protected MobileElement skipintroscreens;
+			
+	@AndroidFindBy(id="intro_big_txt")
+	protected MobileElement intro_txt_large;
+	
+	@AndroidFindBy(id="intro_small_txt") 
+	protected MobileElement intro_txt_small;
+	
+	@AndroidFindBy(id="progress")
+	protected MobileElement introScreenNumber;
+
+
+	protected AppBasePage(AppiumDriver<MobileElement> driver, AppiumCapabilities driverCapabilities) {
+		super(driver, driverCapabilities);
+	}
+	
+	protected AppBasePage(AppiumDriver<MobileElement> driver, AppiumCapabilities driverCapabilities, boolean skipIntro) {
+		super(driver, driverCapabilities);
+	}
+	   
+	protected String expectedScreenTitle (){
+		return ScreenTitles.UNKNOWN.title();
+	}
+	
+    public boolean isSupportIconDisplayed() {
+    	return supportIcon.isDisplayed();
+    }  
+    
+    public boolean isWhyTextDisplayed() {
+    	return whyText.getText().equals("Why?");
+    }  
+    
+    public boolean isSignInTextDisplayed() {
+    	return signInText.getText().equals("Sign in");
+    }  
+    
+    public String getTitle() {
+    	return screenTitle.getText();
+    }  
+    
+    protected String getIntroScreenNumber()
+ 	{
+ 		return (introScreenNumber.getText());
+ 	}
+
+}
+
+

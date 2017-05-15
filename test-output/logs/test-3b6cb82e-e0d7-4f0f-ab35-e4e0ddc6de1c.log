@@ -1,0 +1,17 @@
+2017-05-10 14:00:12,595 INFO execution.test.TestBase - {
+  "AppiumCapabilities" : {
+    "capabilities" : {
+      "version" : "",
+      "javascriptEnabled" : true,
+      "browserName" : "",
+      "platform" : "ANY"
+    },
+    "appName" : "app-debug.apk"
+  }
+}
+2017-05-10 14:00:12,602 INFO execution.test.TestBase - Base setup complete!
+2017-05-10 14:00:12,603 INFO execution.app.AndroidAppInstance - Launching android app ...
+2017-05-10 14:00:12,604 INFO execution.app.AndroidAppInstance - Configuring android environment...
+2017-05-10 14:00:30,820 INFO pages.basepages.BasePage - Navigating to [SplashScreen]...
+2017-05-10 14:00:30,821 INFO pages.basepages.BasePage - Navigating to [MarketSelectionScreen]...
+2017-05-10 14:01:04,279 INFO execution.app.IAMBankAppInstance - Saving screenshot to C:\IAMBank_Android_Automation\android_automation\test-output\screenshots\test-3b6cb82e-e0d7-4f0f-ab35-e4e0ddc6de1c.png...
