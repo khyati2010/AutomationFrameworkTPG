@@ -1,67 +1,43 @@
 package com.iambank.pages.IntroScreens;
 
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
+
 import com.iambank.pages.basepages.AppBasePage;
 import com.iambank.configuration.app.AppiumCapabilities;
-import com.iambank.pages.OnBoardingScreens.*;
-
+import com.iambank.pages.OnBoardingScreens.MarketSelectionScreen;
 import io.appium.java_client.AppiumDriver;
+import io.appium.java_client.MobileElement;
 
 public class ThirdIntroScreen extends AppBasePage {
 
-	public ThirdIntroScreen(AppiumDriver driver, AppiumCapabilities driverCapabilities) {
+	public ThirdIntroScreen(AppiumDriver<MobileElement> driver, AppiumCapabilities driverCapabilities) {
 		super(driver, driverCapabilities);
-		WebDriverWait wait = new WebDriverWait(driver, 10);
-		wait.until(ExpectedConditions.textToBePresentInElement(nextbutton, "Cool."));
+		waitForElement(introNextButton, 10);
 	}
 	
 	public MarketSelectionScreen clickSkipThisStuffLink() throws InterruptedException {
-		if(skipintroscreens.isEnabled() )
-		{
-			skipintroscreens.click();
-			return new MarketSelectionScreen(getDriver(), getDriverCapabilities());
-		}
-		
-		else
-		{
-			LOGGER.error("Not able to click on skip this stuff link");
-			return null;
-		}
+		skipIntroScreens.click();
+		return new MarketSelectionScreen(getDriver(), getDriverCapabilities());		
 	}
 	
-	public FourthIntroScreen clickThirdIntroNextButton() {
-		if(nextbutton.isEnabled()) {
-			nextbutton.click();
-			return new FourthIntroScreen(getDriver(),getDriverCapabilities());
-		}
-		else {
-			LOGGER.error("Not able to click on Next button to navigate on next screen from third intro screen");
-			return null;
-		}
-		
+	public FourthIntroScreen clickThirdIntroNextButton() {		
+		introNextButton.click();
+		return new FourthIntroScreen(getDriver(),getDriverCapabilities());		
 	}
+	
 	public String getThirdScreenMainDescription() {
-		return (intro_txt_large.getText());
-		
+		return (largeText.getText());		
 	}
 	
 	public String getThirdScreenSmallDescription() {
-		return (intro_txt_small.getText());
-		
+		return (smallText.getText());		
 	}
 	
 	public String getThirdScreenNextButtonText() {
-		return nextbutton.getText();
-		
+		return introNextButton.getText();		
 	}
 	
 	public String getThirdScreenSkipthisStuffLinkText() {
-		return (skipintroscreens.getText());
+		return skipIntroScreens.getText();
 	}
 	
-	public String getIntroScreenNumberText() {
-		return (getIntroScreenNumber());
-	}
-
 }

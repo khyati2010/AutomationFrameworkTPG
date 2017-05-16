@@ -5,46 +5,45 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import com.iambank.execution.app.IAMBankAppInstance;
 import com.iambank.execution.test.AppTestBase;
-import com.iambank.pages.IntroScreens.*;
-import com.iambank.pages.OnBoardingScreens.*;
+import com.iambank.pages.IntroScreens.SecondIntroScreen;
+import com.iambank.pages.IntroScreens.FirstIntroScreen;
+import com.iambank.pages.OnBoardingScreens.MarketSelectionScreen;
 
 public class FirstIntroScreenTest extends AppTestBase{
-	
-	@Test(dataProvider =DEFAULT_PROVIDER, priority = 1 )
-	public void testFirstScreenTexts(IAMBankAppInstance app) throws IOException, InterruptedException
-	{	
-		FirstIntroScreen firstintroscreen = moveToWelcomeScreen(app);
-		Assert.assertEquals(firstintroscreen.getFirstScreenMainDescription(), "We never charge negative fees.");		
-		Assert.assertEquals(firstintroscreen.getFirstScreenSmallDescription(), "Ever.");	
-		Assert.assertEquals(firstintroscreen.getFirstScreenNextButtonText(), "Seems straightforward.");       	
-       	Assert.assertEquals(firstintroscreen.getFirstScreenSkipthisStuffLinkText(), "Skip this stuff");       	
-       	Assert.assertEquals(firstintroscreen.getIntroScreenNumberText(), "1 OF 4"); 
+		
+	@Test(dataProvider =DEFAULT_PROVIDER)
+	public void testFirstIntroScreenUI(IAMBankAppInstance app) throws IOException, InterruptedException {	
+		
+		FirstIntroScreen firstIntroScreen = moveToWelcomeScreen(app);
+		Assert.assertEquals(firstIntroScreen.getFirstScreenMainDescription(), "We never charge negative fees.");		
+		Assert.assertEquals(firstIntroScreen.getFirstScreenSmallDescription(), "Ever.");	
+		Assert.assertEquals(firstIntroScreen.getFirstScreenNextButtonText(), "Seems straightforward.");       	
+       	Assert.assertEquals(firstIntroScreen.getFirstScreenSkipthisStuffLinkText(), "Skip this stuff");       	
+       	Assert.assertEquals(firstIntroScreen.getIntroScreenNumber(), "1 OF 4"); 
 	}
 	
-	@Test(dataProvider = DEFAULT_PROVIDER , priority = 2 )
-	  public void testNextButtonFunctionality(IAMBankAppInstance app ) throws IOException, InterruptedException
-	  {
-		FirstIntroScreen firstintroscreen = moveToWelcomeScreen(app);
-		SecondIntroScreen secondscreen = firstintroscreen.clickFirstIntroNextButton();
-		Assert.assertEquals(secondscreen.getIntroScreenNumberText(), "2 OF 4");
-		  
-	  }
-	
-	 @Test(dataProvider = DEFAULT_PROVIDER , priority = 3)
-	  public void testSkipintroscreenFunctionality(IAMBankAppInstance app ) throws IOException, InterruptedException
-	  {
-		 FirstIntroScreen firstintroscreen = moveToWelcomeScreen(app);
-		 MarketSelectionScreen marketscreen = firstintroscreen.clickSkipThisStuffLink();
-		 Assert.assertTrue(marketscreen.getTitle().contains(marketscreen.expectedScreenTitle()));
-			  
-	  }
-	
-	public FirstIntroScreen moveToWelcomeScreen(IAMBankAppInstance app) throws IOException, InterruptedException
-	{
-		WelcomeScreen welcomescreen = app.startApp().movetoWelcomeScreen();
+	@Test(dataProvider = DEFAULT_PROVIDER)
+	  public void testNextButtonFunctionality(IAMBankAppInstance app ) throws IOException, InterruptedException {
 		
-		return(welcomescreen.clickWelcomeScreenNextButton());
+		SecondIntroScreen secondScreen = moveToWelcomeScreen(app)
+				.clickFirstIntroNextButton();
+		Assert.assertEquals(secondScreen.getIntroScreenNumber(), "2 OF 4");		  
+	 }
+	
+	 @Test(dataProvider = DEFAULT_PROVIDER)
+	  public void testSkipintroscreenFunctionality(IAMBankAppInstance app ) throws IOException, InterruptedException {
+		 
+		 MarketSelectionScreen marketScreen = moveToWelcomeScreen(app)		 
+				 .clickSkipThisStuffLink();
+		 Assert.assertTrue(marketScreen.getTitle().contains(marketScreen.expectedScreenTitle()));			  
+	 }
+	
+	public FirstIntroScreen moveToWelcomeScreen(IAMBankAppInstance app) throws IOException, InterruptedException {
 		
+		FirstIntroScreen firstScreen = app.startApp()
+				.movetoWelcomeScreen()
+				.clickWelcomeScreenNextButton();										
+		return firstScreen;
 	}
 		
-	}
+}

@@ -3,6 +3,8 @@ package com.iambank.pages.basepages;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import com.iambank.configuration.app.AppiumCapabilities;
 import com.iambank.configuration.framework.ScreenTitles;
 
@@ -24,19 +26,19 @@ public abstract class AppBasePage extends BasePage{
 	protected MobileElement signInText;
 	
 	@AndroidFindBy(id="bottom_btn")
-	protected MobileElement nextbutton;
+	protected MobileElement introNextButton;
 	
 	@AndroidFindBy(id="bottom_text")
-	protected MobileElement skipintroscreens;
+	protected MobileElement skipIntroScreens;
 			
 	@AndroidFindBy(id="intro_big_txt")
-	protected MobileElement intro_txt_large;
+	protected MobileElement largeText;
 	
 	@AndroidFindBy(id="intro_small_txt") 
-	protected MobileElement intro_txt_small;
+	protected MobileElement smallText;
 	
 	@AndroidFindBy(id="tv_progress")
-	protected MobileElement introScreenNumber;
+	protected MobileElement screenNumber;
 
 
 	protected AppBasePage(AppiumDriver<MobileElement> driver, AppiumCapabilities driverCapabilities) {
@@ -67,10 +69,19 @@ public abstract class AppBasePage extends BasePage{
     	return screenTitle.getText();
     }  
     
-    protected String getIntroScreenNumber()
+    public String getIntroScreenNumber()
  	{
- 		return (introScreenNumber.getText());
+ 		return screenNumber.getText();
  	}
+    
+    protected void waitForElement(MobileElement element , long waitforseconds){
+    	WebDriverWait wait = new WebDriverWait(getDriver(), waitforseconds);
+    	wait.until(ExpectedConditions.visibilityOf(element));    	
+    }
+    
+    public boolean isElementEnabled(MobileElement element){
+    	return element.isEnabled();
+    }
 
 }
 
