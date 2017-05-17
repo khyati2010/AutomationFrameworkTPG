@@ -18,14 +18,14 @@ public class SecondIntroScreenTest extends AppTestBase{
 		Assert.assertEquals(secondScreen.getSecondScreenSmallDescription(), "At zero cost to you. There are no catches, sorry.");
 		Assert.assertEquals(secondScreen.getSecondScreenNextButtonText(), "I'm listening.");     	
        	Assert.assertEquals(secondScreen.getSecondScreenSkipthisStuffLinkText(), "Skip this stuff");       	
-       	Assert.assertEquals(secondScreen.getIntroScreenNumber(), "2 OF 4");		
+       	Assert.assertEquals(secondScreen.getScreenNumber(), "2 OF 4");		
 	}
 	
 	@Test(dataProvider = DEFAULT_PROVIDER) 
 	  public void testNextButtonFunctionality(IAMBankAppInstance app ) throws IOException, InterruptedException  {
 		ThirdIntroScreen thirdScreen = moveToSecondScreen(app)
 				.clickSecondIntroNextButton();
-		Assert.assertEquals(thirdScreen.getIntroScreenNumber(), "3 OF 4");		  
+		Assert.assertEquals(thirdScreen.getScreenNumber(), "3 OF 4");		  
 	  }
 	
 	 @Test(dataProvider = DEFAULT_PROVIDER)

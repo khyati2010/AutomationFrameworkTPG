@@ -18,7 +18,7 @@ public class FourthIntroScreenTest extends AppTestBase{
 		Assert.assertEquals(fourthScreen.getFourthScreenSmallDescription(), "Applying for an account usually takes 2-3 minutes. Let's go!");	
 		Assert.assertEquals(fourthScreen.getFourthScreenNextButtonText(), "Apply for a new account");  	
        	Assert.assertEquals(fourthScreen.getFourthScreenSignInText(), "I already have an account");    	
-       	Assert.assertEquals(fourthScreen.getIntroScreenNumber(), "4 OF 4");
+       	Assert.assertEquals(fourthScreen.getScreenNumber(), "4 OF 4");
 	}
 	
 	@Test(dataProvider = DEFAULT_PROVIDER)

@@ -1,0 +1,20 @@
+2017-05-17 15:55:44,952 INFO execution.test.TestBase - {
+  "AppiumCapabilities" : {
+    "capabilities" : {
+      "version" : "",
+      "javascriptEnabled" : true,
+      "platform" : "ANY",
+      "browserName" : ""
+    },
+    "appName" : "iambank-0.2.0-debug.apk"
+  }
+}
+2017-05-17 15:55:44,958 INFO execution.test.TestBase - Base setup complete!
+2017-05-17 15:55:44,961 INFO execution.app.AndroidAppInstance - Launching android app ...
+2017-05-17 15:55:44,962 INFO execution.app.AndroidAppInstance - Configuring android environment...
+2017-05-17 15:56:21,541 INFO pages.basepages.BasePage - Navigating to [SplashScreen]...
+2017-05-17 15:56:31,650 INFO pages.basepages.BasePage - Navigating to [USAddressScreen]...
+2017-05-17 15:56:44,059 INFO execution.app.IAMBankAppInstance - Cleaning up Appium driver...
+2017-05-17 15:56:49,843 INFO execution.test.TestBase - Test result: Passed
+
+2017-05-17 15:56:49,844 INFO execution.test.TestBase - Test is finished, removing the tag [4d091af6-9f9d-497f-b061-94a4d67d539f]...

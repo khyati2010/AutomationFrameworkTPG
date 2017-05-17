@@ -19,7 +19,7 @@ public class FirstIntroScreenTest extends AppTestBase{
 		Assert.assertEquals(firstIntroScreen.getFirstScreenSmallDescription(), "Ever.");	
 		Assert.assertEquals(firstIntroScreen.getFirstScreenNextButtonText(), "Seems straightforward.");       	
        	Assert.assertEquals(firstIntroScreen.getFirstScreenSkipthisStuffLinkText(), "Skip this stuff");       	
-       	Assert.assertEquals(firstIntroScreen.getIntroScreenNumber(), "1 OF 4"); 
+       	Assert.assertEquals(firstIntroScreen.getScreenNumber(), "1 OF 4"); 
 	}
 	
 	@Test(dataProvider = DEFAULT_PROVIDER)
@@ -27,7 +27,7 @@ public class FirstIntroScreenTest extends AppTestBase{
 		
 		SecondIntroScreen secondScreen = moveToWelcomeScreen(app)
 				.clickFirstIntroNextButton();
-		Assert.assertEquals(secondScreen.getIntroScreenNumber(), "2 OF 4");		  
+		Assert.assertEquals(secondScreen.getScreenNumber(), "2 OF 4");		  
 	 }
 	
 	 @Test(dataProvider = DEFAULT_PROVIDER)

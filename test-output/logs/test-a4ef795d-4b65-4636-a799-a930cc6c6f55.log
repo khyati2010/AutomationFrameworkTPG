@@ -1,0 +1,14 @@
+2017-05-17 14:09:38,066 INFO execution.test.TestBase - {
+  "AppiumCapabilities" : {
+    "capabilities" : {
+      "version" : "",
+      "platform" : "ANY",
+      "browserName" : "",
+      "javascriptEnabled" : true
+    },
+    "appName" : "iambank-0.2.0-debug.apk"
+  }
+}
+2017-05-17 14:09:38,073 INFO execution.test.TestBase - Base setup complete!
+2017-05-17 14:09:38,077 INFO execution.app.AndroidAppInstance - Launching android app ...
+2017-05-17 14:09:38,078 INFO execution.app.AndroidAppInstance - Configuring android environment...

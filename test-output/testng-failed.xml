@@ -3,19 +3,19 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.iambank.test.app.SprintDemo.Sprint2DemoTest">
+      <class name="com.iambank.test.app.OnBoardingScreens.USAddressScreenTest">
         <methods>
           <include name="springTestContextBeforeTestClass"/>
-          <include name="verifyNextButtonClick" invocation-numbers="0"/>
           <include name="baseCleanup"/>
           <include name="suiteInit"/>
+          <include name="verifyNextButtonClick" invocation-numbers="0"/>
           <include name="springTestContextPrepareTestInstance"/>
           <include name="springTestContextAfterTestClass"/>
           <include name="springTestContextBeforeTestMethod"/>
           <include name="springTestContextAfterTestMethod"/>
           <include name="baseSetup"/>
         </methods>
-      </class> <!-- com.iambank.test.app.SprintDemo.Sprint2DemoTest -->
+      </class> <!-- com.iambank.test.app.OnBoardingScreens.USAddressScreenTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -18,7 +18,13 @@ public class SSNScreen extends AppBasePage{
 	protected SSNScreen(AppiumDriver<MobileElement> driver, AppiumCapabilities driverCapabilities) {
 		super(driver, driverCapabilities);
 		// TODO Auto-generated constructor stub
-		waitForElement(ssnTextBox, 10);	
+		try {
+			Thread.sleep(20000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+//		waitForElement(ssnTextBox, 10);	
 	}
 	
 	@Override
@@ -31,13 +37,29 @@ public class SSNScreen extends AppBasePage{
 		return this;
 	}
 	
-	public void clickNextButton() {
-		nextButton.click();		
+	public USAddressScreen clickNextButton() {
+		nextButton.click();	
+		return new USAddressScreen(getDriver(), getDriverCapabilities());
 	}
 	
 	public void clickUploadDocument() {
 		uploadDocumentLink.click();		
 	}
+	
+	public String getLargeText() {
+		return largeText.getText();
+	}
+	
+	public String getSmallText() {
+		return smallText.getText();
+	}
+	
+	public String getSSNFieldText() {
+		return ssnTextBox.getText();
+	}
 
+	public String getDocumentUploadText() {
+		return uploadDocumentLink.getText();
+	}
 	
 }

@@ -1,5 +1,6 @@
 package com.iambank.pages.OnBoardingScreens;
 
+
 import com.iambank.configuration.app.AppiumCapabilities;
 import com.iambank.configuration.framework.ScreenTitles;
 import com.iambank.pages.basepages.AppBasePage;
@@ -31,7 +32,12 @@ public class USAddressScreen extends AppBasePage{
 
 	public USAddressScreen(AppiumDriver<MobileElement> driver, AppiumCapabilities driverCapabilities) {
 		super(driver, driverCapabilities);
-		waitForElement(zipUS, 10);
+		 try {
+				Thread.sleep(10000);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 	}
 	
 	@Override
@@ -40,62 +46,75 @@ public class USAddressScreen extends AppBasePage{
 	}
 	
 	public USAddressScreen enterAddressLine1(String address1) {
+		addressLine1.click();
 		addressLine1.sendKeys(address1);
+		getDriver().hideKeyboard();
 		return this;
 	}
 	
 	public USAddressScreen enterAddressLine2(String address2) {
+		addressLineOptional.click();
 		addressLineOptional.sendKeys(address2);
+		getDriver().hideKeyboard();
 		return this;
 	}
 	
 	public USAddressScreen enterCity(String city) {
-		cityUS.sendKeys(city);;
+		cityUS.click();
+		cityUS.sendKeys(city);
+		getDriver().hideKeyboard();
 		return this;
 	}
 	
 	public USAddressScreen enterState(String state) {
+		stateUS.click();
 		stateUS.sendKeys(state);
+		getDriver().hideKeyboard();
 		return this;
 	}
 	
 	public USAddressScreen enterZip(String zip) {
+		screenScroll(stateUS, addressLine1);
+		zipUS.click();
 		zipUS.sendKeys(zip);
+		getDriver().hideKeyboard();
 		return this;
 	}
 	
-	public SSNScreen clickNextButton() {
+	public void clickNextButton() {
+		screenScroll(zipUS, cityUS);
 		nextButtonUS.click();
-		return new SSNScreen(getDriver(), getDriverCapabilities());
+//		return new SSNScreen(getDriver(), getDriverCapabilities());
 	}
 	
-	public boolean isLargeTextPresent() {
-		return largeText.getText().equals("Where do you live?");
+	public String getLargeText() {
+		return largeText.getText();
 	}
 	
-	public boolean isSmallTextPresent() {
-		return smallText.getText().equals("So we can send you a shiny new card.");
+	public String getSmallText() {
+		return smallText.getText();
 	}
 	
-	public boolean isAddressLine1TextPresent() {
-		return addressLine1.getText().equals("Address Line 1");
+	public String getAddressLine1Text() {
+		return addressLine1.getText();
 	}
 	
-	public boolean isAddressLineOptionalTextPresent() {
-		return addressLineOptional.getText().equals("Address Line 2 (optional)");
+	public String getAddressLineOptionalText() {
+		return addressLineOptional.getText();
 	}
 	
-	public boolean isCityTextPresent() {
-		return cityUS.getText().equals("City");
+	public String getCityText() {
+		return cityUS.getText();
 	}
 	
-	public boolean isStateTextPresent() {
-		return stateUS.getText().equals("State");
+	public String getStateText() {
+		return stateUS.getText();
 	}
 	
-	public boolean isZipTextPresent() {
-		return zipUS.getText().equals("Zip");
+	public String getZipText() {
+		screenScroll(stateUS, addressLine1);
+		return zipUS.getText();
 	}
 	
-	
+			
 }

@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Default test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>2/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Tue May 16 14:55:09 IST 2017</td>
+<td>Started on:</td><td>Wed May 17 16:09:55 IST 2017</td>
 </tr>
-<tr><td>Total time:</td><td>154 seconds (154037 ms)</td>
+<tr><td>Total time:</td><td>192 seconds (192836 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -75,41 +75,15 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.iambank.test.app.SprintDemo.Sprint2DemoTest.verifyNextButtonClick()'><b>verifyNextButtonClick</b><br>Test class: com.iambank.test.app.SprintDemo.Sprint2DemoTest<br>Parameters: com.iambank.execution.app.AndroidAppInstance@1c55512e</td>
-<td><div><pre>org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 1.10 seconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
-System info: host: &apos;NDI-LAP-550&apos;, ip: &apos;172.20.38.244&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_121&apos;
-Driver info: io.appium.java_client.android.AndroidDriver
-Capabilities [{appPackage=com.iambank.debug, noReset=false, deviceName=emulator-5554, fullReset=true, platform=ANY, deviceUDID=emulator-5554, desired={app=C:\GIT_Android\android_automation\iambank-0.2.0-debug.apk, noReset=false, newCommandTimeout=900, platformVersion=5.1, recordVideo=true, recordScreenshots=true, platformName=Android, deviceName=&quot;Nexus_4_API_22&quot;, fullReset=true, platform=ANY}, newCommandTimeout=900, platformVersion=5.1.1, webStorageEnabled=false, takesScreenshot=true, javascriptEnabled=true, recordScreenshots=true, platformName=Android, deviceManufacturer=unknown, app=C:\GIT_Android\android_automation\iambank-0.2.0-debug.apk, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, recordVideo=true, appWaitPackage=com.iambank.debug, appWaitActivity=com.iambank.onboarding.ui.activity.SplashActivity, databaseEnabled=false, appActivity=com.iambank.onboarding.ui.activity.SplashActivity, locationContextEnabled=false, deviceModel=Android SDK built for x86}]
-Session ID: acf14fc5-f19a-4b82-8c12-971adbbd384e
-*** Element info: {Using=xpath, value=//*[@class=&apos;android.widget.Button&apos;][2]}
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:215)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:167)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:671)
-	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
-	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
-	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:410)
-	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:62)
-	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
-	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:509)
-	at io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:140)
-	at io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)
-	at io.appium.java_client.android.AndroidDriver.findElementByXPath(AndroidDriver.java:1)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:402)
-	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:58)
-	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
-	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
-	at com.iambank.pages.OnBoardingScreens.PhoneNumberScreen.clickNextButton(PhoneNumberScreen.java:76)
-	at com.iambank.test.app.SprintDemo.Sprint2DemoTest.verifyNextButtonClick(Sprint2DemoTest.java:31)
+<td title='com.iambank.test.app.OnBoardingScreens.USAddressScreenTest.verifyNextButtonClick()'><b>verifyNextButtonClick</b><br>Test class: com.iambank.test.app.OnBoardingScreens.USAddressScreenTest<br>Parameters: com.iambank.execution.app.AndroidAppInstance@3e42f7e8</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: Can&apos;t locate an element by this strategy: Locator map: 
+- native content: &quot;By.id: tl_addressLine1&quot; 
+- html content: &quot;by id or name &quot;addressLine1&quot;&quot;
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:61)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.sendKeys(&lt;generated&gt;)
+	at com.iambank.pages.OnBoardingScreens.USAddressScreen.enterAddressLine1(USAddressScreen.java:50)
+	at com.iambank.test.app.OnBoardingScreens.USAddressScreenTest.verifyNextButtonClick(USAddressScreenTest.java:43)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -128,16 +102,21 @@ Session ID: acf14fc5-f19a-4b82-8c12-971adbbd384e
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
 	at java.lang.Thread.run(Unknown Source)
-</pre></div><a href='#' onClick='toggleBox("stack-trace151752306", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace151752306'><pre>org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 1.10 seconds
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@4427f3d5 (tried for 1 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:264)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:232)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:91)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:112)
+	... 22 more
+Caused by: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 65 milliseconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
-System info: host: &apos;NDI-LAP-550&apos;, ip: &apos;172.20.38.244&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_121&apos;
+System info: host: &apos;NDI-LAP-550&apos;, ip: &apos;192.168.203.1&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_121&apos;
 Driver info: io.appium.java_client.android.AndroidDriver
-Capabilities [{appPackage=com.iambank.debug, noReset=false, deviceName=emulator-5554, fullReset=true, platform=ANY, deviceUDID=emulator-5554, desired={app=C:\GIT_Android\android_automation\iambank-0.2.0-debug.apk, noReset=false, newCommandTimeout=900, platformVersion=5.1, recordVideo=true, recordScreenshots=true, platformName=Android, deviceName=&quot;Nexus_4_API_22&quot;, fullReset=true, platform=ANY}, newCommandTimeout=900, platformVersion=5.1.1, webStorageEnabled=false, takesScreenshot=true, javascriptEnabled=true, recordScreenshots=true, platformName=Android, deviceManufacturer=unknown, app=C:\GIT_Android\android_automation\iambank-0.2.0-debug.apk, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, recordVideo=true, appWaitPackage=com.iambank.debug, appWaitActivity=com.iambank.onboarding.ui.activity.SplashActivity, databaseEnabled=false, appActivity=com.iambank.onboarding.ui.activity.SplashActivity, locationContextEnabled=false, deviceModel=Android SDK built for x86}]
-Session ID: acf14fc5-f19a-4b82-8c12-971adbbd384e
-*** Element info: {Using=xpath, value=//*[@class=&apos;android.widget.Button&apos;][2]}
+Capabilities [{appPackage=com.iambank.debug, noReset=true, deviceName=emulator-5554, fullReset=false, platform=ANY, deviceUDID=emulator-5554, desired={app=C:\GIT_Android\android_automation\iambank-0.2.0-debug.apk, noReset=true, newCommandTimeout=900, platformVersion=5.1, recordVideo=true, recordScreenshots=true, platformName=Android, deviceName=&quot;Nexus_4_API_22&quot;, fullReset=false, platform=ANY}, newCommandTimeout=900, platformVersion=5.1.1, webStorageEnabled=false, takesScreenshot=true, javascriptEnabled=true, recordScreenshots=true, platformName=Android, deviceManufacturer=unknown, app=C:\GIT_Android\android_automation\iambank-0.2.0-debug.apk, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, recordVideo=true, appWaitPackage=com.iambank.debug, appWaitActivity=com.iambank.onboarding.ui.activity.SplashActivity, databaseEnabled=false, appActivity=com.iambank.onboarding.ui.activity.SplashActivity, locationContextEnabled=false, deviceModel=Android SDK built for x86}]
+Session ID: 9120533b-dcd0-475f-a782-1301c4f8aa68
+*** Element info: {Using=id, value=tl_addressLine1}
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
@@ -152,17 +131,34 @@ Session ID: acf14fc5-f19a-4b82-8c12-971adbbd384e
 	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:62)
 	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
 	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:509)
-	at io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:140)
-	at io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)
-	at io.appium.java_client.android.AndroidDriver.findElementByXPath(AndroidDriver.java:1)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:453)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElementById(DefaultGenericMobileDriver.java:70)
+	at io.appium.java_client.AppiumDriver.findElementById(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElementById(AndroidDriver.java:1)
+	at org.openqa.selenium.By$ById.findElement(By.java:218)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:402)
 	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:58)
 	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
 	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
-	at com.iambank.pages.OnBoardingScreens.PhoneNumberScreen.clickNextButton(PhoneNumberScreen.java:76)
-	at com.iambank.test.app.SprintDemo.Sprint2DemoTest.verifyNextButtonClick(Sprint2DemoTest.java:31)
+	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:36)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:402)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:58)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:113)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:167)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:209)
+	... 24 more
+</pre></div><a href='#' onClick='toggleBox("stack-trace1103694577", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1103694577'><pre>org.openqa.selenium.NoSuchElementException: Can&apos;t locate an element by this strategy: Locator map: 
+- native content: &quot;By.id: tl_addressLine1&quot; 
+- html content: &quot;by id or name &quot;addressLine1&quot;&quot;
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:61)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.sendKeys(&lt;generated&gt;)
+	at com.iambank.pages.OnBoardingScreens.USAddressScreen.enterAddressLine1(USAddressScreen.java:50)
+	at com.iambank.test.app.OnBoardingScreens.USAddressScreenTest.verifyNextButtonClick(USAddressScreenTest.java:43)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -181,9 +177,75 @@ Session ID: acf14fc5-f19a-4b82-8c12-971adbbd384e
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
 	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@4427f3d5 (tried for 1 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:264)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:232)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:91)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:112)
+	... 22 more
+Caused by: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 65 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
+System info: host: &apos;NDI-LAP-550&apos;, ip: &apos;192.168.203.1&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_121&apos;
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.iambank.debug, noReset=true, deviceName=emulator-5554, fullReset=false, platform=ANY, deviceUDID=emulator-5554, desired={app=C:\GIT_Android\android_automation\iambank-0.2.0-debug.apk, noReset=true, newCommandTimeout=900, platformVersion=5.1, recordVideo=true, recordScreenshots=true, platformName=Android, deviceName=&quot;Nexus_4_API_22&quot;, fullReset=false, platform=ANY}, newCommandTimeout=900, platformVersion=5.1.1, webStorageEnabled=false, takesScreenshot=true, javascriptEnabled=true, recordScreenshots=true, platformName=Android, deviceManufacturer=unknown, app=C:\GIT_Android\android_automation\iambank-0.2.0-debug.apk, deviceScreenSize=768x1280, networkConnectionEnabled=true, warnings={}, recordVideo=true, appWaitPackage=com.iambank.debug, appWaitActivity=com.iambank.onboarding.ui.activity.SplashActivity, databaseEnabled=false, appActivity=com.iambank.onboarding.ui.activity.SplashActivity, locationContextEnabled=false, deviceModel=Android SDK built for x86}]
+Session ID: 9120533b-dcd0-475f-a782-1301c4f8aa68
+*** Element info: {Using=id, value=tl_addressLine1}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:215)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:167)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:671)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:410)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:62)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:453)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElementById(DefaultGenericMobileDriver.java:70)
+	at io.appium.java_client.AppiumDriver.findElementById(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElementById(AndroidDriver.java:1)
+	at org.openqa.selenium.By$ById.findElement(By.java:218)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:402)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:58)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:36)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:402)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:58)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:113)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:167)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:209)
+	... 24 more
 </pre></div></td>
-<td>143</td>
-<td>com.iambank.test.app.SprintDemo.Sprint2DemoTest@4b213651</td></tr>
+<td>57</td>
+<td>com.iambank.test.app.OnBoardingScreens.USAddressScreenTest@4b213651</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.iambank.test.app.OnBoardingScreens.USAddressScreenTest.verifyAddressFieldsUI()'><b>verifyAddressFieldsUI</b><br>Test class: com.iambank.test.app.OnBoardingScreens.USAddressScreenTest<br>Parameters: com.iambank.execution.app.AndroidAppInstance@78e24d10</td>
+<td></td>
+<td>59</td>
+<td>com.iambank.test.app.OnBoardingScreens.USAddressScreenTest@4b213651</td></tr>
+<tr>
+<td title='com.iambank.test.app.OnBoardingScreens.USAddressScreenTest.verifyUSAddressScreenUI()'><b>verifyUSAddressScreenUI</b><br>Test class: com.iambank.test.app.OnBoardingScreens.USAddressScreenTest<br>Parameters: com.iambank.execution.app.AndroidAppInstance@364f5474</td>
+<td></td>
+<td>56</td>
+<td>com.iambank.test.app.OnBoardingScreens.USAddressScreenTest@4b213651</td></tr>
 </table><p>
 </body>
 </html>
