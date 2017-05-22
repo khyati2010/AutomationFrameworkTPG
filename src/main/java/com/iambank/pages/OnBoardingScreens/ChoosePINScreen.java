@@ -3,6 +3,9 @@ package com.iambank.pages.OnBoardingScreens;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
+
+import org.openqa.selenium.support.PageFactory;
+
 import com.iambank.configuration.app.AppiumCapabilities;
 import com.iambank.configuration.framework.ScreenTitles;
 import com.iambank.pages.basepages.AppBasePage;
@@ -73,8 +76,8 @@ public class ChoosePINScreen extends AppBasePage {
     }
     
 	//TO-DO:
-    public SSNScreen clickNextButton() {
-    	 getDriver().findElementByXPath(xpathPinNumber).findElementsById(idNextButton).get(0).click();
-    	return new SSNScreen(getDriver(), getDriverCapabilities());
-    }
+    public <T> T clickNextButton(Class<T> expectedPage) {
+        getDriver().findElementByXPath(xpathPinNumber).findElementsById(idNextButton).get(0).click();
+        return PageFactory.initElements(getDriver(), expectedPage);    }
+  
 }

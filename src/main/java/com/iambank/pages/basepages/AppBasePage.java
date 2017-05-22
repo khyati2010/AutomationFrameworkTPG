@@ -4,11 +4,6 @@ import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.TouchAction;
 import io.appium.java_client.pagefactory.AndroidFindBy;
-
-import java.util.HashMap;
-
-import org.openqa.selenium.Dimension;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import com.iambank.configuration.app.AppiumCapabilities;
@@ -32,6 +27,9 @@ public abstract class AppBasePage extends BasePage{
 	protected MobileElement signInText;
 	
 	@AndroidFindBy(id="bottom_btn")
+
+	protected MobileElement nextBottomButton;
+
 	protected MobileElement introNextButton;
 	
 	@AndroidFindBy(id="bottom_text")
@@ -44,8 +42,7 @@ public abstract class AppBasePage extends BasePage{
 	protected MobileElement smallText;
 	
 	@AndroidFindBy(id="tv_progress")
-	protected MobileElement screenNumber;
-
+	protected MobileElement screenNumber;	
 
 	protected AppBasePage(AppiumDriver<MobileElement> driver, AppiumCapabilities driverCapabilities) {
 		super(driver, driverCapabilities);
@@ -90,15 +87,6 @@ public abstract class AppBasePage extends BasePage{
     }
     
     public void screenScroll(MobileElement fromElement , MobileElement toElement) {
-//    	Dimension dimensions = getDriver().manage().window().getSize();
-//		Double screenHeightStart = dimensions.getHeight() * 0.5;
-//		int scrollStart = screenHeightStart.intValue();
-//		Double screenHeightEnd = dimensions.getHeight() * 0.2;
-//		int scrollEnd = screenHeightEnd.intValue();
-//		int startx = dimensions.width / 2;
-//		 new TouchAction(getDriver()).press(24, scrollEnd)
-//				.moveTo(24, scrollStart).release().perform();
-    	
     	TouchAction act = new TouchAction(getDriver());
 		act.longPress(fromElement).moveTo(toElement).release().perform();		 	 
     }

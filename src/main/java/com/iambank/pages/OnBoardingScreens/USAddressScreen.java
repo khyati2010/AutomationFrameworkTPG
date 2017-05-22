@@ -8,7 +8,7 @@ import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 
-public class USAddressScreen extends AppBasePage{
+public class USAddressScreen extends AddressScreen{
 	
 	@AndroidFindBy(id = "tl_addressLine1")
 	private MobileElement addressLine1;
@@ -41,7 +41,7 @@ public class USAddressScreen extends AppBasePage{
 	}
 	
 	@Override
-	protected String expectedScreenTitle() {
+	public String expectedScreenTitle() {
 		return ScreenTitles.Address.title();
 	}
 	
@@ -81,10 +81,10 @@ public class USAddressScreen extends AppBasePage{
 		return this;
 	}
 	
-	public void clickNextButton() {
+	public SSNScreen clickNextButton() {
 		screenScroll(zipUS, cityUS);
 		nextButtonUS.click();
-//		return new SSNScreen(getDriver(), getDriverCapabilities());
+		return new SSNScreen(getDriver(), getDriverCapabilities());
 	}
 	
 	public String getLargeText() {

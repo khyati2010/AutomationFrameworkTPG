@@ -1,1 +1,2439 @@
-{"resultsperpage":24,"currentpage":1,"sortby":"original","show":"facet,product,productpool","application":"MOBILE","assortment":"SITE","device":"PHONE","country":"US","totalresults":1,"resptime":"877ms","querydate":"2016-08-08T10:52:06.899-04:00","category":[{"id":54498,"summary":{"name":"Calvin Klein","categorytype":"Flexible Template","categorypageurl":"http://www1.macys.com/shop/handbags-accessories/calvin-klein?id=54498&edge=hybrid","categoryHighlight":false,"pageId":"browse_handbags-accessories_calvin-klein","pageType":"Browse","pageTitle":"Calvin Klein Handbags & Bags","metaDesc":"Buy Calvin Klein Handbags and Accessories at Macy's and get FREE SHIPPING with $99 purchase! Shop Calvin Klein handbags, purses, wallets & more.","mobilePublish":"Y","countryEligible":true,"clickable":"Browse Click"},"parentcategory":{"type":"categoryResponseEven","id":26846,"summary":{"name":"Handbags & Accessories","categorytype":"Flexible Template","categorypageurl":"http://www1.macys.com/shop/handbags-accessories?id=26846&edge=hybrid","categoryHighlight":true,"pageType":"Category Splash","pageTitle":"Handbags and Accessories","metaDesc":"Buy Handbags and Accessories at Macy's & get FREE SHIPPING with $99 purchase! Shop for handbags, backpacks, accessories, wallets, phone cases & more!","mobilePublish":"Y","countryEligible":true}},"totalproducts":405,"product":{"product":[{"id":2961604,"summary":{"name":"Calvin Klein Monogram Crossbody","producttype":"HANDBAG","brand":"Calvin Klein","onsale":false,"producturl":"http://www1.macys.com/shop/product/calvin-klein-monogram-crossbody?ID=2961604","iscollection":false,"available":true,"productstartdays":1039,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/2847880_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/2847880_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":false,"numberColors":1,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/9/optimized/1788319_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"9/optimized/1788319_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/1788320_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/1788320_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2493980,"colornormal":"Brown","color":"Brown/Khaki/Camel","upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/2847880_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/2847880_fpx","sequenceNumber":0},"swatchsequencenumber":0,"swapoutsequencenumber":4,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/8/optimized/1788318_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"8/optimized/1788318_fpx","sequenceNumber":0}}],"price":{"regular":{"value":78.0},"pricetype":"Ticket","pricetypeid":0,"onsale":false,"onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":false}},{"id":2961597,"summary":{"name":"Calvin Klein Pebble Leather Mini Crossbody","producttype":"HANDBAG","brand":"Calvin Klein","onsale":true,"producturl":"http://www1.macys.com/shop/product/calvin-klein-pebble-leather-mini-crossbody?ID=2961597","iscollection":false,"available":true,"productstartdays":107,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/6/optimized/3568366_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"6/optimized/3568366_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":false,"numberColors":1,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/9/optimized/3568419_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"9/optimized/3568419_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/7/optimized/3568417_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"7/optimized/3568417_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2493968,"colornormal":"Black","color":"Black","upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/6/optimized/3568366_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"6/optimized/3568366_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":1,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/7/optimized/3568367_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"7/optimized/3568367_fpx","sequenceNumber":1}}],"price":{"sale":{"value":93.45,"label":"Sale"},"was":{"value":133.5,"label":"Was"},"regular":{"value":168.0,"label":"Reg."},"pricetype":"Deal of the Day","pricetypeid":23,"onsale":true,"displayText":"Deal of the Day","pricingPolicyText":"\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.","pricingPolicy":"/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2961597","onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":true}},{"id":2961592,"summary":{"name":"Calvin Klein Chelsea Quilted Crossbody","producttype":"HANDBAG","brand":"Calvin Klein","onsale":false,"producturl":"http://www1.macys.com/shop/product/calvin-klein-chelsea-quilted-crossbody?ID=2961592","iscollection":false,"available":true,"productstartdays":624,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/5/optimized/3755965_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"5/optimized/3755965_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":false,"numberColors":1,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/5/optimized/2520465_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"5/optimized/2520465_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/6/optimized/2520466_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"6/optimized/2520466_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2493965,"colornormal":"Multi","color":"Black/Silver","upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/5/optimized/3755965_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"5/optimized/3755965_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":1,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/6/optimized/3755966_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"6/optimized/3755966_fpx","sequenceNumber":1}}],"price":{"regular":{"value":118.0},"pricetype":"Ticket","pricetypeid":0,"onsale":false,"onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":false}},{"id":2936146,"summary":{"name":"Calvin Klein Saffiano Leather Tote","producttype":"HANDBAG","brand":"Calvin Klein","onsale":true,"producturl":"http://www1.macys.com/shop/product/calvin-klein-saffiano-leather-tote?ID=2936146","iscollection":false,"available":true,"productstartdays":1218,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/5/optimized/2706055_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"5/optimized/2706055_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":false,"numberColors":1,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/1561920_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/1561920_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/1/optimized/1561921_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"1/optimized/1561921_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2472467,"colornormal":"White","color":"White","upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/5/optimized/2706055_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"5/optimized/2706055_fpx","sequenceNumber":0},"swatchsequencenumber":0,"swapoutsequencenumber":6,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/9/optimized/2706979_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"9/optimized/2706979_fpx","sequenceNumber":0}}],"price":{"sale":{"value":93.09,"label":"Sale"},"was":{"value":132.99,"label":"Was"},"regular":{"value":178.0,"label":"Reg."},"pricetype":"Deal of the Day","pricetypeid":23,"onsale":true,"displayText":"Deal of the Day","pricingPolicyText":"\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.","pricingPolicy":"/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2936146","onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":true}},{"id":2936104,"summary":{"name":"Calvin Klein Extra Large Reversible Tote with Pouch","producttype":"HANDBAG","brand":"Calvin Klein","onsale":true,"producturl":"http://www1.macys.com/shop/product/calvin-klein-extra-large-reversible-tote-with-pouch?ID=2936104","iscollection":false,"available":true,"productstartdays":497,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/2/optimized/3405372_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"2/optimized/3405372_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":false,"numberColors":1,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/3075740_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/3075740_fpx","sequenceNumber":0},{"type":"colorwayImage","imagetype":"COLORWAY","id":2472423,"colornormal":"Black","color":"Black Combo","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/6/optimized/3408016_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"6/optimized/3408016_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/2/optimized/3405372_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"2/optimized/3405372_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":2,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/3/optimized/3405373_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"3/optimized/3405373_fpx","sequenceNumber":1}}],"price":{"sale":{"value":88.19,"label":"Sale"},"was":{"value":125.99,"label":"Was"},"regular":{"value":168.0,"label":"Reg."},"pricetype":"Deal of the Day","pricetypeid":23,"onsale":true,"displayText":"Deal of the Day","pricingPolicyText":"\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.","pricingPolicy":"/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2936104","onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":true}},{"id":2936098,"summary":{"name":"Calvin Klein Saffiano Tote","producttype":"HANDBAG","brand":"Calvin Klein","onsale":true,"producturl":"http://www1.macys.com/shop/product/calvin-klein-saffiano-tote?ID=2936098","iscollection":false,"available":true,"productstartdays":483,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/2/optimized/3542482_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"2/optimized/3542482_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":true,"numberColors":2,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/8/optimized/2780658_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"8/optimized/2780658_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/9/optimized/2780659_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"9/optimized/2780659_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2472416,"colornormal":"Tan/Beige","color":"Nude Combo","upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/7/optimized/3476697_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"7/optimized/3476697_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":2,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/8/optimized/3476698_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"8/optimized/3476698_fpx","sequenceNumber":1}},{"type":"colorwayImage","imagetype":"COLORWAY","id":2472415,"colornormal":"Brown","color":"Luggage/Burnt Orange","upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/2/optimized/3542482_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"2/optimized/3542482_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":1,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/3/optimized/3542483_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"3/optimized/3542483_fpx","sequenceNumber":1}}],"price":{"sale":{"value":93.09,"label":"Sale"},"was":{"value":132.99,"label":"Was"},"regular":{"value":178.0,"label":"Reg."},"pricetype":"Deal of the Day","pricetypeid":23,"onsale":true,"displayText":"Deal of the Day","pricingPolicyText":"\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.","pricingPolicy":"/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2936098","onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":true}},{"id":2936095,"summary":{"name":"Calvin Klein On My Corner Saffiano Crossbody","producttype":"HANDBAG","brand":"Calvin Klein","onsale":true,"producturl":"http://www1.macys.com/shop/product/calvin-klein-on-my-corner-saffiano-crossbody?ID=2936095","iscollection":false,"available":true,"productstartdays":644,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/4/optimized/3542474_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"4/optimized/3542474_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":false,"numberColors":1,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/2479040_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/2479040_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/1/optimized/2479041_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"1/optimized/2479041_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2472401,"colornormal":"Tan/Beige","color":"Nude","upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/4/optimized/3542474_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"4/optimized/3542474_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":2,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/5/optimized/3542475_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"5/optimized/3542475_fpx","sequenceNumber":1}}],"price":{"sale":{"value":77.69,"label":"Sale"},"was":{"value":110.99,"label":"Was"},"regular":{"value":148.0,"label":"Reg."},"pricetype":"Deal of the Day","pricetypeid":23,"onsale":true,"displayText":"Deal of the Day","pricingPolicyText":"\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.","pricingPolicy":"/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2936095","onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":true}},{"id":2936091,"summary":{"name":"Calvin Klein Reversible Tote With Pouch","producttype":"HANDBAG","brand":"Calvin Klein","onsale":true,"producturl":"http://www1.macys.com/shop/product/calvin-klein-reversible-tote-with-pouch?ID=2936091","iscollection":false,"available":true,"customerrating":5.0,"productstartdays":658,"totalreviews":1},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/2979650_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/2979650_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":true,"numberColors":2,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/1/optimized/2449771_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"1/optimized/2449771_fpx","sequenceNumber":0},{"type":"colorwayImage","imagetype":"COLORWAY","id":2472382,"colornormal":"Blue","color":"Navy/Luggage","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/9/optimized/2979649_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"9/optimized/2979649_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/7/optimized/2979647_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"7/optimized/2979647_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":3,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/8/optimized/2979648_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"8/optimized/2979648_fpx","sequenceNumber":1}},{"type":"colorwayImage","imagetype":"COLORWAY","id":2472381,"colornormal":"Orange","color":"Dark Orange/Luggage","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/2/optimized/2979652_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"2/optimized/2979652_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/2979650_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/2979650_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":2,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/1/optimized/2979651_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"1/optimized/2979651_fpx","sequenceNumber":1}}],"price":{"sale":{"value":77.69,"label":"Sale"},"was":{"value":110.99,"label":"Was"},"regular":{"value":148.0,"label":"Reg."},"pricetype":"Deal of the Day","pricetypeid":23,"onsale":true,"displayText":"Deal of the Day","pricingPolicyText":"\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.","pricingPolicy":"/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2936091","onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":true}},{"id":2936081,"summary":{"name":"Calvin Klein Monogram Chain Tote","producttype":"HANDBAG","brand":"Calvin Klein","onsale":true,"producturl":"http://www1.macys.com/shop/product/calvin-klein-monogram-chain-tote?ID=2936081","iscollection":false,"available":true,"productstartdays":686,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/8/optimized/3620888_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"8/optimized/3620888_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":false,"numberColors":1,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/7/optimized/2372557_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"7/optimized/2372557_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/8/optimized/2372558_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"8/optimized/2372558_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2472374,"colornormal":"Brown","color":"Brown/Khaki/Burnt Orange Saffiano","upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/8/optimized/3620888_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"8/optimized/3620888_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":3,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/9/optimized/3620889_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"9/optimized/3620889_fpx","sequenceNumber":1}}],"price":{"sale":{"value":82.59,"label":"Sale"},"was":{"value":117.99,"label":"Was"},"regular":{"value":158.0,"label":"Reg."},"pricetype":"Deal of the Day","pricetypeid":23,"onsale":true,"displayText":"Deal of the Day","pricingPolicyText":"\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.","pricingPolicy":"/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2936081","onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":true}},{"id":2936077,"summary":{"name":"Calvin Klein Signature Reversible Tote With Pouch","producttype":"HANDBAG","brand":"Calvin Klein","onsale":true,"producturl":"http://www1.macys.com/shop/product/calvin-klein-signature-reversible-tote-with-pouch?ID=2936077","iscollection":false,"available":true,"customerrating":1.0,"productstartdays":661,"totalreviews":1},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/3/optimized/3663373_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"3/optimized/3663373_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":true,"numberColors":2,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/6/optimized/3444256_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"6/optimized/3444256_fpx","sequenceNumber":0},{"type":"colorwayImage","imagetype":"COLORWAY","id":2472362,"colornormal":"Tan/Beige","color":"Khaki/Brown/Luggage","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/6/optimized/2872266_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"6/optimized/2872266_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/4/optimized/2872264_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"4/optimized/2872264_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":1,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/5/optimized/2872265_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"5/optimized/2872265_fpx","sequenceNumber":1}},{"type":"colorwayImage","imagetype":"COLORWAY","id":2472365,"colornormal":"Brown","color":"Brown/Khaki/Burnt Orange Saffiano","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/7/optimized/3663377_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"7/optimized/3663377_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/3/optimized/3663373_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"3/optimized/3663373_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":4,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/6/optimized/3663996_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"6/optimized/3663996_fpx","sequenceNumber":1}}],"price":{"sale":{"value":77.69,"label":"Sale"},"was":{"value":110.99,"label":"Was"},"regular":{"value":148.0,"label":"Reg."},"pricetype":"Deal of the Day","pricetypeid":23,"onsale":true,"displayText":"Deal of the Day","pricingPolicyText":"\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.","pricingPolicy":"/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2936077","onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":true}},{"id":2929611,"summary":{"name":"Calvin Klein Quilted Lamb Drawstring Bag","producttype":"HANDBAG","brand":"Calvin Klein","onsale":false,"producturl":"http://www1.macys.com/shop/product/calvin-klein-quilted-lamb-drawstring-bag?ID=2929611","iscollection":false,"available":true,"productstartdays":7,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/1/optimized/3774031_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"1/optimized/3774031_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":false,"numberColors":1,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/7/optimized/3784197_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"7/optimized/3784197_fpx","sequenceNumber":0},{"type":"colorwayImage","imagetype":"COLORWAY","id":2477965,"colornormal":"Multi","color":"Black/Gold","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/7/optimized/3784197_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"7/optimized/3784197_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/1/optimized/3774031_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"1/optimized/3774031_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":0,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/2/optimized/3774032_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"2/optimized/3774032_fpx","sequenceNumber":1}}],"price":{"regular":{"value":258.0},"pricetype":"Ticket","pricetypeid":0,"onsale":false,"onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":true,"Rebate":false,"onsale":false}},{"id":2928252,"summary":{"name":"Calvin Klein Hudson Signature Hobo","producttype":"HANDBAG","brand":"Calvin Klein","onsale":false,"producturl":"http://www1.macys.com/shop/product/calvin-klein-hudson-signature-hobo?ID=2928252","iscollection":false,"available":true,"productstartdays":644,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/8/optimized/3745828_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"8/optimized/3745828_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":false,"numberColors":1,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/4/optimized/2479014_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"4/optimized/2479014_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/5/optimized/2479015_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"5/optimized/2479015_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2466132,"colornormal":"Brown","color":"Textured Brown","upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/8/optimized/3745828_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"8/optimized/3745828_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":2,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/9/optimized/3745829_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"9/optimized/3745829_fpx","sequenceNumber":1}}],"price":{"regular":{"value":178.0},"pricetype":"Ticket","pricetypeid":0,"onsale":false,"onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":false}},{"id":2928108,"summary":{"name":"Calvin Klein Ballistic Nylon Backpack","producttype":"HANDBAG","brand":"Calvin Klein","onsale":true,"producturl":"http://www1.macys.com/shop/product/calvin-klein-ballistic-nylon-backpack?ID=2928108","iscollection":false,"available":true,"productstartdays":272,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/1/optimized/3212951_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"1/optimized/3212951_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":true,"numberColors":2,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/5/optimized/3212955_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"5/optimized/3212955_fpx","sequenceNumber":0},{"type":"colorwayImage","imagetype":"COLORWAY","id":2465989,"colornormal":"Black","color":"Black Combo","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/5/optimized/3212955_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"5/optimized/3212955_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/1/optimized/3212951_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"1/optimized/3212951_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":0,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/2/optimized/3212952_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"2/optimized/3212952_fpx","sequenceNumber":1}},{"type":"colorwayImage","imagetype":"COLORWAY","id":2465991,"colornormal":"Gray","color":"Grey Combo","upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/7/optimized/3212947_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"7/optimized/3212947_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":2,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/8/optimized/3212948_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"8/optimized/3212948_fpx","sequenceNumber":1}}],"price":{"sale":{"value":93.09,"label":"Sale"},"was":{"value":132.99,"label":"Was"},"regular":{"value":178.0,"label":"Reg."},"pricetype":"Deal of the Day","pricetypeid":23,"onsale":true,"displayText":"Deal of the Day","pricingPolicyText":"\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.","pricingPolicy":"/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2928108","onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":true}},{"id":2918873,"summary":{"name":"Calvin Klein On My Corner Saffiano Leather Satchel","producttype":"HANDBAG","brand":"Calvin Klein","onsale":false,"producturl":"http://www1.macys.com/shop/product/calvin-klein-on-my-corner-saffiano-leather-satchel?ID=2918873","iscollection":false,"available":true,"productstartdays":7,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/2/optimized/3731362_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"2/optimized/3731362_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":false,"numberColors":1,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/4/optimized/3731364_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"4/optimized/3731364_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/5/optimized/3731365_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"5/optimized/3731365_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2459342,"colornormal":"Black","color":"Black","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/4/optimized/3731364_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"4/optimized/3731364_fpx","sequenceNumber":1},{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/5/optimized/3731365_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"5/optimized/3731365_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/2/optimized/3731362_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"2/optimized/3731362_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":0,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/3/optimized/3731363_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"3/optimized/3731363_fpx","sequenceNumber":1}}],"price":{"regular":{"value":238.0},"pricetype":"Ticket","pricetypeid":0,"onsale":false,"onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":true,"Rebate":false,"onsale":false}},{"id":2918853,"summary":{"name":"Calvin Klein Reversible Pebble Tote with Pouch","producttype":"HANDBAG","brand":"Calvin Klein","onsale":false,"producturl":"http://www1.macys.com/shop/product/calvin-klein-reversible-pebble-tote-with-pouch?ID=2918853","iscollection":false,"available":true,"productstartdays":29,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/3731230_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/3731230_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":false,"numberColors":1,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/1/optimized/3731261_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"1/optimized/3731261_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/2/optimized/3731262_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"2/optimized/3731262_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2458853,"colornormal":"Multi","color":"Black Grey","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/1/optimized/3731261_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"1/optimized/3731261_fpx","sequenceNumber":1},{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/2/optimized/3731262_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"2/optimized/3731262_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/3731230_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/3731230_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":0,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/1/optimized/3731231_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"1/optimized/3731231_fpx","sequenceNumber":1}}],"price":{"regular":{"value":168.0},"pricetype":"Ticket","pricetypeid":0,"onsale":false,"onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":true,"Rebate":false,"onsale":false}},{"id":2918852,"summary":{"name":"Calvin Klein Saffiano Mini Dome Satchel","producttype":"HANDBAG","brand":"Calvin Klein","onsale":false,"producturl":"http://www1.macys.com/shop/product/calvin-klein-saffiano-mini-dome-satchel?ID=2918852","iscollection":false,"available":true,"productstartdays":52,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/8/optimized/3731218_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"8/optimized/3731218_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":false,"numberColors":1,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/9/optimized/3731239_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"9/optimized/3731239_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/3731240_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/3731240_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2458847,"colornormal":"Black","color":"Black","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/9/optimized/3731239_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"9/optimized/3731239_fpx","sequenceNumber":1},{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/3731240_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/3731240_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/8/optimized/3731218_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"8/optimized/3731218_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":0,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/9/optimized/3731219_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"9/optimized/3731219_fpx","sequenceNumber":1}}],"price":{"regular":{"value":238.0},"pricetype":"Ticket","pricetypeid":0,"onsale":false,"onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":false}},{"id":2918845,"summary":{"name":"Calvin Klein Hudson Monogram Crossbody","producttype":"HANDBAG","brand":"Calvin Klein","onsale":false,"producturl":"http://www1.macys.com/shop/product/calvin-klein-hudson-monogram-crossbody?ID=2918845","iscollection":false,"available":true,"productstartdays":52,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/3731220_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/3731220_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":false,"numberColors":1,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/1/optimized/3731241_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"1/optimized/3731241_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/2/optimized/3731242_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"2/optimized/3731242_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2458848,"colornormal":"Brown","color":"Brown Khaki/Luggage","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/1/optimized/3731241_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"1/optimized/3731241_fpx","sequenceNumber":1},{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/2/optimized/3731242_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"2/optimized/3731242_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/3731220_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/3731220_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":0,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/1/optimized/3731221_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"1/optimized/3731221_fpx","sequenceNumber":1}}],"price":{"regular":{"value":128.0},"pricetype":"Ticket","pricetypeid":0,"onsale":false,"onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":false}},{"id":2916806,"summary":{"name":"Calvin Klein Hudson Messenger","producttype":"HANDBAG","brand":"Calvin Klein","onsale":false,"producturl":"http://www1.macys.com/shop/product/calvin-klein-hudson-messenger?ID=2916806","iscollection":false,"available":true,"productstartdays":7,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/4/optimized/3773994_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"4/optimized/3773994_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":false,"numberColors":1,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/1/optimized/3774001_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"1/optimized/3774001_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/2/optimized/3774002_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"2/optimized/3774002_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2477867,"colornormal":"Brown","color":"Brown/Khaki/Luggage Saffiano","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/1/optimized/3774001_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"1/optimized/3774001_fpx","sequenceNumber":1},{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/2/optimized/3774002_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"2/optimized/3774002_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/4/optimized/3773994_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"4/optimized/3773994_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":0,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/5/optimized/3773995_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"5/optimized/3773995_fpx","sequenceNumber":1}}],"price":{"regular":{"value":148.0},"pricetype":"Ticket","pricetypeid":0,"onsale":false,"onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":true,"Rebate":false,"onsale":false}},{"id":2916154,"summary":{"name":"Calvin Klein Quilted Mini Saddle Crossbody","producttype":"HANDBAG","brand":"Calvin Klein","onsale":false,"producturl":"http://www1.macys.com/shop/product/calvin-klein-quilted-mini-saddle-crossbody?ID=2916154","iscollection":false,"available":true,"productstartdays":7,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/2/optimized/3776302_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"2/optimized/3776302_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":false,"numberColors":1,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/5/optimized/3776305_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"5/optimized/3776305_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/6/optimized/3776306_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"6/optimized/3776306_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2479244,"colornormal":"Multi","color":"Black/Gold","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/5/optimized/3776305_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"5/optimized/3776305_fpx","sequenceNumber":1},{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/6/optimized/3776306_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"6/optimized/3776306_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/2/optimized/3776302_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"2/optimized/3776302_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":0,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/3/optimized/3776303_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"3/optimized/3776303_fpx","sequenceNumber":1}}],"price":{"regular":{"value":158.0},"pricetype":"Ticket","pricetypeid":0,"onsale":false,"onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":true,"Rebate":false,"onsale":false}},{"id":2910964,"summary":{"name":"Calvin Klein Large Reversible Monogram Tote with Pouch","producttype":"HANDBAG","brand":"Calvin Klein","onsale":false,"producturl":"http://www1.macys.com/shop/product/calvin-klein-large-reversible-monogram-tote-with-pouch?ID=2910964","iscollection":false,"available":true,"productstartdays":52,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/5/optimized/3718795_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"5/optimized/3718795_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":false,"numberColors":1,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/6/optimized/3718796_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"6/optimized/3718796_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/8/optimized/3718798_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"8/optimized/3718798_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2453429,"colornormal":"Brown","color":"Textured Khaki/Brown","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/6/optimized/3718796_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"6/optimized/3718796_fpx","sequenceNumber":1},{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/8/optimized/3718798_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"8/optimized/3718798_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/5/optimized/3718795_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"5/optimized/3718795_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":0,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/9/optimized/3718799_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"9/optimized/3718799_fpx","sequenceNumber":1}}],"price":{"regular":{"value":148.0},"pricetype":"Ticket","pricetypeid":0,"onsale":false,"onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":false}},{"id":2910878,"summary":{"name":"Calvin Klein Medium Reversible Shopper with Pouch","producttype":"HANDBAG","brand":"Calvin Klein","onsale":false,"producturl":"http://www1.macys.com/shop/product/calvin-klein-medium-reversible-shopper-with-pouch?ID=2910878","iscollection":false,"available":true,"productstartdays":38,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/3/optimized/3714213_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"3/optimized/3714213_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":true,"numberColors":3,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/6/optimized/3714216_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"6/optimized/3714216_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/7/optimized/3714217_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"7/optimized/3714217_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2452163,"colornormal":"Brown","color":"Luggage Black","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/7/optimized/3717047_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"7/optimized/3717047_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/4/optimized/3714214_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"4/optimized/3714214_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":1,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/1/optimized/3714221_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"1/optimized/3714221_fpx","sequenceNumber":1}},{"type":"colorwayImage","imagetype":"COLORWAY","id":2502736,"colornormal":"Brown","color":"Brown/Khaki/Luggage Saffiano","swatchsequencenumber":0,"swapoutsequencenumber":2},{"type":"colorwayImage","imagetype":"COLORWAY","id":2452162,"colornormal":"Black","color":"Black Luggage","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/6/optimized/3714216_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"6/optimized/3714216_fpx","sequenceNumber":1},{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/7/optimized/3714217_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"7/optimized/3714217_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/3/optimized/3714213_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"3/optimized/3714213_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":0,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/8/optimized/3714218_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"8/optimized/3714218_fpx","sequenceNumber":1}}],"price":{"regular":{"value":138.0},"pricetype":"Ticket","pricetypeid":0,"onsale":false,"onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":false}},{"id":2910819,"summary":{"name":"Calvin Klein Large Reversible Pebble Tote with Pouch","producttype":"HANDBAG","brand":"Calvin Klein","onsale":false,"producturl":"http://www1.macys.com/shop/product/calvin-klein-large-reversible-pebble-tote-with-pouch?ID=2910819","iscollection":false,"available":true,"productstartdays":52,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/4/optimized/3732224_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"4/optimized/3732224_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":true,"numberColors":2,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/1/optimized/3732231_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"1/optimized/3732231_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/2/optimized/3732232_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"2/optimized/3732232_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2460853,"colornormal":"Brown","color":"Lug Blk","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/5/optimized/3745565_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"5/optimized/3745565_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/3/optimized/3745563_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"3/optimized/3745563_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":1,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/4/optimized/3745564_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"4/optimized/3745564_fpx","sequenceNumber":1}},{"type":"colorwayImage","imagetype":"COLORWAY","id":2460852,"colornormal":"Black","color":"Blk Luggag","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/1/optimized/3732231_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"1/optimized/3732231_fpx","sequenceNumber":1},{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/2/optimized/3732232_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"2/optimized/3732232_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/4/optimized/3732224_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"4/optimized/3732224_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":0,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/5/optimized/3732225_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"5/optimized/3732225_fpx","sequenceNumber":1}}],"price":{"regular":{"value":148.0},"pricetype":"Ticket","pricetypeid":0,"onsale":false,"onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":false}},{"id":2910759,"summary":{"name":"Calvin Klein 2-in-1 Convertible Crossbody","producttype":"HANDBAG","brand":"Calvin Klein","onsale":false,"producturl":"http://www1.macys.com/shop/product/calvin-klein-2-in-1-convertible-crossbody?ID=2910759","iscollection":false,"available":true,"productstartdays":52,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/3/optimized/3714253_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"3/optimized/3714253_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":true,"numberColors":2,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/8/optimized/3714258_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"8/optimized/3714258_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/9/optimized/3714259_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"9/optimized/3714259_fpx","sequenceNumber":1},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/3726510_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/3726510_fpx","sequenceNumber":2},{"type":"colorwayImage","imagetype":"COLORWAY","id":2452201,"colornormal":"Brown","color":"Luggage Black","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/8/optimized/3726518_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"8/optimized/3726518_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/5/optimized/3714255_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"5/optimized/3714255_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":0,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/6/optimized/3714256_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"6/optimized/3714256_fpx","sequenceNumber":1}},{"type":"colorwayImage","imagetype":"COLORWAY","id":2452202,"colornormal":"Multi","color":"Black Grey","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/8/optimized/3714258_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"8/optimized/3714258_fpx","sequenceNumber":1},{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/9/optimized/3714259_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"9/optimized/3714259_fpx","sequenceNumber":1},{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/3726510_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/3726510_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/3/optimized/3714253_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"3/optimized/3714253_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":1,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/4/optimized/3714254_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"4/optimized/3714254_fpx","sequenceNumber":1}}],"price":{"regular":{"value":128.0},"pricetype":"Ticket","pricetypeid":0,"onsale":false,"onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":false}},{"id":2910661,"summary":{"name":"Calvin Klein Saffiano Leather Tote","producttype":"HANDBAG","brand":"Calvin Klein","onsale":false,"producturl":"http://www1.macys.com/shop/product/calvin-klein-saffiano-leather-tote?ID=2910661","iscollection":false,"available":true,"productstartdays":52,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/8/optimized/3731228_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"8/optimized/3731228_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":true,"numberColors":2,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/8/optimized/3736628_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"8/optimized/3736628_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/9/optimized/3736629_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"9/optimized/3736629_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2458854,"colornormal":"Brown","color":"Luggage Black","swatchsequencenumber":0,"swapoutsequencenumber":0},{"type":"colorwayImage","imagetype":"COLORWAY","id":2458855,"colornormal":"Black","color":"Black Steel","upcadditionalimage":[{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/8/optimized/3736628_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"8/optimized/3736628_fpx","sequenceNumber":1},{"imagetype":"UPC_ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/9/optimized/3736629_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"9/optimized/3736629_fpx","sequenceNumber":1}],"upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/8/optimized/3731228_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"8/optimized/3731228_fpx","sequenceNumber":1},"swatchsequencenumber":0,"swapoutsequencenumber":1,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/9/optimized/3731229_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"9/optimized/3731229_fpx","sequenceNumber":1}}],"price":{"regular":{"value":198.0},"pricetype":"Ticket","pricetypeid":0,"onsale":false,"onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":false}}]},"bopsfacetavailable":false}]}
+{
+	"resultsperpage": 24,
+	"currentpage": 1,
+	"sortby": "original",
+	"show": "facet,product,productpool",
+	"application": "MOBILE",
+	"assortment": "SITE",
+	"device": "PHONE",
+	"country": "US",
+	"totalresults": 1,
+	"resptime": "877ms",
+	"querydate": "2016-08-08T10:52:06.899-04:00",
+	"category": [
+		{
+			"id": 54498,
+			"summary": {
+				"name": "Calvin Klein",
+				"categorytype": "Flexible Template",
+				"categorypageurl": "http://www1.macys.com/shop/handbags-accessories/calvin-klein?id=54498&edge=hybrid",
+				"categoryHighlight": false,
+				"pageId": "browse_handbags-accessories_calvin-klein",
+				"pageType": "Browse",
+				"pageTitle": "Calvin Klein Handbags & Bags",
+				"metaDesc": "Buy Calvin Klein Handbags and Accessories at Macy's and get FREE SHIPPING with $99 purchase! Shop Calvin Klein handbags, purses, wallets & more.",
+				"mobilePublish": "Y",
+				"countryEligible": true,
+				"clickable": "Browse Click"
+			},
+			"parentcategory": {
+				"type": "categoryResponseEven",
+				"id": 26846,
+				"summary": {
+					"name": "Handbags & Accessories",
+					"categorytype": "Flexible Template",
+					"categorypageurl": "http://www1.macys.com/shop/handbags-accessories?id=26846&edge=hybrid",
+					"categoryHighlight": true,
+					"pageType": "Category Splash",
+					"pageTitle": "Handbags and Accessories",
+					"metaDesc": "Buy Handbags and Accessories at Macy's & get FREE SHIPPING with $99 purchase! Shop for handbags, backpacks, accessories, wallets, phone cases & more!",
+					"mobilePublish": "Y",
+					"countryEligible": true
+				}
+			},
+			"totalproducts": 405,
+			"product": {
+				"product": [
+					{
+						"id": 2961604,
+						"summary": {
+							"name": "Calvin Klein Monogram Crossbody",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": false,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-monogram-crossbody?ID=2961604",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 1039,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/2847880_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "0/optimized/2847880_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": false,
+								"numberColors": 1,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/9/optimized/1788319_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "9/optimized/1788319_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/1788320_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "0/optimized/1788320_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2493980,
+								"colornormal": "Brown",
+								"color": "Brown/Khaki/Camel",
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/2847880_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "0/optimized/2847880_fpx",
+									"sequenceNumber": 0
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 4,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/8/optimized/1788318_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "8/optimized/1788318_fpx",
+									"sequenceNumber": 0
+								}
+							}
+						],
+						"price": {
+							"regular": {
+								"value": 78.0
+							},
+							"pricetype": "Ticket",
+							"pricetypeid": 0,
+							"onsale": false,
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": false
+						}
+					},
+					{
+						"id": 2961597,
+						"summary": {
+							"name": "Calvin Klein Pebble Leather Mini Crossbody",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": true,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-pebble-leather-mini-crossbody?ID=2961597",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 107,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/6/optimized/3568366_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "6/optimized/3568366_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": false,
+								"numberColors": 1,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/9/optimized/3568419_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "9/optimized/3568419_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/7/optimized/3568417_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "7/optimized/3568417_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2493968,
+								"colornormal": "Black",
+								"color": "Black",
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/6/optimized/3568366_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "6/optimized/3568366_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 1,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/7/optimized/3568367_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "7/optimized/3568367_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"sale": {
+								"value": 93.45,
+								"label": "Sale"
+							},
+							"was": {
+								"value": 133.5,
+								"label": "Was"
+							},
+							"regular": {
+								"value": 168.0,
+								"label": "Reg."
+							},
+							"pricetype": "Deal of the Day",
+							"pricetypeid": 23,
+							"onsale": true,
+							"displayText": "Deal of the Day",
+							"pricingPolicyText": "\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.",
+							"pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2961597",
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": true
+						}
+					},
+					{
+						"id": 2961592,
+						"summary": {
+							"name": "Calvin Klein Chelsea Quilted Crossbody",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": false,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-chelsea-quilted-crossbody?ID=2961592",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 624,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/5/optimized/3755965_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "5/optimized/3755965_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": false,
+								"numberColors": 1,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/5/optimized/2520465_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "5/optimized/2520465_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/6/optimized/2520466_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "6/optimized/2520466_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2493965,
+								"colornormal": "Multi",
+								"color": "Black/Silver",
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/5/optimized/3755965_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "5/optimized/3755965_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 1,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/6/optimized/3755966_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "6/optimized/3755966_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"regular": {
+								"value": 118.0
+							},
+							"pricetype": "Ticket",
+							"pricetypeid": 0,
+							"onsale": false,
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": false
+						}
+					},
+					{
+						"id": 2936146,
+						"summary": {
+							"name": "Calvin Klein Saffiano Leather Tote",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": true,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-saffiano-leather-tote?ID=2936146",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 1218,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/5/optimized/2706055_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "5/optimized/2706055_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": false,
+								"numberColors": 1,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/1561920_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "0/optimized/1561920_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/1/optimized/1561921_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "1/optimized/1561921_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2472467,
+								"colornormal": "White",
+								"color": "White",
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/5/optimized/2706055_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "5/optimized/2706055_fpx",
+									"sequenceNumber": 0
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 6,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/9/optimized/2706979_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "9/optimized/2706979_fpx",
+									"sequenceNumber": 0
+								}
+							}
+						],
+						"price": {
+							"sale": {
+								"value": 93.09,
+								"label": "Sale"
+							},
+							"was": {
+								"value": 132.99,
+								"label": "Was"
+							},
+							"regular": {
+								"value": 178.0,
+								"label": "Reg."
+							},
+							"pricetype": "Deal of the Day",
+							"pricetypeid": 23,
+							"onsale": true,
+							"displayText": "Deal of the Day",
+							"pricingPolicyText": "\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.",
+							"pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2936146",
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": true
+						}
+					},
+					{
+						"id": 2936104,
+						"summary": {
+							"name": "Calvin Klein Extra Large Reversible Tote with Pouch",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": true,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-extra-large-reversible-tote-with-pouch?ID=2936104",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 497,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/2/optimized/3405372_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "2/optimized/3405372_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": false,
+								"numberColors": 1,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/3075740_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "0/optimized/3075740_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2472423,
+								"colornormal": "Black",
+								"color": "Black Combo",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/6/optimized/3408016_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "6/optimized/3408016_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/2/optimized/3405372_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "2/optimized/3405372_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 2,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/3/optimized/3405373_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "3/optimized/3405373_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"sale": {
+								"value": 88.19,
+								"label": "Sale"
+							},
+							"was": {
+								"value": 125.99,
+								"label": "Was"
+							},
+							"regular": {
+								"value": 168.0,
+								"label": "Reg."
+							},
+							"pricetype": "Deal of the Day",
+							"pricetypeid": 23,
+							"onsale": true,
+							"displayText": "Deal of the Day",
+							"pricingPolicyText": "\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.",
+							"pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2936104",
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": true
+						}
+					},
+					{
+						"id": 2936098,
+						"summary": {
+							"name": "Calvin Klein Saffiano Tote",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": true,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-saffiano-tote?ID=2936098",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 483,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/2/optimized/3542482_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "2/optimized/3542482_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": true,
+								"numberColors": 2,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/8/optimized/2780658_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "8/optimized/2780658_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/9/optimized/2780659_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "9/optimized/2780659_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2472416,
+								"colornormal": "Tan/Beige",
+								"color": "Nude Combo",
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/7/optimized/3476697_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "7/optimized/3476697_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 2,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/8/optimized/3476698_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "8/optimized/3476698_fpx",
+									"sequenceNumber": 1
+								}
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2472415,
+								"colornormal": "Brown",
+								"color": "Luggage/Burnt Orange",
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/2/optimized/3542482_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "2/optimized/3542482_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 1,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/3/optimized/3542483_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "3/optimized/3542483_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"sale": {
+								"value": 93.09,
+								"label": "Sale"
+							},
+							"was": {
+								"value": 132.99,
+								"label": "Was"
+							},
+							"regular": {
+								"value": 178.0,
+								"label": "Reg."
+							},
+							"pricetype": "Deal of the Day",
+							"pricetypeid": 23,
+							"onsale": true,
+							"displayText": "Deal of the Day",
+							"pricingPolicyText": "\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.",
+							"pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2936098",
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": true
+						}
+					},
+					{
+						"id": 2936095,
+						"summary": {
+							"name": "Calvin Klein On My Corner Saffiano Crossbody",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": true,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-on-my-corner-saffiano-crossbody?ID=2936095",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 644,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/4/optimized/3542474_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "4/optimized/3542474_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": false,
+								"numberColors": 1,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/2479040_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "0/optimized/2479040_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/1/optimized/2479041_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "1/optimized/2479041_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2472401,
+								"colornormal": "Tan/Beige",
+								"color": "Nude",
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/4/optimized/3542474_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "4/optimized/3542474_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 2,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/5/optimized/3542475_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "5/optimized/3542475_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"sale": {
+								"value": 77.69,
+								"label": "Sale"
+							},
+							"was": {
+								"value": 110.99,
+								"label": "Was"
+							},
+							"regular": {
+								"value": 148.0,
+								"label": "Reg."
+							},
+							"pricetype": "Deal of the Day",
+							"pricetypeid": 23,
+							"onsale": true,
+							"displayText": "Deal of the Day",
+							"pricingPolicyText": "\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.",
+							"pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2936095",
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": true
+						}
+					},
+					{
+						"id": 2936091,
+						"summary": {
+							"name": "Calvin Klein Reversible Tote With Pouch",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": true,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-reversible-tote-with-pouch?ID=2936091",
+							"iscollection": false,
+							"available": true,
+							"customerrating": 5.0,
+							"productstartdays": 658,
+							"totalreviews": 1
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/2979650_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "0/optimized/2979650_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": true,
+								"numberColors": 2,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/1/optimized/2449771_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "1/optimized/2449771_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2472382,
+								"colornormal": "Blue",
+								"color": "Navy/Luggage",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/9/optimized/2979649_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "9/optimized/2979649_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/7/optimized/2979647_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "7/optimized/2979647_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 3,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/8/optimized/2979648_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "8/optimized/2979648_fpx",
+									"sequenceNumber": 1
+								}
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2472381,
+								"colornormal": "Orange",
+								"color": "Dark Orange/Luggage",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/2/optimized/2979652_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "2/optimized/2979652_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/2979650_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "0/optimized/2979650_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 2,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/1/optimized/2979651_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "1/optimized/2979651_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"sale": {
+								"value": 77.69,
+								"label": "Sale"
+							},
+							"was": {
+								"value": 110.99,
+								"label": "Was"
+							},
+							"regular": {
+								"value": 148.0,
+								"label": "Reg."
+							},
+							"pricetype": "Deal of the Day",
+							"pricetypeid": 23,
+							"onsale": true,
+							"displayText": "Deal of the Day",
+							"pricingPolicyText": "\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.",
+							"pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2936091",
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": true
+						}
+					},
+					{
+						"id": 2936081,
+						"summary": {
+							"name": "Calvin Klein Monogram Chain Tote",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": true,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-monogram-chain-tote?ID=2936081",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 686,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/8/optimized/3620888_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "8/optimized/3620888_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": false,
+								"numberColors": 1,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/7/optimized/2372557_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "7/optimized/2372557_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/8/optimized/2372558_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "8/optimized/2372558_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2472374,
+								"colornormal": "Brown",
+								"color": "Brown/Khaki/Burnt Orange Saffiano",
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/8/optimized/3620888_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "8/optimized/3620888_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 3,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/9/optimized/3620889_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "9/optimized/3620889_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"sale": {
+								"value": 82.59,
+								"label": "Sale"
+							},
+							"was": {
+								"value": 117.99,
+								"label": "Was"
+							},
+							"regular": {
+								"value": 158.0,
+								"label": "Reg."
+							},
+							"pricetype": "Deal of the Day",
+							"pricetypeid": 23,
+							"onsale": true,
+							"displayText": "Deal of the Day",
+							"pricingPolicyText": "\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.",
+							"pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2936081",
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": true
+						}
+					},
+					{
+						"id": 2936077,
+						"summary": {
+							"name": "Calvin Klein Signature Reversible Tote With Pouch",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": true,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-signature-reversible-tote-with-pouch?ID=2936077",
+							"iscollection": false,
+							"available": true,
+							"customerrating": 1.0,
+							"productstartdays": 661,
+							"totalreviews": 1
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/3/optimized/3663373_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "3/optimized/3663373_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": true,
+								"numberColors": 2,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/6/optimized/3444256_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "6/optimized/3444256_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2472362,
+								"colornormal": "Tan/Beige",
+								"color": "Khaki/Brown/Luggage",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/6/optimized/2872266_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "6/optimized/2872266_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/4/optimized/2872264_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "4/optimized/2872264_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 1,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/5/optimized/2872265_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "5/optimized/2872265_fpx",
+									"sequenceNumber": 1
+								}
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2472365,
+								"colornormal": "Brown",
+								"color": "Brown/Khaki/Burnt Orange Saffiano",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/7/optimized/3663377_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "7/optimized/3663377_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/3/optimized/3663373_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "3/optimized/3663373_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 4,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/6/optimized/3663996_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "6/optimized/3663996_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"sale": {
+								"value": 77.69,
+								"label": "Sale"
+							},
+							"was": {
+								"value": 110.99,
+								"label": "Was"
+							},
+							"regular": {
+								"value": 148.0,
+								"label": "Reg."
+							},
+							"pricetype": "Deal of the Day",
+							"pricetypeid": 23,
+							"onsale": true,
+							"displayText": "Deal of the Day",
+							"pricingPolicyText": "\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.",
+							"pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2936077",
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": true
+						}
+					},
+					{
+						"id": 2929611,
+						"summary": {
+							"name": "Calvin Klein Quilted Lamb Drawstring Bag",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": false,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-quilted-lamb-drawstring-bag?ID=2929611",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 7,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/1/optimized/3774031_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "1/optimized/3774031_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": false,
+								"numberColors": 1,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/7/optimized/3784197_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "7/optimized/3784197_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2477965,
+								"colornormal": "Multi",
+								"color": "Black/Gold",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/7/optimized/3784197_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "7/optimized/3784197_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/1/optimized/3774031_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "1/optimized/3774031_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 0,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/2/optimized/3774032_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "2/optimized/3774032_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"regular": {
+								"value": 258.0
+							},
+							"pricetype": "Ticket",
+							"pricetypeid": 0,
+							"onsale": false,
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": true,
+							"Rebate": false,
+							"onsale": false
+						}
+					},
+					{
+						"id": 2928252,
+						"summary": {
+							"name": "Calvin Klein Hudson Signature Hobo",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": false,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-hudson-signature-hobo?ID=2928252",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 644,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/8/optimized/3745828_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "8/optimized/3745828_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": false,
+								"numberColors": 1,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/4/optimized/2479014_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "4/optimized/2479014_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/5/optimized/2479015_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "5/optimized/2479015_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2466132,
+								"colornormal": "Brown",
+								"color": "Textured Brown",
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/8/optimized/3745828_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "8/optimized/3745828_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 2,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/9/optimized/3745829_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "9/optimized/3745829_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"regular": {
+								"value": 178.0
+							},
+							"pricetype": "Ticket",
+							"pricetypeid": 0,
+							"onsale": false,
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": false
+						}
+					},
+					{
+						"id": 2928108,
+						"summary": {
+							"name": "Calvin Klein Ballistic Nylon Backpack",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": true,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-ballistic-nylon-backpack?ID=2928108",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 272,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/1/optimized/3212951_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "1/optimized/3212951_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": true,
+								"numberColors": 2,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/5/optimized/3212955_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "5/optimized/3212955_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2465989,
+								"colornormal": "Black",
+								"color": "Black Combo",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/5/optimized/3212955_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "5/optimized/3212955_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/1/optimized/3212951_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "1/optimized/3212951_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 0,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/2/optimized/3212952_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "2/optimized/3212952_fpx",
+									"sequenceNumber": 1
+								}
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2465991,
+								"colornormal": "Gray",
+								"color": "Grey Combo",
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/7/optimized/3212947_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "7/optimized/3212947_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 2,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/8/optimized/3212948_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "8/optimized/3212948_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"sale": {
+								"value": 93.09,
+								"label": "Sale"
+							},
+							"was": {
+								"value": 132.99,
+								"label": "Was"
+							},
+							"regular": {
+								"value": 178.0,
+								"label": "Reg."
+							},
+							"pricetype": "Deal of the Day",
+							"pricetypeid": 23,
+							"onsale": true,
+							"displayText": "Deal of the Day",
+							"pricingPolicyText": "\"Regular\" and \"Original\" prices are offering prices that may not have resulted in actual sales, and some \"Original\" prices may not have been in effect during the past 180 days.",
+							"pricingPolicy": "/catalog/product/pricingpolicy.ognc?fpriceTypeId=23&daysInC=17018&ID=2928108",
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": true
+						}
+					},
+					{
+						"id": 2918873,
+						"summary": {
+							"name": "Calvin Klein On My Corner Saffiano Leather Satchel",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": false,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-on-my-corner-saffiano-leather-satchel?ID=2918873",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 7,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/2/optimized/3731362_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "2/optimized/3731362_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": false,
+								"numberColors": 1,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/4/optimized/3731364_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "4/optimized/3731364_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/5/optimized/3731365_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "5/optimized/3731365_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2459342,
+								"colornormal": "Black",
+								"color": "Black",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/4/optimized/3731364_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "4/optimized/3731364_fpx",
+										"sequenceNumber": 1
+									},
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/5/optimized/3731365_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "5/optimized/3731365_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/2/optimized/3731362_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "2/optimized/3731362_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 0,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/3/optimized/3731363_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "3/optimized/3731363_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"regular": {
+								"value": 238.0
+							},
+							"pricetype": "Ticket",
+							"pricetypeid": 0,
+							"onsale": false,
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": true,
+							"Rebate": false,
+							"onsale": false
+						}
+					},
+					{
+						"id": 2918853,
+						"summary": {
+							"name": "Calvin Klein Reversible Pebble Tote with Pouch",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": false,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-reversible-pebble-tote-with-pouch?ID=2918853",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 29,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/3731230_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "0/optimized/3731230_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": false,
+								"numberColors": 1,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/1/optimized/3731261_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "1/optimized/3731261_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/2/optimized/3731262_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "2/optimized/3731262_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2458853,
+								"colornormal": "Multi",
+								"color": "Black Grey",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/1/optimized/3731261_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "1/optimized/3731261_fpx",
+										"sequenceNumber": 1
+									},
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/2/optimized/3731262_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "2/optimized/3731262_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/3731230_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "0/optimized/3731230_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 0,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/1/optimized/3731231_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "1/optimized/3731231_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"regular": {
+								"value": 168.0
+							},
+							"pricetype": "Ticket",
+							"pricetypeid": 0,
+							"onsale": false,
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": true,
+							"Rebate": false,
+							"onsale": false
+						}
+					},
+					{
+						"id": 2918852,
+						"summary": {
+							"name": "Calvin Klein Saffiano Mini Dome Satchel",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": false,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-saffiano-mini-dome-satchel?ID=2918852",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 52,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/8/optimized/3731218_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "8/optimized/3731218_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": false,
+								"numberColors": 1,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/9/optimized/3731239_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "9/optimized/3731239_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/3731240_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "0/optimized/3731240_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2458847,
+								"colornormal": "Black",
+								"color": "Black",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/9/optimized/3731239_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "9/optimized/3731239_fpx",
+										"sequenceNumber": 1
+									},
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/3731240_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "0/optimized/3731240_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/8/optimized/3731218_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "8/optimized/3731218_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 0,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/9/optimized/3731219_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "9/optimized/3731219_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"regular": {
+								"value": 238.0
+							},
+							"pricetype": "Ticket",
+							"pricetypeid": 0,
+							"onsale": false,
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": false
+						}
+					},
+					{
+						"id": 2918845,
+						"summary": {
+							"name": "Calvin Klein Hudson Monogram Crossbody",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": false,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-hudson-monogram-crossbody?ID=2918845",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 52,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/3731220_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "0/optimized/3731220_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": false,
+								"numberColors": 1,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/1/optimized/3731241_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "1/optimized/3731241_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/2/optimized/3731242_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "2/optimized/3731242_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2458848,
+								"colornormal": "Brown",
+								"color": "Brown Khaki/Luggage",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/1/optimized/3731241_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "1/optimized/3731241_fpx",
+										"sequenceNumber": 1
+									},
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/2/optimized/3731242_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "2/optimized/3731242_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/3731220_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "0/optimized/3731220_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 0,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/1/optimized/3731221_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "1/optimized/3731221_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"regular": {
+								"value": 128.0
+							},
+							"pricetype": "Ticket",
+							"pricetypeid": 0,
+							"onsale": false,
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": false
+						}
+					},
+					{
+						"id": 2916806,
+						"summary": {
+							"name": "Calvin Klein Hudson Messenger",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": false,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-hudson-messenger?ID=2916806",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 7,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/4/optimized/3773994_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "4/optimized/3773994_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": false,
+								"numberColors": 1,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/1/optimized/3774001_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "1/optimized/3774001_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/2/optimized/3774002_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "2/optimized/3774002_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2477867,
+								"colornormal": "Brown",
+								"color": "Brown/Khaki/Luggage Saffiano",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/1/optimized/3774001_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "1/optimized/3774001_fpx",
+										"sequenceNumber": 1
+									},
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/2/optimized/3774002_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "2/optimized/3774002_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/4/optimized/3773994_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "4/optimized/3773994_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 0,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/5/optimized/3773995_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "5/optimized/3773995_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"regular": {
+								"value": 148.0
+							},
+							"pricetype": "Ticket",
+							"pricetypeid": 0,
+							"onsale": false,
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": true,
+							"Rebate": false,
+							"onsale": false
+						}
+					},
+					{
+						"id": 2916154,
+						"summary": {
+							"name": "Calvin Klein Quilted Mini Saddle Crossbody",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": false,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-quilted-mini-saddle-crossbody?ID=2916154",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 7,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/2/optimized/3776302_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "2/optimized/3776302_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": false,
+								"numberColors": 1,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/5/optimized/3776305_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "5/optimized/3776305_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/6/optimized/3776306_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "6/optimized/3776306_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2479244,
+								"colornormal": "Multi",
+								"color": "Black/Gold",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/5/optimized/3776305_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "5/optimized/3776305_fpx",
+										"sequenceNumber": 1
+									},
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/6/optimized/3776306_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "6/optimized/3776306_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/2/optimized/3776302_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "2/optimized/3776302_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 0,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/3/optimized/3776303_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "3/optimized/3776303_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"regular": {
+								"value": 158.0
+							},
+							"pricetype": "Ticket",
+							"pricetypeid": 0,
+							"onsale": false,
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": true,
+							"Rebate": false,
+							"onsale": false
+						}
+					},
+					{
+						"id": 2910964,
+						"summary": {
+							"name": "Calvin Klein Large Reversible Monogram Tote with Pouch",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": false,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-large-reversible-monogram-tote-with-pouch?ID=2910964",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 52,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/5/optimized/3718795_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "5/optimized/3718795_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": false,
+								"numberColors": 1,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/6/optimized/3718796_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "6/optimized/3718796_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/8/optimized/3718798_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "8/optimized/3718798_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2453429,
+								"colornormal": "Brown",
+								"color": "Textured Khaki/Brown",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/6/optimized/3718796_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "6/optimized/3718796_fpx",
+										"sequenceNumber": 1
+									},
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/8/optimized/3718798_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "8/optimized/3718798_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/5/optimized/3718795_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "5/optimized/3718795_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 0,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/9/optimized/3718799_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "9/optimized/3718799_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"regular": {
+								"value": 148.0
+							},
+							"pricetype": "Ticket",
+							"pricetypeid": 0,
+							"onsale": false,
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": false
+						}
+					},
+					{
+						"id": 2910878,
+						"summary": {
+							"name": "Calvin Klein Medium Reversible Shopper with Pouch",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": false,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-medium-reversible-shopper-with-pouch?ID=2910878",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 38,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/3/optimized/3714213_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "3/optimized/3714213_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": true,
+								"numberColors": 3,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/6/optimized/3714216_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "6/optimized/3714216_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/7/optimized/3714217_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "7/optimized/3714217_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2452163,
+								"colornormal": "Brown",
+								"color": "Luggage Black",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/7/optimized/3717047_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "7/optimized/3717047_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/4/optimized/3714214_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "4/optimized/3714214_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 1,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/1/optimized/3714221_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "1/optimized/3714221_fpx",
+									"sequenceNumber": 1
+								}
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2502736,
+								"colornormal": "Brown",
+								"color": "Brown/Khaki/Luggage Saffiano",
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 2
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2452162,
+								"colornormal": "Black",
+								"color": "Black Luggage",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/6/optimized/3714216_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "6/optimized/3714216_fpx",
+										"sequenceNumber": 1
+									},
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/7/optimized/3714217_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "7/optimized/3714217_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/3/optimized/3714213_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "3/optimized/3714213_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 0,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/8/optimized/3714218_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "8/optimized/3714218_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"regular": {
+								"value": 138.0
+							},
+							"pricetype": "Ticket",
+							"pricetypeid": 0,
+							"onsale": false,
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": false
+						}
+					},
+					{
+						"id": 2910819,
+						"summary": {
+							"name": "Calvin Klein Large Reversible Pebble Tote with Pouch",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": false,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-large-reversible-pebble-tote-with-pouch?ID=2910819",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 52,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/4/optimized/3732224_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "4/optimized/3732224_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": true,
+								"numberColors": 2,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/1/optimized/3732231_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "1/optimized/3732231_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/2/optimized/3732232_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "2/optimized/3732232_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2460853,
+								"colornormal": "Brown",
+								"color": "Lug Blk",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/5/optimized/3745565_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "5/optimized/3745565_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/3/optimized/3745563_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "3/optimized/3745563_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 1,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/4/optimized/3745564_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "4/optimized/3745564_fpx",
+									"sequenceNumber": 1
+								}
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2460852,
+								"colornormal": "Black",
+								"color": "Blk Luggag",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/1/optimized/3732231_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "1/optimized/3732231_fpx",
+										"sequenceNumber": 1
+									},
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/2/optimized/3732232_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "2/optimized/3732232_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/4/optimized/3732224_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "4/optimized/3732224_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 0,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/5/optimized/3732225_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "5/optimized/3732225_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"regular": {
+								"value": 148.0
+							},
+							"pricetype": "Ticket",
+							"pricetypeid": 0,
+							"onsale": false,
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": false
+						}
+					},
+					{
+						"id": 2910759,
+						"summary": {
+							"name": "Calvin Klein 2-in-1 Convertible Crossbody",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": false,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-2-in-1-convertible-crossbody?ID=2910759",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 52,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/3/optimized/3714253_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "3/optimized/3714253_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": true,
+								"numberColors": 2,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/8/optimized/3714258_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "8/optimized/3714258_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/9/optimized/3714259_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "9/optimized/3714259_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/3726510_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "0/optimized/3726510_fpx",
+								"sequenceNumber": 2
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2452201,
+								"colornormal": "Brown",
+								"color": "Luggage Black",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/8/optimized/3726518_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "8/optimized/3726518_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/5/optimized/3714255_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "5/optimized/3714255_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 0,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/6/optimized/3714256_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "6/optimized/3714256_fpx",
+									"sequenceNumber": 1
+								}
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2452202,
+								"colornormal": "Multi",
+								"color": "Black Grey",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/8/optimized/3714258_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "8/optimized/3714258_fpx",
+										"sequenceNumber": 1
+									},
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/9/optimized/3714259_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "9/optimized/3714259_fpx",
+										"sequenceNumber": 1
+									},
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/3726510_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "0/optimized/3726510_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/3/optimized/3714253_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "3/optimized/3714253_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 1,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/4/optimized/3714254_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "4/optimized/3714254_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"regular": {
+								"value": 128.0
+							},
+							"pricetype": "Ticket",
+							"pricetypeid": 0,
+							"onsale": false,
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": false
+						}
+					},
+					{
+						"id": 2910661,
+						"summary": {
+							"name": "Calvin Klein Saffiano Leather Tote",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": false,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-saffiano-leather-tote?ID=2910661",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 52,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/8/optimized/3731228_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "8/optimized/3731228_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": true,
+								"numberColors": 2,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/8/optimized/3736628_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "8/optimized/3736628_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/9/optimized/3736629_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "9/optimized/3736629_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2458854,
+								"colornormal": "Brown",
+								"color": "Luggage Black",
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 0
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2458855,
+								"colornormal": "Black",
+								"color": "Black Steel",
+								"upcadditionalimage": [
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/8/optimized/3736628_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "8/optimized/3736628_fpx",
+										"sequenceNumber": 1
+									},
+									{
+										"imagetype": "UPC_ADDITIONAL_IMAGE",
+										"imageurl": "http://slimages.macys.com/is/image/MCY/products/9/optimized/3736629_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+										"imagename": "9/optimized/3736629_fpx",
+										"sequenceNumber": 1
+									}
+								],
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/8/optimized/3731228_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "8/optimized/3731228_fpx",
+									"sequenceNumber": 1
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 1,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/9/optimized/3731229_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "9/optimized/3731229_fpx",
+									"sequenceNumber": 1
+								}
+							}
+						],
+						"price": {
+							"regular": {
+								"value": 198.0
+							},
+							"pricetype": "Ticket",
+							"pricetypeid": 0,
+							"onsale": false,
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": false
+						}
+					}
+				]
+			},
+			"bopsfacetavailable": false
+		}
+	]
+}

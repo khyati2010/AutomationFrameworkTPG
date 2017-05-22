@@ -5,6 +5,8 @@ import com.iambank.pages.IntroScreens.ThirdIntroScreen;
 import com.iambank.pages.IntroScreens.SecondIntroScreen;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+
+import com.iambank.configuration.framework.IntroScreenTitles;
 import com.iambank.execution.app.IAMBankAppInstance;
 import com.iambank.execution.test.AppTestBase;
 import com.iambank.pages.OnBoardingScreens.MarketSelectionScreen;
@@ -14,18 +16,18 @@ public class SecondIntroScreenTest extends AppTestBase{
 	@Test(dataProvider = DEFAULT_PROVIDER)
 	public void testSecondIntroScreenUI(IAMBankAppInstance app) throws IOException, InterruptedException {
 		SecondIntroScreen secondScreen = moveToSecondScreen(app);
-		Assert.assertEquals(secondScreen.getSecondScreenMainDescription(), "Use everyday shopping to pay off your debt.");
-		Assert.assertEquals(secondScreen.getSecondScreenSmallDescription(), "At zero cost to you. There are no catches, sorry.");
-		Assert.assertEquals(secondScreen.getSecondScreenNextButtonText(), "I'm listening.");     	
-       	Assert.assertEquals(secondScreen.getSecondScreenSkipthisStuffLinkText(), "Skip this stuff");       	
-       	Assert.assertEquals(secondScreen.getScreenNumber(), "2 OF 4");		
+		Assert.assertEquals(secondScreen.getSecondScreenMainDescription(), IntroScreenTitles.SecondIntroScreen.title());
+		Assert.assertEquals(secondScreen.getSecondScreenSmallDescription(), IntroScreenTitles.SecondIntroSmallText.title());
+		Assert.assertEquals(secondScreen.getSecondScreenNextButtonText(), IntroScreenTitles.SecondIntroBttnText.title());     	
+       	Assert.assertEquals(secondScreen.getSecondScreenSkipthisStuffLinkText(), IntroScreenTitles.IntroSkipText.title());       	
+       	Assert.assertEquals(secondScreen.getScreenNumber(), IntroScreenTitles.SecondIntroScreenNumber.title());		
 	}
 	
 	@Test(dataProvider = DEFAULT_PROVIDER) 
 	  public void testNextButtonFunctionality(IAMBankAppInstance app ) throws IOException, InterruptedException  {
 		ThirdIntroScreen thirdScreen = moveToSecondScreen(app)
 				.clickSecondIntroNextButton();
-		Assert.assertEquals(thirdScreen.getScreenNumber(), "3 OF 4");		  
+		Assert.assertEquals(thirdScreen.getScreenNumber(), IntroScreenTitles.ThirdIntroScreenNumber.title());		  
 	  }
 	
 	 @Test(dataProvider = DEFAULT_PROVIDER)

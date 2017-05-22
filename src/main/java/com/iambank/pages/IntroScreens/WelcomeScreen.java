@@ -4,8 +4,7 @@ import com.iambank.pages.basepages.AppBasePage;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import com.iambank.configuration.app.AppiumCapabilities;
-import com.iambank.pages.SplashScreen.SignInScreen;
-
+import com.iambank.pages.SignInScreens.SignInScreen;
 public class WelcomeScreen extends AppBasePage{
 	
 	public WelcomeScreen(AppiumDriver<MobileElement> driver, AppiumCapabilities driverCapabilities) {

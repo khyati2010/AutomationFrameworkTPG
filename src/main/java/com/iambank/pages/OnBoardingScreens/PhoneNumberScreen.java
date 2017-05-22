@@ -4,9 +4,7 @@ import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileBy;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
-
 import java.util.List;
-
 import com.iambank.configuration.app.AppiumCapabilities;
 import com.iambank.configuration.framework.ScreenTitles;
 import com.iambank.configuration.framework.PhoneNumberCountryName;

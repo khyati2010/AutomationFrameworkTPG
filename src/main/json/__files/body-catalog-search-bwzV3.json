@@ -1,1 +1,110 @@
-{"searchinput":{"searchphrase":"2961604","sortorderby":"default","perpage":24,"page":1,"inventoryassortment":"SITE","imageWidth":"328","upcimagewidth":"164","swatchimagewidth":"57","application":"MOBILE","device":"PHONE","country":"US","facetGroupsSupported":true},"messageFlag":false,"bopsFacetFlag":false,"redirect":{"redirecttype":"PDP","locationid":"2961604","locationurl":"http://www1.macys.com/shop/product/calvin-klein-monogram-crossbody?ID=2961604"},"searchresultgroups":[{"products":{"product":[{"id":2961604,"summary":{"name":"Calvin Klein Monogram Crossbody","producttype":"HANDBAG","brand":"Calvin Klein","onsale":false,"producturl":"http://www1.macys.com/shop/product/calvin-klein-monogram-crossbody?ID=2961604","iscollection":false,"available":true,"productstartdays":1039,"totalreviews":0},"image":[{"imagetype":"PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/2847880_fpx.tif?bgc=255,255,255&wid=328&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/2847880_fpx","colorized":true,"sequenceNumber":0,"hasMoreColors":false,"numberColors":1,"isPrimaryImage":true},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/9/optimized/1788319_fpx.tif?bgc=255,255,255&wid=328&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"9/optimized/1788319_fpx","sequenceNumber":0},{"imagetype":"ADDITIONAL_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/1788320_fpx.tif?bgc=255,255,255&wid=328&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/1788320_fpx","sequenceNumber":1},{"type":"colorwayImage","imagetype":"COLORWAY","id":2493980,"colornormal":"Brown","color":"Brown/Khaki/Camel","upcprimaryimage":{"imagetype":"UPC_PRIMARY_IMAGE","imageurl":"http://slimages.macys.com/is/image/MCY/products/0/optimized/2847880_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg","imagename":"0/optimized/2847880_fpx","sequenceNumber":0},"swatchsequencenumber":0,"swapoutsequencenumber":4,"swatchimage":{"imagetype":"SWATCH","imageurl":"http://slimages.macys.com/is/image/MCY/swatches/8/optimized/1788318_fpx.tif?wid=57&amp;fmt=jpeg","imagename":"8/optimized/1788318_fpx","sequenceNumber":0}}],"price":{"regular":{"value":78.0},"pricetype":"Ticket","pricetypeid":0,"onsale":false,"onEdv":false},"category":[{"id":26846,"type":"homecategory"}],"badges":{"new":false,"Rebate":false,"onsale":false}}]}}]}
+{
+	"searchinput": {
+		"searchphrase": "2961604",
+		"sortorderby": "default",
+		"perpage": 24,
+		"page": 1,
+		"inventoryassortment": "SITE",
+		"imageWidth": "328",
+		"upcimagewidth": "164",
+		"swatchimagewidth": "57",
+		"application": "MOBILE",
+		"device": "PHONE",
+		"country": "US",
+		"facetGroupsSupported": true
+	},
+	"messageFlag": false,
+	"bopsFacetFlag": false,
+	"redirect": {
+		"redirecttype": "PDP",
+		"locationid": "2961604",
+		"locationurl": "http://www1.macys.com/shop/product/calvin-klein-monogram-crossbody?ID=2961604"
+	},
+	"searchresultgroups": [
+		{
+			"products": {
+				"product": [
+					{
+						"id": 2961604,
+						"summary": {
+							"name": "Calvin Klein Monogram Crossbody",
+							"producttype": "HANDBAG",
+							"brand": "Calvin Klein",
+							"onsale": false,
+							"producturl": "http://www1.macys.com/shop/product/calvin-klein-monogram-crossbody?ID=2961604",
+							"iscollection": false,
+							"available": true,
+							"productstartdays": 1039,
+							"totalreviews": 0
+						},
+						"image": [
+							{
+								"imagetype": "PRIMARY_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/2847880_fpx.tif?bgc=255,255,255&wid=328&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "0/optimized/2847880_fpx",
+								"colorized": true,
+								"sequenceNumber": 0,
+								"hasMoreColors": false,
+								"numberColors": 1,
+								"isPrimaryImage": true
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/9/optimized/1788319_fpx.tif?bgc=255,255,255&wid=328&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "9/optimized/1788319_fpx",
+								"sequenceNumber": 0
+							},
+							{
+								"imagetype": "ADDITIONAL_IMAGE",
+								"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/1788320_fpx.tif?bgc=255,255,255&wid=328&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+								"imagename": "0/optimized/1788320_fpx",
+								"sequenceNumber": 1
+							},
+							{
+								"type": "colorwayImage",
+								"imagetype": "COLORWAY",
+								"id": 2493980,
+								"colornormal": "Brown",
+								"color": "Brown/Khaki/Camel",
+								"upcprimaryimage": {
+									"imagetype": "UPC_PRIMARY_IMAGE",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/products/0/optimized/2847880_fpx.tif?bgc=255,255,255&wid=164&qlt=90&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+									"imagename": "0/optimized/2847880_fpx",
+									"sequenceNumber": 0
+								},
+								"swatchsequencenumber": 0,
+								"swapoutsequencenumber": 4,
+								"swatchimage": {
+									"imagetype": "SWATCH",
+									"imageurl": "http://slimages.macys.com/is/image/MCY/swatches/8/optimized/1788318_fpx.tif?wid=57&amp;fmt=jpeg",
+									"imagename": "8/optimized/1788318_fpx",
+									"sequenceNumber": 0
+								}
+							}
+						],
+						"price": {
+							"regular": {
+								"value": 78.0
+							},
+							"pricetype": "Ticket",
+							"pricetypeid": 0,
+							"onsale": false,
+							"onEdv": false
+						},
+						"category": [
+							{
+								"id": 26846,
+								"type": "homecategory"
+							}
+						],
+						"badges": {
+							"new": false,
+							"Rebate": false,
+							"onsale": false
+						}
+					}
+				]
+			}
+		}
+	]
+}

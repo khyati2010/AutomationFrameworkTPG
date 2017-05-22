@@ -11,8 +11,10 @@ public class MarketSelectionTest extends AppTestBase {
 
 	@Test(dataProvider = DEFAULT_PROVIDER, priority = 1)
 	public void verifyMarketSelectionScreenisDisplayed(IAMBankAppInstance app) throws Exception {
-		MarketSelectionScreen marketSelectionScreen = app.startApp()
-				.movetoMarketSelectionScreen();		
+		MarketSelectionScreen marketSelectionScreen = app.startApp().movetoWelcomeScreen()
+				.clickWelcomeScreenNextButton()
+				.clickFirstIntroNextButton()
+				.clickSkipThisStuffLink();
 		Assert.assertTrue(marketSelectionScreen.getTitle().contains(marketSelectionScreen.expectedScreenTitle()));
 	}
 

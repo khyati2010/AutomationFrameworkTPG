@@ -24,8 +24,6 @@ public enum ScreenTitles {
 	SSNSmallText("Your security is extremely important to us. We don’t want to ask for these kinds of things, but Federal Law requires that we do."),
 	SSNFieldText("Social security number"),
 	SSNDocumentUploadText("Use document photo instead.");
-	
-	
     
     private String title;
 

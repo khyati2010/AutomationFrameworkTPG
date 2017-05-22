@@ -4,6 +4,7 @@ import com.iambank.configuration.framework.PhoneNumberCountryName;
 import com.iambank.configuration.framework.ScreenTitles;
 import com.iambank.execution.app.IAMBankAppInstance;
 import com.iambank.execution.test.AppTestBase;
+import com.iambank.pages.OnBoardingScreens.SSNScreen;
 import com.iambank.pages.OnBoardingScreens.USAddressScreen;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -55,8 +56,8 @@ public class USAddressScreenTest extends AppTestBase{
 				.enterLegalName("Test USER2").clickNextButton()
 				.selectCountry(PhoneNumberCountryName.India).enterPhoneNumber("9809155295").clickNextButton(false)
 				.enterVerificationCode("74503").clickNextButton()
-				.chosePIN("60938").clickNextButton()
-				.enterSSN("870695232").clickNextButton();		
+				.chosePIN("60938").clickNextButton(USAddressScreen.class);
+					
 				return addressScreenUS;	
 				
 	}

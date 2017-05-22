@@ -36,8 +36,10 @@ public class PhoneNumberTest extends AppTestBase {
 	
 	public PhoneNumberScreen movingToPhoneNumberScreen(IAMBankAppInstance app, String countryName ) throws Exception {
 		String legalName = "TestUser";
-		PhoneNumberScreen phoneNumberScreen = app.startApp()
-				.movetoMarketSelectionScreen()
+		PhoneNumberScreen phoneNumberScreen = app.startApp().movetoWelcomeScreen()
+				.clickWelcomeScreenNextButton()
+				.clickFirstIntroNextButton()
+				.clickSkipThisStuffLink()
 				.selectCountry(countryName)
 				.clickNextButton()
 				.enterLegalName(legalName)

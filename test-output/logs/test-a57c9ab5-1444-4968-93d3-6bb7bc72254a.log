@@ -1,4 +1,0 @@
-2017-05-03 17:52:07,055 INFO execution.test.TestBase - null
-2017-05-03 17:52:07,064 INFO execution.test.TestBase - Base setup complete!
-2017-05-03 17:52:07,065 WARN execution.test.TestBase - Unable to delete default log file [C:\IAMBank_Android_Automation\android_automation\test-output\logs\default.log].
-2017-05-03 17:52:07,066 INFO execution.test.TestBase - Preparing spring context...

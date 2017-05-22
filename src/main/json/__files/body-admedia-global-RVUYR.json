@@ -1,1 +1,115 @@
-{"mediaPoolMapper":{"mediaPoolItem":[{"poolName":"APP_HS_FLEX_POOL_AND","mediaItemMapper":{"mediaItem":[{"mediaLinkMapper":{"mediaLinkItem":[{"linkType":"STATIC","value":"#","fullLinkURL":"http://www1.macys.com#"}]},"height":0,"width":0,"text":"Shop by category","description":"Shop by category","mediaGroupType":"FLEXIBLE_POOL","mediaType":"FLEXIBLE_HEADER","mediaGroupId":"749161"},{"mediaLinkMapper":{"mediaLinkItem":[{"text":"Shop Women's","linkType":"CATEGORY","value":"118","fullLinkURL":"http://www1.macys.com/shop/womens-clothing?id=118&edge=hybrid"}]},"filename":"2789148","fullImageURL":"http://assets.macys.com/dyn_img/site_ads/2789148","height":0,"width":0,"text":"Shop Women's","description":"Shop Women's","mediaGroupType":"FLEXIBLE_POOL","mediaType":"IMAGE","mediaGroupId":"749161"},{"mediaLinkMapper":{"mediaLinkItem":[{"text":"Shop Men's","linkType":"CATEGORY","value":"1","fullLinkURL":"http://www1.macys.com/shop/mens-clothing?id=1&edge=hybrid"}]},"filename":"1355604","fullImageURL":"http://assets.macys.com/dyn_img/site_ads/1355604","height":0,"width":0,"text":"Shop Men's","description":"Shop Men's","mediaGroupType":"FLEXIBLE_POOL","mediaType":"IMAGE","mediaGroupId":"749161"},{"mediaLinkMapper":{"mediaLinkItem":[{"text":"Shop Shoes","linkType":"CATEGORY","value":"13247","fullLinkURL":"http://www1.macys.com/shop/shoes?id=13247&edge=hybrid"}]},"filename":"779791","fullImageURL":"http://assets.macys.com/dyn_img/site_ads/779791","height":0,"width":0,"text":"Shop Shoes","description":"Shop Shoes","mediaGroupType":"FLEXIBLE_POOL","mediaType":"IMAGE","mediaGroupId":"749161"},{"mediaLinkMapper":{"mediaLinkItem":[{"text":"Shop Home","linkType":"CATEGORY","value":"22672","fullLinkURL":"http://www1.macys.com/shop/for-the-home?id=22672&edge=hybrid"}]},"filename":"2561405","fullImageURL":"http://assets.macys.com/dyn_img/site_ads/2561405","height":0,"width":0,"text":"Shop Home","description":"Shop Home","mediaGroupType":"FLEXIBLE_POOL","mediaType":"IMAGE","mediaGroupId":"749161"}]}}]}}
+{
+	"mediaPoolMapper": {
+		"mediaPoolItem": [
+			{
+				"poolName": "APP_HS_FLEX_POOL_AND",
+				"mediaItemMapper": {
+					"mediaItem": [
+						{
+							"mediaLinkMapper": {
+								"mediaLinkItem": [
+									{
+										"linkType": "STATIC",
+										"value": "#",
+										"fullLinkURL": "http://www1.macys.com#"
+									}
+								]
+							},
+							"height": 0,
+							"width": 0,
+							"text": "Shop by category",
+							"description": "Shop by category",
+							"mediaGroupType": "FLEXIBLE_POOL",
+							"mediaType": "FLEXIBLE_HEADER",
+							"mediaGroupId": "749161"
+						},
+						{
+							"mediaLinkMapper": {
+								"mediaLinkItem": [
+									{
+										"text": "Shop Women's",
+										"linkType": "CATEGORY",
+										"value": "118",
+										"fullLinkURL": "http://www1.macys.com/shop/womens-clothing?id=118&edge=hybrid"
+									}
+								]
+							},
+							"filename": "2789148",
+							"fullImageURL": "http://assets.macys.com/dyn_img/site_ads/2789148",
+							"height": 0,
+							"width": 0,
+							"text": "Shop Women's",
+							"description": "Shop Women's",
+							"mediaGroupType": "FLEXIBLE_POOL",
+							"mediaType": "IMAGE",
+							"mediaGroupId": "749161"
+						},
+						{
+							"mediaLinkMapper": {
+								"mediaLinkItem": [
+									{
+										"text": "Shop Men's",
+										"linkType": "CATEGORY",
+										"value": "1",
+										"fullLinkURL": "http://www1.macys.com/shop/mens-clothing?id=1&edge=hybrid"
+									}
+								]
+							},
+							"filename": "1355604",
+							"fullImageURL": "http://assets.macys.com/dyn_img/site_ads/1355604",
+							"height": 0,
+							"width": 0,
+							"text": "Shop Men's",
+							"description": "Shop Men's",
+							"mediaGroupType": "FLEXIBLE_POOL",
+							"mediaType": "IMAGE",
+							"mediaGroupId": "749161"
+						},
+						{
+							"mediaLinkMapper": {
+								"mediaLinkItem": [
+									{
+										"text": "Shop Shoes",
+										"linkType": "CATEGORY",
+										"value": "13247",
+										"fullLinkURL": "http://www1.macys.com/shop/shoes?id=13247&edge=hybrid"
+									}
+								]
+							},
+							"filename": "779791",
+							"fullImageURL": "http://assets.macys.com/dyn_img/site_ads/779791",
+							"height": 0,
+							"width": 0,
+							"text": "Shop Shoes",
+							"description": "Shop Shoes",
+							"mediaGroupType": "FLEXIBLE_POOL",
+							"mediaType": "IMAGE",
+							"mediaGroupId": "749161"
+						},
+						{
+							"mediaLinkMapper": {
+								"mediaLinkItem": [
+									{
+										"text": "Shop Home",
+										"linkType": "CATEGORY",
+										"value": "22672",
+										"fullLinkURL": "http://www1.macys.com/shop/for-the-home?id=22672&edge=hybrid"
+									}
+								]
+							},
+							"filename": "2561405",
+							"fullImageURL": "http://assets.macys.com/dyn_img/site_ads/2561405",
+							"height": 0,
+							"width": 0,
+							"text": "Shop Home",
+							"description": "Shop Home",
+							"mediaGroupType": "FLEXIBLE_POOL",
+							"mediaType": "IMAGE",
+							"mediaGroupId": "749161"
+						}
+					]
+				}
+			}
+		]
+	}
+}

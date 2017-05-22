@@ -3,7 +3,7 @@ package com.iambank.pages.IntroScreens;
 import com.iambank.pages.basepages.AppBasePage;
 import com.iambank.configuration.app.AppiumCapabilities;
 import com.iambank.pages.OnBoardingScreens.MarketSelectionScreen;
-import com.iambank.pages.SplashScreen.SignInScreen;
+import com.iambank.pages.SignInScreens.SignInScreen;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 
