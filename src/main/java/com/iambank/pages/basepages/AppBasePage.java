@@ -102,6 +102,8 @@ public abstract class AppBasePage extends BasePage{
     	TouchAction act = new TouchAction(getDriver());
 		act.longPress(fromElement).moveTo(toElement).release().perform();		 	 
     }
+    
+    
 
 }
 

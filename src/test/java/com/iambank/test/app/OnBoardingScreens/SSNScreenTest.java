@@ -1,17 +1,12 @@
 package com.iambank.test.app.OnBoardingScreens;
 
-import java.io.IOException;
-import java.net.MalformedURLException;
-
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import com.iambank.configuration.framework.PhoneNumberCountryName;
 import com.iambank.configuration.framework.ScreenTitles;
 import com.iambank.execution.app.IAMBankAppInstance;
 import com.iambank.execution.test.AppTestBase;
 import com.iambank.pages.OnBoardingScreens.SSNScreen;
-import com.iambank.pages.OnBoardingScreens.USAddressScreen;
 
 public class SSNScreenTest extends AppTestBase{
 	
