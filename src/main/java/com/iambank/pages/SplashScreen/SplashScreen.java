@@ -6,6 +6,7 @@ import com.iambank.configuration.app.AppiumCapabilities;
 import com.iambank.pages.OnBoardingScreens.LegalNameScreen;
 import com.iambank.pages.OnBoardingScreens.MarketSelectionScreen;
 import com.iambank.pages.SignInScreens.SignInScreen;
+import com.iambank.pages.OnBoardingScreens.USAddressScreen;
 import com.iambank.pages.IntroScreens.*;
 import com.iambank.pages.basepages.AppBasePage;
 
@@ -31,9 +32,13 @@ public class SplashScreen extends AppBasePage {
     
     public SignInScreen movetoSignInScreen() throws InterruptedException{   
     	  return new SignInScreen (getDriver(), getDriverCapabilities());
-    	    }
+    }
     
     public WelcomeScreen movetoWelcomeScreen()throws InterruptedException{
     	return new WelcomeScreen(getDriver(), getDriverCapabilities());
+    }
+    
+    public USAddressScreen movetoUSAddressScreen() throws InterruptedException{  	
+		return new USAddressScreen (getDriver(), getDriverCapabilities());
     }
 }

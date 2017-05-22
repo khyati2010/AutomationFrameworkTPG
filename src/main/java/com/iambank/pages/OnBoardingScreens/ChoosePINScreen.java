@@ -41,7 +41,7 @@ public class ChoosePINScreen extends AppBasePage {
 		for(char number : pinNumberText.toCharArray()){
 			Character.isDigit(number);
 			int pinValue = Character.getNumericValue(number);
-			getDriver().findElementByXPath(xpathPinNumber).findElementsById(idPinNumber).get(pinValue - 1).click();
+			getDriver().findElementByXPath(xpathPinNumber).findElementsById(idPinNumber).get(pinValue).click();
 		try {
 			Thread.sleep(5000);
 		} catch (InterruptedException e) {
@@ -73,7 +73,8 @@ public class ChoosePINScreen extends AppBasePage {
     }
     
 	//TO-DO:
-    public void clickNextButton() {
-    	getDriver().findElementByXPath(xpathPinNumber).findElementsById(idNextButton).get(0).click();
+    public SSNScreen clickNextButton() {
+    	 getDriver().findElementByXPath(xpathPinNumber).findElementsById(idNextButton).get(0).click();
+    	return new SSNScreen(getDriver(), getDriverCapabilities());
     }
 }

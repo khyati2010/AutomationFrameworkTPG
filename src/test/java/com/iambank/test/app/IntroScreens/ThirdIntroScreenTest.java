@@ -10,43 +10,38 @@ import com.iambank.pages.OnBoardingScreens.MarketSelectionScreen;
 
 public class ThirdIntroScreenTest extends AppTestBase{
 	
-	@Test(dataProvider = DEFAULT_PROVIDER , priority = 1)
-	public void testSecondScreenTexts(IAMBankAppInstance app) throws IOException, InterruptedException {
-		ThirdIntroScreen thirdscreen = moveToSecondScreen(app);
-		Assert.assertEquals(thirdscreen.getThirdScreenMainDescription(), "We have actual people you can talk to.");
-		Assert.assertEquals(thirdscreen.getThirdScreenSmallDescription(), "A novel idea, but we hate talking to machines too.");	
-		Assert.assertEquals(thirdscreen.getThirdScreenNextButtonText(), "Cool.");  	
-       	Assert.assertEquals(thirdscreen.getThirdScreenSkipthisStuffLinkText(), "Skip this stuff");    	
-       	Assert.assertEquals(thirdscreen.getIntroScreenNumberText(), "3 OF 4");
+	@Test(dataProvider = DEFAULT_PROVIDER)
+	public void testThirdScreenTexts(IAMBankAppInstance app) throws IOException, InterruptedException {
+		ThirdIntroScreen thirdScreen = moveToSecondScreen(app);
+		Assert.assertEquals(thirdScreen.getThirdScreenMainDescription(), "We have actual people you can talk to.");
+		Assert.assertEquals(thirdScreen.getThirdScreenSmallDescription(), "A novel idea, but we hate talking to machines too.");	
+		Assert.assertEquals(thirdScreen.getThirdScreenNextButtonText(), "Cool.");  	
+       	Assert.assertEquals(thirdScreen.getThirdScreenSkipthisStuffLinkText(), "Skip this stuff");    	
+       	Assert.assertEquals(thirdScreen.getScreenNumber(), "3 OF 4");
 	}
 	
-	@Test(dataProvider = DEFAULT_PROVIDER , priority = 2 )
-	  public void testNextButtonFunctionality(IAMBankAppInstance app ) throws IOException, InterruptedException
-	  {
-		ThirdIntroScreen thirdscreen = moveToSecondScreen(app);
-		FourthIntroScreen fourthscreen = thirdscreen.clickThirdIntroNextButton();
-		Assert.assertEquals(fourthscreen.getIntroScreenNumberText(), "4 OF 4");
-		  
-	  }
-	
-	 @Test(dataProvider = DEFAULT_PROVIDER , priority = 3)
-	  public void testSkipintroscreenFunctionality(IAMBankAppInstance app ) throws IOException, InterruptedException
-	  {
-		 ThirdIntroScreen thirdscreen = moveToSecondScreen(app);
-		 MarketSelectionScreen marketscreen = thirdscreen.clickSkipThisStuffLink();
-		 Assert.assertTrue(marketscreen.getTitle().contains(marketscreen.expectedScreenTitle()));
-		// Assert.assertEquals(marketscreen.getIntroScreenNumberText(), "STEP 0 OF 6");
-		   
-		  
-	  }
-	
 	@Test(dataProvider = DEFAULT_PROVIDER)
-	public ThirdIntroScreen moveToSecondScreen(IAMBankAppInstance app) throws IOException, InterruptedException{
-		WelcomeScreen welcomescreen = app.startApp().movetoWelcomeScreen();
-		FirstIntroScreen firstscreen= welcomescreen.clickWelcomeScreenNextButton();
-		SecondIntroScreen secondscreen = firstscreen.clickFirstIntroNextButton();
-		return(secondscreen.clickSecondIntroNextButton());
-		
+	public void testNextButtonFunctionality(IAMBankAppInstance app ) throws IOException, InterruptedException {
+		 FourthIntroScreen fourthScreen = moveToSecondScreen(app)
+		 		.clickThirdIntroNextButton();
+		Assert.assertEquals(fourthScreen.getScreenNumber(), "4 OF 4");
+		  
+	  }
+	
+	 @Test(dataProvider = DEFAULT_PROVIDER)
+	public void testSkipintroscreenFunctionality(IAMBankAppInstance app ) throws IOException, InterruptedException {
+		 MarketSelectionScreen marketScreen = moveToSecondScreen(app)
+				 .clickSkipThisStuffLink();
+		 Assert.assertTrue(marketScreen.getTitle().contains(marketScreen.expectedScreenTitle()));		  
+	  }
+	
+	public ThirdIntroScreen moveToSecondScreen(IAMBankAppInstance app) throws IOException, InterruptedException {
+		ThirdIntroScreen thirdScreen = app.startApp()
+				.movetoWelcomeScreen()
+				.clickWelcomeScreenNextButton()
+				.clickFirstIntroNextButton()
+				.clickSecondIntroNextButton();
+		return thirdScreen;		
 	}
 
 }

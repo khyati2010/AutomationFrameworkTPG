@@ -1,97 +1,48 @@
+
 package com.iambank.pages.IntroScreens;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
+import io.appium.java_client.AppiumDriver;
+import io.appium.java_client.MobileElement;
 import com.iambank.configuration.app.AppiumCapabilities;
 import com.iambank.pages.OnBoardingScreens.MarketSelectionScreen;
 import com.iambank.pages.basepages.AppBasePage;
 
-import io.appium.java_client.AppiumDriver;
 
 public class FirstIntroScreen extends AppBasePage  {
-	
-	private static final Logger log = LogManager.getLogger(FirstIntroScreen.class);
-	
-	
-		public FirstIntroScreen(AppiumDriver driver, AppiumCapabilities environment)
-	{
+		
+	public FirstIntroScreen(AppiumDriver<MobileElement> driver, AppiumCapabilities environment) {
 		super(driver, environment);
-		WebDriverWait wait = new WebDriverWait(driver, 10);
-		wait.until(ExpectedConditions.textToBePresentInElement(nextBottomButton, "Seems straightforward."));
-
-		log.info("Landed on first intro screen successfully");
+		waitForElement(skipIntroScreens, 10);
 	}
 		
-		public FirstIntroScreen(AppiumDriver driver, AppiumCapabilities environment,boolean skipstuff) throws InterruptedException
-		{
-			super(driver, environment);
-			WebDriverWait wait = new WebDriverWait(driver, 10);
-			wait.until(ExpectedConditions.textToBePresentInElement(nextBottomButton, "Seems straightforward."));
-
-			log.info("Landed on first intro screen successfully");
-			clickSkipThisStuffLink();
-		}
-		
-		
-	public MarketSelectionScreen clickSkipThisStuffLink() throws InterruptedException
-	{
-		if(skipintroscreens.isEnabled() )
-		{
-			skipintroscreens.click();
-			return new MarketSelectionScreen(getDriver(), getDriverCapabilities());
-		}
-		
-		else
-		{
-			log.error("Not able to click on skip this stuff link");
-			return null;
-		}
+	public FirstIntroScreen(AppiumDriver<MobileElement> driver, AppiumCapabilities environment,boolean skipstuff) throws InterruptedException {
+		super(driver, environment);
+	}
+				
+	public MarketSelectionScreen clickSkipThisStuffLink() throws InterruptedException {
+		skipIntroScreens.click();
+		return new MarketSelectionScreen(getDriver(), getDriverCapabilities());		
 	}
 	
-	public SecondIntroScreen clickFirstIntroNextButton()
-	{
-		
-		if(nextBottomButton.isEnabled())
-		{
-			nextBottomButton.click();
-			return new SecondIntroScreen(getDriver(), getDriverCapabilities());
-		}
-		else
-		{
-			log.error("Not able to click on Next button to navigate on next screen from Second intro screen");
-			return null;
-		}
-		
-	}
-	public String getFirstScreenMainDescription()
-	{
-		return (intro_txt_large.getText());
-		
+	public SecondIntroScreen clickFirstIntroNextButton(){
+		introNextButton.click();
+		return new SecondIntroScreen(getDriver(), getDriverCapabilities());		
 	}
 	
-	public String getFirstScreenSmallDescription()
-	{
-		return (intro_txt_small.getText());
-		
+	public String getFirstScreenMainDescription() {
+		return largeText.getText();		
 	}
 	
-	public String getFirstScreenNextButtonText()
-	{
-		return nextBottomButton.getText();
-		
+	public String getFirstScreenSmallDescription() {
+		return smallText.getText();		
 	}
 	
-	public String getFirstScreenSkipthisStuffLinkText()
-	{
-		return (skipintroscreens.getText());
+	public String getFirstScreenNextButtonText() {
+		return introNextButton.getText();		
 	}
 	
-	public String getIntroScreenNumberText()
-	{
-		return (getIntroScreenNumber());
+	public String getFirstScreenSkipthisStuffLinkText() {
+		return skipIntroScreens.getText();
 	}
-
+	
 }
