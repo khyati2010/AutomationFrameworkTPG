@@ -1,11 +1,11 @@
 package com.iambank.test.app.SprintDemo;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 import com.iambank.configuration.framework.PhoneNumberCountryName;
 import com.iambank.execution.app.IAMBankAppInstance;
 import com.iambank.execution.test.AppTestBase;
 import com.iambank.pages.OnBoardingScreens.ChoosePINScreen;
-import org.testng.Assert;
 
 public class Sprint2DemoTest extends AppTestBase {
 
@@ -39,5 +39,4 @@ public class Sprint2DemoTest extends AppTestBase {
 		choosePINScreen.deletePIN();
 		Assert.assertFalse(choosePINScreen.isNextButtonDisplayed());
 	}
-
 }

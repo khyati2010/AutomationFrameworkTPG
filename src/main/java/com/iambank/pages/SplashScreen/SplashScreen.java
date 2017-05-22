@@ -5,6 +5,7 @@ import io.appium.java_client.MobileElement;
 import com.iambank.configuration.app.AppiumCapabilities;
 import com.iambank.pages.OnBoardingScreens.LegalNameScreen;
 import com.iambank.pages.OnBoardingScreens.MarketSelectionScreen;
+import com.iambank.pages.SignInScreens.SignInScreen;
 import com.iambank.pages.IntroScreens.*;
 import com.iambank.pages.basepages.AppBasePage;
 

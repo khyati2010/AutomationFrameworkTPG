@@ -2,18 +2,14 @@ package com.iambank.pages.IntroScreens;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.Assert;
-import io.appium.java_client.AppiumDriver;
-import io.appium.java_client.MobileElement;
-import io.appium.java_client.pagefactory.AndroidFindBy;
+
 import com.iambank.configuration.app.AppiumCapabilities;
-import com.iambank.configuration.framework.ScreenTitles;
 import com.iambank.pages.OnBoardingScreens.MarketSelectionScreen;
 import com.iambank.pages.basepages.AppBasePage;
-import io.appium.java_client.functions.ExpectedCondition;
+
+import io.appium.java_client.AppiumDriver;
 
 public class FirstIntroScreen extends AppBasePage  {
 	
@@ -24,7 +20,7 @@ public class FirstIntroScreen extends AppBasePage  {
 	{
 		super(driver, environment);
 		WebDriverWait wait = new WebDriverWait(driver, 10);
-		wait.until(ExpectedConditions.textToBePresentInElement(nextbutton, "Seems straightforward."));
+		wait.until(ExpectedConditions.textToBePresentInElement(nextBottomButton, "Seems straightforward."));
 
 		log.info("Landed on first intro screen successfully");
 	}
@@ -33,7 +29,7 @@ public class FirstIntroScreen extends AppBasePage  {
 		{
 			super(driver, environment);
 			WebDriverWait wait = new WebDriverWait(driver, 10);
-			wait.until(ExpectedConditions.textToBePresentInElement(nextbutton, "Seems straightforward."));
+			wait.until(ExpectedConditions.textToBePresentInElement(nextBottomButton, "Seems straightforward."));
 
 			log.info("Landed on first intro screen successfully");
 			clickSkipThisStuffLink();
@@ -58,9 +54,9 @@ public class FirstIntroScreen extends AppBasePage  {
 	public SecondIntroScreen clickFirstIntroNextButton()
 	{
 		
-		if(nextbutton.isEnabled())
+		if(nextBottomButton.isEnabled())
 		{
-			nextbutton.click();
+			nextBottomButton.click();
 			return new SecondIntroScreen(getDriver(), getDriverCapabilities());
 		}
 		else
@@ -84,7 +80,7 @@ public class FirstIntroScreen extends AppBasePage  {
 	
 	public String getFirstScreenNextButtonText()
 	{
-		return nextbutton.getText();
+		return nextBottomButton.getText();
 		
 	}
 	

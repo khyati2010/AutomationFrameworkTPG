@@ -1,1 +1,73 @@
-{"mediaPoolMapper":{"mediaPoolItem":[{"poolName":"APP_HS_BANNER_ADS_IOS","mediaItemMapper":{"mediaItem":[{"mediaLinkMapper":{"mediaLinkItem":[{"linkType":"STATIC","value":"com.macys.mobile://shop/categoryid=8699","fullLinkURL":"http://www1.macys.comcom.macys.mobile://shop/categoryid=8699"}]},"filename":"H6070007_103_0731_LD_Super_Weekend_Sale_app_banner_1252673.jpg","fullImageURL":"http://assets.macys.com/dyn_img/site_ads/H6070007_103_0731_LD_Super_Weekend_Sale_app_banner_1252673.jpg","height":427,"width":640,"text":"Women's Swimwear, 50 percent-75 percent off +Extra 15 percent off, Promo Code: WKND, Shop Now","description":"0731 Ends-MB1 The Big-MB2 Womens-MB3","mediaGroupType":"AD","mediaType":"IMAGE","mediaGroupId":"766298"},{"mediaLinkMapper":{"mediaLinkItem":[{"linkType":"STATIC","value":"com.macys.mobile://shop","fullLinkURL":"http://www1.macys.comcom.macys.mobile://shop"}]},"filename":"H6070007_101_0731_LD_Super_Weekend_Sale_app_banner_1252671.jpg","fullImageURL":"http://assets.macys.com/dyn_img/site_ads/H6070007_101_0731_LD_Super_Weekend_Sale_app_banner_1252671.jpg","height":427,"width":640,"text":"Ends Tonight! Super Weekend Sale, Extra 20 percent off, Extra 15 percent or 10 percent off, Promo Code: WKND, Shop Now","description":"0731 Ends-MB1 The Big-MB2 Womens-MB3","mediaGroupType":"AD","mediaType":"IMAGE","mediaGroupId":"766296"},{"mediaLinkMapper":{"mediaLinkItem":[{"linkType":"STATIC","value":"com.macys.mobile://shop/categoryid=22672","fullLinkURL":"http://www1.macys.comcom.macys.mobile://shop/categoryid=22672"}]},"filename":"H6070007_102_0731_LD_Super_Weekend_Sale_app_banner_1252672.jpg","fullImageURL":"http://assets.macys.com/dyn_img/site_ads/H6070007_102_0731_LD_Super_Weekend_Sale_app_banner_1252672.jpg","height":427,"width":640,"text":"The Big Home Sale, 30 percent-50 percent off +Extra 15 percent or10 percent off, Promo Code: WKND, Shop Now","description":"0731 Ends-MB1 The Big-MB2 Womens-MB3","mediaGroupType":"AD","mediaType":"IMAGE","mediaGroupId":"766297"}]}}]}}
+{
+	"mediaPoolMapper": {
+		"mediaPoolItem": [
+			{
+				"poolName": "APP_HS_BANNER_ADS_IOS",
+				"mediaItemMapper": {
+					"mediaItem": [
+						{
+							"mediaLinkMapper": {
+								"mediaLinkItem": [
+									{
+										"linkType": "STATIC",
+										"value": "com.macys.mobile://shop/categoryid=8699",
+										"fullLinkURL": "http://www1.macys.comcom.macys.mobile://shop/categoryid=8699"
+									}
+								]
+							},
+							"filename": "H6070007_103_0731_LD_Super_Weekend_Sale_app_banner_1252673.jpg",
+							"fullImageURL": "http://assets.macys.com/dyn_img/site_ads/H6070007_103_0731_LD_Super_Weekend_Sale_app_banner_1252673.jpg",
+							"height": 427,
+							"width": 640,
+							"text": "Women's Swimwear, 50 percent-75 percent off +Extra 15 percent off, Promo Code: WKND, Shop Now",
+							"description": "0731 Ends-MB1 The Big-MB2 Womens-MB3",
+							"mediaGroupType": "AD",
+							"mediaType": "IMAGE",
+							"mediaGroupId": "766298"
+						},
+						{
+							"mediaLinkMapper": {
+								"mediaLinkItem": [
+									{
+										"linkType": "STATIC",
+										"value": "com.macys.mobile://shop",
+										"fullLinkURL": "http://www1.macys.comcom.macys.mobile://shop"
+									}
+								]
+							},
+							"filename": "H6070007_101_0731_LD_Super_Weekend_Sale_app_banner_1252671.jpg",
+							"fullImageURL": "http://assets.macys.com/dyn_img/site_ads/H6070007_101_0731_LD_Super_Weekend_Sale_app_banner_1252671.jpg",
+							"height": 427,
+							"width": 640,
+							"text": "Ends Tonight! Super Weekend Sale, Extra 20 percent off, Extra 15 percent or 10 percent off, Promo Code: WKND, Shop Now",
+							"description": "0731 Ends-MB1 The Big-MB2 Womens-MB3",
+							"mediaGroupType": "AD",
+							"mediaType": "IMAGE",
+							"mediaGroupId": "766296"
+						},
+						{
+							"mediaLinkMapper": {
+								"mediaLinkItem": [
+									{
+										"linkType": "STATIC",
+										"value": "com.macys.mobile://shop/categoryid=22672",
+										"fullLinkURL": "http://www1.macys.comcom.macys.mobile://shop/categoryid=22672"
+									}
+								]
+							},
+							"filename": "H6070007_102_0731_LD_Super_Weekend_Sale_app_banner_1252672.jpg",
+							"fullImageURL": "http://assets.macys.com/dyn_img/site_ads/H6070007_102_0731_LD_Super_Weekend_Sale_app_banner_1252672.jpg",
+							"height": 427,
+							"width": 640,
+							"text": "The Big Home Sale, 30 percent-50 percent off +Extra 15 percent or10 percent off, Promo Code: WKND, Shop Now",
+							"description": "0731 Ends-MB1 The Big-MB2 Womens-MB3",
+							"mediaGroupType": "AD",
+							"mediaType": "IMAGE",
+							"mediaGroupId": "766297"
+						}
+					]
+				}
+			}
+		]
+	}
+}

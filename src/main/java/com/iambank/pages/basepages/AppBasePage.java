@@ -24,7 +24,7 @@ public abstract class AppBasePage extends BasePage{
 	protected MobileElement signInText;
 	
 	@AndroidFindBy(id="bottom_btn")
-	protected MobileElement nextbutton;
+	protected MobileElement nextBottomButton;
 	
 	@AndroidFindBy(id="bottom_text")
 	protected MobileElement skipintroscreens;
@@ -35,7 +35,7 @@ public abstract class AppBasePage extends BasePage{
 	@AndroidFindBy(id="intro_small_txt") 
 	protected MobileElement intro_txt_small;
 	
-	@AndroidFindBy(id="progress")
+	@AndroidFindBy(id="tv_progress")
 	protected MobileElement introScreenNumber;
 
 

@@ -1,7 +1,6 @@
 package com.iambank.test.app.IntroScreens;
 
 import java.io.IOException;
-import java.net.MalformedURLException;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import com.iambank.execution.app.IAMBankAppInstance;

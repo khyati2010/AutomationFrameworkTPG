@@ -1,8 +1,7 @@
 package com.iambank.pages.IntroScreens;
 
-import com.iambank.pages.basepages.AppBasePage;
 import com.iambank.configuration.app.AppiumCapabilities;
-import com.iambank.pages.OnBoardingScreens.*;
+import com.iambank.pages.basepages.AppBasePage;
 
 import io.appium.java_client.AppiumDriver;
 

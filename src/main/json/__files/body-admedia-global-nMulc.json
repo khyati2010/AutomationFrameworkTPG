@@ -1,1 +1,33 @@
-{"mediaPoolMapper":{"mediaPoolItem":[{"poolName":"SHOPPING_BAG_SHIPPING_BANNER_MEW","mediaItemMapper":{"mediaItem":[{"mediaLinkMapper":{"mediaLinkItem":[{"linkType":"STATIC","value":"#","fullLinkURL":"http://www1.macys.com#"}]},"filename":"FreeShippingBanner_v1_99_1159343.png","fullImageURL":"http://assets.macys.com/dyn_img/site_ads/FreeShippingBanner_v1_99_1159343.png","height":100,"width":640,"text":"free shipping every day, with $99 purchase, U.S. shipping only, exclusions apply","description":"FreeShipping99_MEW_Banner","mediaGroupType":"AD","mediaType":"IMAGE","mediaGroupId":"645990"}]}}]}}
+{
+	"mediaPoolMapper": {
+		"mediaPoolItem": [
+			{
+				"poolName": "SHOPPING_BAG_SHIPPING_BANNER_MEW",
+				"mediaItemMapper": {
+					"mediaItem": [
+						{
+							"mediaLinkMapper": {
+								"mediaLinkItem": [
+									{
+										"linkType": "STATIC",
+										"value": "#",
+										"fullLinkURL": "http://www1.macys.com#"
+									}
+								]
+							},
+							"filename": "FreeShippingBanner_v1_99_1159343.png",
+							"fullImageURL": "http://assets.macys.com/dyn_img/site_ads/FreeShippingBanner_v1_99_1159343.png",
+							"height": 100,
+							"width": 640,
+							"text": "free shipping every day, with $99 purchase, U.S. shipping only, exclusions apply",
+							"description": "FreeShipping99_MEW_Banner",
+							"mediaGroupType": "AD",
+							"mediaType": "IMAGE",
+							"mediaGroupId": "645990"
+						}
+					]
+				}
+			}
+		]
+	}
+}

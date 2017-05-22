@@ -5,6 +5,7 @@
     <classes>
       <class name="com.iambank.test.app.OnBoardingScreens.MarketSelectionTest"/>
       <class name="com.iambank.test.app.OnBoardingScreens.LegalNameTest"/>
+      <class name="com.iambank.test.app.OnBoardingScreens.FirstIntroScreenTest"/>
     </classes>
   </test> <!-- Default test -->
 </suite> <!-- Default suite -->

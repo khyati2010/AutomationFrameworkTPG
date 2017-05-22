@@ -6,6 +6,7 @@ public enum ScreenTitles {
     PhoneNumber("Can we have your number?"),
     VerificationCode("Type in the code we sent."),
     ChoosePIN("Choose a five digit PIN."),
+    Address("Where do you live?"),
     UNKNOWN("No screen name");
     
     private String title;

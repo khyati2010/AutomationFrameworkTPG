@@ -1,28 +1,28 @@
 {
-  "uuid" : "5e05ec50-af43-3755-af63-48aee3bb9f98",
-  "request" : {
-    "urlPath" : "/v3/catalog/category/10834/browseproducts",
-    "queryParameters" : {
-      "currentpage" : {
-        "equalTo" : "1"
-      }
-    },
-    "method" : "GET"
-  },
-  "response" : {
-    "status" : 200,
-    "bodyFileName" : "body-10834-browseproducts-N7s4J.json",
-    "headers" : {
-      "X-Mashery-Responder" : "prod-j-worker-lax-04.mashery.com",
-      "X-Mashery-Message-ID" : "4f8ba24f-2109-4c06-87d4-d0a3e42af00d",
-      "X-Macys-RequestId" : "4f8ba24f-2109-4c06-87d4-d0a3e42af00d",
-      "Content-Type" : "application/json;charset=utf-8",
-      "Server" : "Mashery Proxy",
-      "Date" : "Mon, 08 Aug 2016 20:13:15 GMT",
-      "Vary" : "Accept-Encoding",
-      "access-control-allow-origin" : "m.macys.com",
-      "Connection" : "Keep-Alive",
-      "Age" : "0"
-    }
-  }
+	"uuid": "5e05ec50-af43-3755-af63-48aee3bb9f98",
+	"request": {
+		"urlPath": "/v3/catalog/category/10834/browseproducts",
+		"queryParameters": {
+			"currentpage": {
+				"equalTo": "1"
+			}
+		},
+		"method": "GET"
+	},
+	"response": {
+		"status": 200,
+		"bodyFileName": "body-10834-browseproducts-N7s4J.json",
+		"headers": {
+			"X-Mashery-Responder": "prod-j-worker-lax-04.mashery.com",
+			"X-Mashery-Message-ID": "4f8ba24f-2109-4c06-87d4-d0a3e42af00d",
+			"X-Macys-RequestId": "4f8ba24f-2109-4c06-87d4-d0a3e42af00d",
+			"Content-Type": "application/json;charset=utf-8",
+			"Server": "Mashery Proxy",
+			"Date": "Mon, 08 Aug 2016 20:13:15 GMT",
+			"Vary": "Accept-Encoding",
+			"access-control-allow-origin": "m.macys.com",
+			"Connection": "Keep-Alive",
+			"Age": "0"
+		}
+	}
 }

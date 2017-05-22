@@ -1,23 +1,23 @@
 {
-  "uuid" : "969e9005-4f93-3f8f-a059-cfaaf058067a",
-  "request" : {
-    "url" : "/v3/admedia/global?poolName=APP_HS_FLEX_POOL_AND",
-    "method" : "GET"
-  },
-  "response" : {
-    "status" : 200,
-    "bodyFileName" : "body-admedia-global-RVUYR.json",
-    "headers" : {
-      "X-Mashery-Responder" : "prod-j-worker-lax-04.mashery.com",
-      "X-Mashery-Message-ID" : "4dbf6186-90cf-47f0-9b9a-c2535a76582f",
-      "X-Macys-RequestId" : "4dbf6186-90cf-47f0-9b9a-c2535a76582f",
-      "Content-Type" : "application/json;charset=utf-8",
-      "Server" : "Mashery Proxy",
-      "Date" : "Tue, 02 Aug 2016 17:00:22 GMT",
-      "Vary" : "Accept-Encoding",
-      "access-control-allow-origin" : "m.macys.com",
-      "Connection" : "Keep-Alive",
-      "Age" : "0"
-    }
-  }
+	"uuid": "969e9005-4f93-3f8f-a059-cfaaf058067a",
+	"request": {
+		"url": "/v3/admedia/global?poolName=APP_HS_FLEX_POOL_AND",
+		"method": "GET"
+	},
+	"response": {
+		"status": 200,
+		"bodyFileName": "body-admedia-global-RVUYR.json",
+		"headers": {
+			"X-Mashery-Responder": "prod-j-worker-lax-04.mashery.com",
+			"X-Mashery-Message-ID": "4dbf6186-90cf-47f0-9b9a-c2535a76582f",
+			"X-Macys-RequestId": "4dbf6186-90cf-47f0-9b9a-c2535a76582f",
+			"Content-Type": "application/json;charset=utf-8",
+			"Server": "Mashery Proxy",
+			"Date": "Tue, 02 Aug 2016 17:00:22 GMT",
+			"Vary": "Accept-Encoding",
+			"access-control-allow-origin": "m.macys.com",
+			"Connection": "Keep-Alive",
+			"Age": "0"
+		}
+	}
 }

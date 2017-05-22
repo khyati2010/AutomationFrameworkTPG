@@ -1,30 +1,30 @@
 {
-  "uuid" : "f591c7c1-e589-3c7d-838c-5840454f614e",
-  "request" : {
-    "urlPath" : "/v3/shoppingbag",
-    "queryParameters" : {
-      "signInUser" : {
-        "equalTo" : "false"
-      }
-    },
-    "method" : "GET"
-  },
-  "response" : {
-    "status" : 200,
-    "bodyFileName" : "body-v3-shoppingbag-jOsaX.json",
-    "headers" : {
-      "X-Mashery-Responder" : "prod-j-worker-lax-03.mashery.com",
-      "X-Mashery-Message-ID" : "71435ac7-97cf-40e5-b010-f7c700e1d94f",
-      "Server" : "Apache-Coyote/1.1",
-      "X-Macys-Log" : "SDPT='0' UCT='0' GUID='' UID='' TOKEN='GUEST'",
-      "X-Macys-ClientId" : "iShop_Android",
-      "X-Macys-RequestId" : "71435ac7-97cf-40e5-b010-f7c700e1d94f",
-      "Content-Type" : "application/json",
-      "Date" : "Mon, 08 Aug 2016 15:59:54 GMT",
-      "Vary" : "Accept-Encoding",
-      "access-control-allow-origin" : "m.macys.com",
-      "Connection" : "Keep-Alive",
-      "Age" : "0"
-    }
-  }
+	"uuid": "f591c7c1-e589-3c7d-838c-5840454f614e",
+	"request": {
+		"urlPath": "/v3/shoppingbag",
+		"queryParameters": {
+			"signInUser": {
+				"equalTo": "false"
+			}
+		},
+		"method": "GET"
+	},
+	"response": {
+		"status": 200,
+		"bodyFileName": "body-v3-shoppingbag-jOsaX.json",
+		"headers": {
+			"X-Mashery-Responder": "prod-j-worker-lax-03.mashery.com",
+			"X-Mashery-Message-ID": "71435ac7-97cf-40e5-b010-f7c700e1d94f",
+			"Server": "Apache-Coyote/1.1",
+			"X-Macys-Log": "SDPT='0' UCT='0' GUID='' UID='' TOKEN='GUEST'",
+			"X-Macys-ClientId": "iShop_Android",
+			"X-Macys-RequestId": "71435ac7-97cf-40e5-b010-f7c700e1d94f",
+			"Content-Type": "application/json",
+			"Date": "Mon, 08 Aug 2016 15:59:54 GMT",
+			"Vary": "Accept-Encoding",
+			"access-control-allow-origin": "m.macys.com",
+			"Connection": "Keep-Alive",
+			"Age": "0"
+		}
+	}
 }

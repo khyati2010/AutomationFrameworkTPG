@@ -2,9 +2,10 @@ package com.iambank.pages.IntroScreens;
 
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import com.iambank.pages.basepages.AppBasePage;
+
 import com.iambank.configuration.app.AppiumCapabilities;
-import com.iambank.pages.OnBoardingScreens.*;
+import com.iambank.pages.OnBoardingScreens.MarketSelectionScreen;
+import com.iambank.pages.basepages.AppBasePage;
 
 import io.appium.java_client.AppiumDriver;
 
@@ -14,7 +15,7 @@ public class SecondIntroScreen extends AppBasePage{
 	{
 		super(driver, environment);
 		WebDriverWait wait = new WebDriverWait(driver, 10);
-		wait.until(ExpectedConditions.textToBePresentInElement(nextbutton, "I'm listening."));
+		wait.until(ExpectedConditions.textToBePresentInElement(nextBottomButton, "I'm listening."));
 
 		LOGGER.info("Landed on second intro screen successfully");
 	}
@@ -35,9 +36,9 @@ public class SecondIntroScreen extends AppBasePage{
 	
 	public ThirdIntroScreen clickSecondIntroNextButton()
 	{
-		if(nextbutton.isEnabled())
+		if(nextBottomButton.isEnabled())
 		{
-			nextbutton.click();
+			nextBottomButton.click();
 			return new ThirdIntroScreen(getDriver(),getDriverCapabilities());
 		}
 		else
@@ -61,7 +62,7 @@ public class SecondIntroScreen extends AppBasePage{
 	
 	public String getSecondScreenNextButtonText()
 	{
-		return nextbutton.getText();
+		return nextBottomButton.getText();
 		
 	}
 	

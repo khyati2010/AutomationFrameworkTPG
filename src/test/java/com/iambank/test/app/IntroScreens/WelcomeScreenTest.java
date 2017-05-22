@@ -3,18 +3,11 @@ package com.iambank.test.app.IntroScreens;
 import com.iambank.execution.app.IAMBankAppInstance;
 import com.iambank.execution.test.AppTestBase;
 import com.iambank.pages.IntroScreens.*;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
-import static org.testng.Assert.assertEquals;
-
 import java.io.IOException;
 
 public class WelcomeScreenTest extends AppTestBase {
-
-
 	
     @Test(dataProvider = DEFAULT_PROVIDER ,  priority = 1)
     public void testFirstIntroScreenTexts(IAMBankAppInstance app) throws IOException, InterruptedException {

@@ -2,12 +2,13 @@ package com.iambank.pages.IntroScreens;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import com.iambank.pages.basepages.AppBasePage;
-import io.appium.java_client.AppiumDriver;
-import io.appium.java_client.MobileElement;
 
 import com.iambank.configuration.app.AppiumCapabilities;
-import com.iambank.pages.SplashScreen.*;
+import com.iambank.pages.SignInScreens.SignInScreen;
+import com.iambank.pages.basepages.AppBasePage;
+
+import io.appium.java_client.AppiumDriver;
+import io.appium.java_client.MobileElement;
 
 public class WelcomeScreen extends AppBasePage{
 	
@@ -20,9 +21,9 @@ public class WelcomeScreen extends AppBasePage{
 	
 	public FirstIntroScreen clickWelcomeScreenNextButton()
 	{
-		if(nextbutton.isEnabled() )
+		if(nextBottomButton.isEnabled() )
 		{
-			nextbutton.click();
+			nextBottomButton.click();
 			return new FirstIntroScreen(getDriver(),getDriverCapabilities());
 		}
 		else
@@ -62,7 +63,7 @@ public class WelcomeScreen extends AppBasePage{
 	
 	public String getWelcomeScreenNextButtonText()
 	{
-		return nextbutton.getText();
+		return nextBottomButton.getText();
 		
 	}
 	public String getWelcomeScreenSignInLinkText()

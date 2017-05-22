@@ -1,24 +1,24 @@
 {
-  "uuid" : "013cd01b-6221-3c5e-ba1f-03677dbc4c44",
-  "request" : {
-    "urlPattern" : "/v4/catalog/product/2934846.*",
-    "method" : "GET"
-  },
-  "response" : {
-    "status" : 200,
-    "bodyFileName" : "body-product-2934846(productDetails,upcs(upcDetails),rebates,promotions,productCategory,Reviews,Reviews(statistics))-0dkDy.json",
-    "headers" : {
-      "X-Mashery-Responder" : "prod-j-worker-lax-02.mashery.com",
-      "X-Mashery-Message-ID" : "1f5c5317-98de-4bd1-88a0-8fb547327e47",
-      "X-Macys-RequestId" : "1f5c5317-98de-4bd1-88a0-8fb547327e47",
-      "Content-Type" : "application/json;charset=utf-8",
-      "Server" : "Mashery Proxy",
-      "Cache-Control" : "proxy-revalidate, max-age=854",
-      "Date" : "Mon, 08 Aug 2016 20:12:59 GMT",
-      "Vary" : "Accept-Encoding",
-      "access-control-allow-origin" : "m.macys.com",
-      "Connection" : "Keep-Alive",
-      "Age" : "0"
-    }
-  }
+	"uuid": "013cd01b-6221-3c5e-ba1f-03677dbc4c44",
+	"request": {
+		"urlPattern": "/v4/catalog/product/2934846.*",
+		"method": "GET"
+	},
+	"response": {
+		"status": 200,
+		"bodyFileName": "body-product-2934846(productDetails,upcs(upcDetails),rebates,promotions,productCategory,Reviews,Reviews(statistics))-0dkDy.json",
+		"headers": {
+			"X-Mashery-Responder": "prod-j-worker-lax-02.mashery.com",
+			"X-Mashery-Message-ID": "1f5c5317-98de-4bd1-88a0-8fb547327e47",
+			"X-Macys-RequestId": "1f5c5317-98de-4bd1-88a0-8fb547327e47",
+			"Content-Type": "application/json;charset=utf-8",
+			"Server": "Mashery Proxy",
+			"Cache-Control": "proxy-revalidate, max-age=854",
+			"Date": "Mon, 08 Aug 2016 20:12:59 GMT",
+			"Vary": "Accept-Encoding",
+			"access-control-allow-origin": "m.macys.com",
+			"Connection": "Keep-Alive",
+			"Age": "0"
+		}
+	}
 }
