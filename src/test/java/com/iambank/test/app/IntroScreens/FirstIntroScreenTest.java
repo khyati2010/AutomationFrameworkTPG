@@ -11,7 +11,7 @@ import com.iambank.pages.OnBoardingScreens.MarketSelectionScreen;
 
 public class FirstIntroScreenTest extends AppTestBase{
 		
-	@Test(dataProvider =DEFAULT_PROVIDER)
+	@Test(dataProvider =DEFAULT_PROVIDER, groups="Smoke_Suite")
 	public void testFirstIntroScreenUI(IAMBankAppInstance app) throws IOException, InterruptedException {	
 		
 		FirstIntroScreen firstIntroScreen = moveToWelcomeScreen(app);
@@ -30,7 +30,7 @@ public class FirstIntroScreenTest extends AppTestBase{
 		Assert.assertEquals(secondScreen.getScreenNumber(), "2 OF 4");		  
 	 }
 	
-	 @Test(dataProvider = DEFAULT_PROVIDER)
+	@Test(dataProvider =DEFAULT_PROVIDER, groups="Smoke_Suite")
 	  public void testSkipintroscreenFunctionality(IAMBankAppInstance app ) throws IOException, InterruptedException {
 		 
 		 MarketSelectionScreen marketScreen = moveToWelcomeScreen(app)		 

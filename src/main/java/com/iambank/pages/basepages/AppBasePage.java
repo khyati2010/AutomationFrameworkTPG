@@ -32,9 +32,9 @@ public abstract class AppBasePage extends BasePage{
 	protected MobileElement signInText;
 	
 	@AndroidFindBy(id="bottom_btn")
-
 	protected MobileElement nextBottomButton;
 
+	@AndroidFindBy(id="bottom_btn")
 	protected MobileElement introNextButton;
 	
 	@AndroidFindBy(id="bottom_text")
@@ -47,8 +47,6 @@ public abstract class AppBasePage extends BasePage{
 	protected MobileElement smallText;
 	
 	@AndroidFindBy(id="tv_progress")
-	protected MobileElement introScreenNumber;
-
 	protected MobileElement screenNumber;
 
 	protected AppBasePage(AppiumDriver<MobileElement> driver, AppiumCapabilities driverCapabilities) {

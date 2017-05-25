@@ -2,10 +2,15 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Default suite">
   <test verbose="2" name="Default test">
+  <groups>
+      <run>
+        <include name="Smoke_Suite"/>
+      </run>
+    </groups>
     <classes>
       <class name="com.iambank.test.app.OnBoardingScreens.MarketSelectionTest"/>
       <class name="com.iambank.test.app.OnBoardingScreens.LegalNameTest"/>
-      <class name="com.iambank.test.app.OnBoardingScreens.FirstIntroScreenTest"/>
+      <class name="com.iambank.test.app.IntroScreens.FirstIntroScreenTest"/>
     </classes>
   </test> <!-- Default test -->
 </suite> <!-- Default suite -->

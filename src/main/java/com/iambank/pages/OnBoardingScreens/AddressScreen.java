@@ -3,6 +3,9 @@ package com.iambank.pages.OnBoardingScreens;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
+
+import org.openqa.selenium.support.PageFactory;
+
 import com.iambank.configuration.app.AppiumCapabilities;
 import com.iambank.configuration.framework.ScreenTitles;
 import com.iambank.pages.basepages.AppBasePage;
@@ -63,14 +66,6 @@ public class AddressScreen extends AppBasePage {
     	return postalCodeTextBox.isDisplayed();
     }
     
-    public boolean isNextButtonDisplayed() {
-    	return !getDriver().findElementsById(idNextButton).isEmpty();
-    }
-    
-    public void clickNextButton() {
-    	nextButton.click();
-    }
-    
     public AddressScreen enterAddress1(String address1){
     	addressLine1.sendKeys(address1);
     	return this;
@@ -93,5 +88,14 @@ public class AddressScreen extends AppBasePage {
     public AddressScreen enterPostalCode(String postalCode){
     	postalCodeTextBox.sendKeys(postalCode);
     	return this;
+    }
+    
+    public boolean isNextButtonDisplayed() {
+    	return !getDriver().findElementsById(idNextButton).isEmpty();
+    }
+    
+    public <T> T clickNextButton(Class<T> expectedPage) {
+    	nextButton.click();
+    	return PageFactory.initElements(getDriver(), expectedPage); 
     }
 }

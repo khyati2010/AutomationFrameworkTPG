@@ -4,11 +4,14 @@ import org.testng.annotations.Test;
 import com.iambank.configuration.framework.PhoneNumberCountryName;
 import com.iambank.execution.app.IAMBankAppInstance;
 import com.iambank.execution.test.AppTestBase;
+import com.iambank.pages.OnBoardingScreens.AddressScreen;
 import com.iambank.pages.OnBoardingScreens.ChoosePINScreen;
+import com.iambank.pages.OnBoardingScreens.USAddressScreen;
+
 import org.testng.Assert;
 
 public class ChosePinTest extends AppTestBase {
-	
+
 	String legalName = "Test User";
 	String phoneNumber = "9910178908";
 	String verificationCode = "12345";
@@ -26,13 +29,23 @@ public class ChosePinTest extends AppTestBase {
 	public void verifyNextButtonValidations(IAMBankAppInstance app) throws Exception {		
 		ChoosePINScreen choosePINScreen = movingToChosePinScreen(app, countryName, phoneNumber, false, legalName, verificationCode )	
 				.chosePIN(pinNumber);
-				Assert.assertTrue(choosePINScreen.isNextButtonDisplayed());
-				choosePINScreen.hidePIN();
-				choosePINScreen.showPIN();
-				choosePINScreen.deletePIN();
-				Assert.assertFalse(choosePINScreen.isNextButtonDisplayed());
+		Assert.assertTrue(choosePINScreen.isNextButtonDisplayed());
+		choosePINScreen.hidePIN();
+		choosePINScreen.showPIN();
+		choosePINScreen.deletePIN();
+		Assert.assertFalse(choosePINScreen.isNextButtonDisplayed());
+		if(countryName != "USA"){
+			AddressScreen addressScreen = choosePINScreen.chosePIN(pinNumber)
+					.clickNextButton(AddressScreen.class);
+			Assert.assertEquals(addressScreen.getTitle(), addressScreen.expectedScreenTitle());
+		}
+		else {
+			USAddressScreen usAddressScreen = choosePINScreen.chosePIN(pinNumber)
+					.clickNextButton(USAddressScreen.class);
+			Assert.assertEquals(usAddressScreen.getTitle(), usAddressScreen.expectedScreenTitle());
+		}
 	}
-	
+
 	@Test(dataProvider = DEFAULT_PROVIDER, priority = 2)
 	public void verifyVerificationCodeScreenUI(IAMBankAppInstance app) throws Exception {
 		ChoosePINScreen choosePINScreen = movingToChosePinScreen(app, countryName, phoneNumber, false, legalName, verificationCode );	
@@ -40,7 +53,7 @@ public class ChosePinTest extends AppTestBase {
 		Assert.assertTrue(choosePINScreen.isWhyTextDisplayed());
 		Assert.assertTrue(choosePINScreen.isSupportIconDisplayed());
 	}
-	
+
 	public ChoosePINScreen movingToChosePinScreen (IAMBankAppInstance app, String countryName, String phoneNumber, boolean skipPopUp, String legalName
 			, String verificationCode) throws Exception {
 		ChoosePINScreen choosePINScreen = app.startApp().movetoWelcomeScreen()

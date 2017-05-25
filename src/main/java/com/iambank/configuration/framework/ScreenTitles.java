@@ -6,8 +6,12 @@ public enum ScreenTitles {
     PhoneNumber("Can we have your number?"),
     VerificationCode("Type in the code we sent."),
     ChoosePIN("Choose a five digit PIN."),
-    SSN("We need to legally verify who you are."),
     Address("Where do you live?"),
+    SSN("We need to legally verify who you are."),
+    UploadDocument("We need to legally verify who you are."),
+    ThanksScreen("we got your application."),
+    FasterLogin("Faster Login"),
+    EnterEmailAddress("Have things sent to your email"),
     UNKNOWN("No screen name"),
     
 	//Address Screen texts//

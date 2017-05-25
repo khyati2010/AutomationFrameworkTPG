@@ -37,9 +37,9 @@ public class SSNScreen extends AppBasePage{
 		return this;
 	}
 	
-	public USAddressScreen clickNextButton() {
+	public ThanksScreen clickNextButton() {
 		nextButton.click();	
-		return new USAddressScreen(getDriver(), getDriverCapabilities());
+		return new ThanksScreen(getDriver(), getDriverCapabilities());
 	}
 	
 	public void clickUploadDocument() {

@@ -1,0 +1,17 @@
+2017-05-22 14:20:02,405 INFO execution.test.TestBase - {
+  "AppiumCapabilities" : {
+    "capabilities" : {
+      "version" : "",
+      "javascriptEnabled" : true,
+      "browserName" : "",
+      "platform" : "ANY"
+    },
+    "appName" : "iambank-0.2.0-debug.apk"
+  }
+}
+2017-05-22 14:20:02,423 INFO execution.test.TestBase - Base setup complete!
+2017-05-22 14:20:02,430 INFO execution.app.AndroidAppInstance - Launching android app ...
+2017-05-22 14:20:02,430 INFO execution.app.AndroidAppInstance - Configuring android environment...
+2017-05-22 14:21:26,181 INFO execution.test.TestBase - Test result: Failed
+
+2017-05-22 14:21:26,181 INFO execution.test.TestBase - Test is finished, removing the tag [85ba150e-da6a-438e-b8af-7e1e33c9385c]...

@@ -41,7 +41,7 @@ public class USAddressScreen extends AppBasePage{
 	}
 	
 	@Override
-	protected String expectedScreenTitle() {
+	public String expectedScreenTitle() {
 		return ScreenTitles.Address.title();
 	}
 	
@@ -81,10 +81,10 @@ public class USAddressScreen extends AppBasePage{
 		return this;
 	}
 	
-	public void clickNextButton() {
+	public SSNScreen clickNextButton() {
 		screenScroll(zipUS, cityUS);
 		nextButtonUS.click();
-//		return new SSNScreen(getDriver(), getDriverCapabilities());
+		return new SSNScreen(getDriver(), getDriverCapabilities());
 	}
 	
 	public String getLargeText() {
