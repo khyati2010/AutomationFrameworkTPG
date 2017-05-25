@@ -53,6 +53,7 @@ public class ChoosePINScreen extends AppBasePage {
 			}
 		}
 		return this;
+
 	}
 
 	public ChoosePINScreen hidePIN() {
@@ -78,4 +79,5 @@ public class ChoosePINScreen extends AppBasePage {
 		getDriver().findElementByXPath(xpathPinNumber).findElementsById(idNextButton).get(0).click();
 		return PageFactory.initElements(getDriver(), expectedPage);    
 	}
+
 }

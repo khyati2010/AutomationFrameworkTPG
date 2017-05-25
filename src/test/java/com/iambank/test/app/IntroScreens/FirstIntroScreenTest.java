@@ -3,6 +3,8 @@ package com.iambank.test.app.IntroScreens;
 import java.io.IOException;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+
+import com.iambank.configuration.framework.IntroScreenTitles;
 import com.iambank.execution.app.IAMBankAppInstance;
 import com.iambank.execution.test.AppTestBase;
 import com.iambank.pages.IntroScreens.SecondIntroScreen;
@@ -15,11 +17,11 @@ public class FirstIntroScreenTest extends AppTestBase{
 	public void testFirstIntroScreenUI(IAMBankAppInstance app) throws IOException, InterruptedException {	
 		
 		FirstIntroScreen firstIntroScreen = moveToWelcomeScreen(app);
-		Assert.assertEquals(firstIntroScreen.getFirstScreenMainDescription(), "We never charge negative fees.");		
-		Assert.assertEquals(firstIntroScreen.getFirstScreenSmallDescription(), "Ever.");	
-		Assert.assertEquals(firstIntroScreen.getFirstScreenNextButtonText(), "Seems straightforward.");       	
-       	Assert.assertEquals(firstIntroScreen.getFirstScreenSkipthisStuffLinkText(), "Skip this stuff");       	
-       	Assert.assertEquals(firstIntroScreen.getScreenNumber(), "1 OF 4"); 
+		Assert.assertEquals(firstIntroScreen.getFirstScreenMainDescription(), IntroScreenTitles.FirstIntroScreen.title());		
+		Assert.assertEquals(firstIntroScreen.getFirstScreenSmallDescription(),IntroScreenTitles.FirstIntroSmallText.title() );	
+		Assert.assertEquals(firstIntroScreen.getFirstScreenNextButtonText(), IntroScreenTitles.FirstIntroBttnText.title());       	
+       	Assert.assertEquals(firstIntroScreen.getFirstScreenSkipthisStuffLinkText(), IntroScreenTitles.IntroSkipText.title());       	
+       	Assert.assertEquals(firstIntroScreen.getScreenNumber(), IntroScreenTitles.FirstIntroScreenNumber.title()); 
 	}
 	
 	@Test(dataProvider = DEFAULT_PROVIDER)
@@ -27,7 +29,7 @@ public class FirstIntroScreenTest extends AppTestBase{
 		
 		SecondIntroScreen secondScreen = moveToWelcomeScreen(app)
 				.clickFirstIntroNextButton();
-		Assert.assertEquals(secondScreen.getScreenNumber(), "2 OF 4");		  
+		Assert.assertEquals(secondScreen.getScreenNumber(), IntroScreenTitles.SecondIntroScreenNumber.title());		  
 	 }
 	
 	@Test(dataProvider =DEFAULT_PROVIDER, groups="Smoke_Suite")

@@ -26,7 +26,7 @@ public class MarketSelectionScreen extends AppBasePage {
     
     public MarketSelectionScreen selectCountry(String countryName) {
     	MobileElement countryButton = getDriver().findElementById(countryName.toLowerCase()+"_imageBtn");
-    	countryButton.click();
+       	countryButton.click();
     	return this;
     }
     

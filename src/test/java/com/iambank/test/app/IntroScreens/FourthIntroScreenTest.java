@@ -3,6 +3,8 @@ package com.iambank.test.app.IntroScreens;
 import java.io.IOException;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+
+import com.iambank.configuration.framework.IntroScreenTitles;
 import com.iambank.execution.app.IAMBankAppInstance;
 import com.iambank.execution.test.AppTestBase;
 import com.iambank.pages.IntroScreens.FourthIntroScreen;
@@ -14,11 +16,11 @@ public class FourthIntroScreenTest extends AppTestBase{
 	public void testFourthIntroScreenUI(IAMBankAppInstance app) throws IOException, InterruptedException {
 		
 		FourthIntroScreen fourthScreen = movetoFourthScreen(app);
-		Assert.assertEquals(fourthScreen.getFourthScreenMainDescription(), "Let's get started.");
-		Assert.assertEquals(fourthScreen.getFourthScreenSmallDescription(), "Applying for an account usually takes 2-3 minutes. Let's go!");	
-		Assert.assertEquals(fourthScreen.getFourthScreenNextButtonText(), "Apply for a new account");  	
-       	Assert.assertEquals(fourthScreen.getFourthScreenSignInText(), "I already have an account");    	
-       	Assert.assertEquals(fourthScreen.getScreenNumber(), "4 OF 4");
+		Assert.assertEquals(fourthScreen.getFourthScreenMainDescription(), IntroScreenTitles.FourthIntroScreen.title());
+		Assert.assertEquals(fourthScreen.getFourthScreenSmallDescription(), IntroScreenTitles.FourthIntroSmallText.title());	
+		Assert.assertEquals(fourthScreen.getFourthScreenNextButtonText(), IntroScreenTitles.FourthIntroBttnText.title());  	
+       	Assert.assertEquals(fourthScreen.getFourthScreenSignInText(), IntroScreenTitles.FourthIntroSignInText.title());    	
+       	Assert.assertEquals(fourthScreen.getScreenNumber(), IntroScreenTitles.FourthIntroScreenNumber.title());
 	}
 	
 	@Test(dataProvider = DEFAULT_PROVIDER)
