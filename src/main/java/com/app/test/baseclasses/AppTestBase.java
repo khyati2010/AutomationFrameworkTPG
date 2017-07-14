@@ -1,26 +1,24 @@
-package com.iambank.execution.test;
+package com.app.test.baseclasses;
 
 import org.springframework.test.context.ContextConfiguration;
 import org.testng.annotations.DataProvider;
-import com.iambank.configuration.app.AppConfig;
-import com.iambank.execution.app.AndroidAppInstance;
+import com.app.configuration.driver.DriverConfig;
+import com.app.driver.instance.WebDriverInstance;
 
 /**
  * This is the base class for all tests.
  */
 
-@ContextConfiguration(classes = AppConfig.class)
+@ContextConfiguration(classes = DriverConfig.class)
 public abstract class AppTestBase extends TestBase {
-
+	
     public static final String DEFAULT_PROVIDER = "defaultConfig";
-
+  
     @DataProvider(name = DEFAULT_PROVIDER, parallel = true)
-    public Object[][] getAppProvider() {
-    	logger.info("In data provider, creating new app instance...");
-    	logger.info("Setting up test's  with app.properties configuration...");
+    public Object[][] getDriverProvider() {
+    	logger.info("In data provider, creating new driver instance...");
         return new Object[][]{
-                {new AndroidAppInstance(appiumCapabilities)}
+                {new WebDriverInstance(driverProperties)}
         };
     }
- 
 }

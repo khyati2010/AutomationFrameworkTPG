@@ -1,94 +1,88 @@
-package com.iambank.configuration.app;
+package com.app.configuration.driver;
 
-import io.appium.java_client.remote.MobileCapabilityType;
+import javax.annotation.PostConstruct;
 import org.apache.commons.lang3.builder.ToStringBuilder;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.Platform;
-import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
-import javax.annotation.PostConstruct;
-import java.io.File;
+import com.app.driver.instance.WebDriverProxy;
 
-/**
- * Generic driver capabilities class.
- */
 @Component
-public final class AppiumCapabilities {
-	private static final Logger logger = LogManager.getLogger(AppiumCapabilities.class);
+public final class DriverProperties {
+	private static final Logger logger = LogManager.getLogger(DriverProperties.class);
 
-	// Device capabilities
-	@Value("${platformName}")
-	private String platformName;
-	@Value("${platformVersion:}")
-	private String platformVersion;
-	@Value("${app:}")
-	private String appFile;
-	@Value("${processArguments:}")
-	private String processArguments;
-	@Value("${appiumVersion:1.6}")
-	private String appiumVersion;
-	@Value("${deviceOrientation:portrait}")
-	private String orientation;
-	@Value("${udId:}")
-	private String udId;
-	@Value("${fullReset:true}")
-	private boolean shouldFullResetApp;
-	@Value("${NoReset:false}")
-	private boolean shouldNoResetApp;
-	@Value("${platform:ANY}")
-	private Platform platform;
-	@Value("${deviceName:}")
-	private String deviceName;
-	@Value("${recordVideo:true}")
-	private boolean recordVideo;
-	@Value("${recordScreenshots:true}")
-	private boolean recordScreenshots;
+	@Value("${browser}")
+	private String browser;
+	@Value("${appURL}")
+	private String appURL;
+	@Value("${driverPath}")
+	private String driverPath;
 
-	private DesiredCapabilities capabilities;
-
-	public DesiredCapabilities getCapabilities() {
-		if (capabilities == null) {
-			capabilities = new DesiredCapabilities();
-			capabilities.setCapability("recordVideo",recordVideo);
-			capabilities.setCapability("recordScreenshots",recordScreenshots);
-			if (!deviceName.isEmpty()) {
-				capabilities.setCapability("deviceName", deviceName);
-			}
-		}
-		return capabilities;
+	public String getAppURL() {
+		return appURL;
 	}
-	
+
+	public String getBrowserType() {
+		return browser;
+	}
+
 	@PostConstruct
 	public void init(){
-		logger.info("Setting up capabilities in @PostConstruct...");
-		setDesiredCapability(MobileCapabilityType.PLATFORM_NAME, platformName);
-		setDesiredCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 900);
-		setLocalCapabilities();
-		setDesiredCapability(MobileCapabilityType.FULL_RESET, shouldFullResetApp());
-		setDesiredCapability(MobileCapabilityType.NO_RESET, shouldNoResetApp);
-		setDesiredCapability("platform", platform);
-	}
-
-	public String getAppName() {
-		return appFile;
-	}
-
-	protected void setDesiredCapability(String capability, Object value) {
-		getCapabilities().setCapability(capability, value);
-	}
-
-	public boolean shouldFullResetApp() {
-		return shouldFullResetApp;
-	}
-
-	private void setLocalCapabilities() {
-		if (platformVersion != null) {
-			setDesiredCapability(MobileCapabilityType.PLATFORM_VERSION, platformVersion);
+		logger.info("info..:" + browser + appURL + driverPath);
+		logger.info("Setting up driverProperties in @PostConstruct...");
+		String browserType = getBrowserType();
+		switch (browserType) {
+		case "chrome" :
+			System.setProperty("webdriver.chrome.driver", driverPath);
+			break;
+		case "firefox":
+			System.setProperty("webdriver.gecko.driver",driverPath);
+			break;
+		default:
+			System.out.println("browser : " + getBrowserType()
+			+ " is invalid, Launching Chrome as browser of choice..");
+			System.setProperty("webdriver.gecko.driver",driverPath);
 		}
-		File app = new File(getAppName());
-		setDesiredCapability(MobileCapabilityType.APP, app.getAbsolutePath());
+
+	}
+
+	private WebDriverProxy initChromeDriver(String appURL) {
+		System.out.println("Launching google chrome with new profile..");
+		WebDriver driver = new ChromeDriver();
+		driver.manage().window().maximize();
+		driver.navigate().to(appURL);
+		return new WebDriverProxy(driver);
+	}
+
+	private WebDriverProxy initFirefoxDriver(String appURL) {
+		System.out.println("Launching Firefox browser..");
+		WebDriver driver = new FirefoxDriver();
+		//driver.manage().window().maximize();
+		driver.navigate().to(appURL);
+		return new WebDriverProxy(driver);
+	}
+
+	public WebDriverProxy setDriver(String appURL){
+		logger.info("Setting up driverProperties in @PostConstruct...");
+		WebDriverProxy driver;
+		switch (getBrowserType()) {
+		case "firefox":
+			driver = initFirefoxDriver(appURL);
+			break;
+		case "chrome":
+			driver = initChromeDriver(appURL);
+			break;
+		default:
+			System.out.println("browser : " + getBrowserType()
+			+ " is invalid, Launching Firefox as browser of choice..");
+			driver = initFirefoxDriver(appURL);
+		}
+
+		return driver;
 	}
 
 	@Override

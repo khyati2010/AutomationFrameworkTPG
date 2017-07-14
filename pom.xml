@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.iambank</groupId>
+	<groupId>com.threepillarglobal</groupId>
 	<artifactId>app-framework</artifactId>
 	<packaging>jar</packaging>
 	<version>2.0-SNAPSHOT</version>
-	<name>IAMBANK_Android</name>
+	<name>WebAutomation</name>
 	<url>http://maven.apache.org</url>
 
 
@@ -61,12 +61,6 @@
 			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-core</artifactId>
 			<version>2.8.2</version>
-		</dependency>
-
-		<dependency>
-			<groupId>io.appium</groupId>
-			<artifactId>java-client</artifactId>
-			<version>5.0.0-BETA7</version>
 		</dependency>
 
 		<dependency>
@@ -155,6 +149,12 @@
 			<groupId>ru.yandex.qatools.allure</groupId>
 			<artifactId>allure-testng-adaptor</artifactId>
 			<version>${allure.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-firefox-driver</artifactId>
+			<version>3.4.0</version>
 		</dependency>
 
 	</dependencies>
@@ -253,7 +253,33 @@
 					</dependency>
 				</dependencies>
 			</plugin>
-
+			<plugin>
+				<artifactId>maven-jar-plugin</artifactId>
+				<version>2.6</version>
+				<executions>
+					<execution>
+						<goals>
+							<goal>test-jar</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<artifactId>maven-dependency-plugin</artifactId>
+				<version>2.10</version>
+				<executions>
+					<execution>
+						<id>copy-dependencies</id>
+						<phase>package</phase>
+						<goals>
+							<goal>copy-dependencies</goal>
+						</goals>
+						<configuration>
+							<outputDirectory>${project.build.directory}/dependency-jars/</outputDirectory>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
 			<plugin>
 				<groupId>org.eclipse.jetty</groupId>
 				<artifactId>jetty-maven-plugin</artifactId>
@@ -278,10 +304,29 @@
 					<executable>C:\Program Files\Java\jdk1.8.0_121\bin\javac.exe</executable>
 				</configuration>
 			</plugin>
-
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-assembly-plugin</artifactId>
+				<version>2.6</version>
+				<executions>
+					<execution>
+						<phase>package</phase>
+						<goals>
+							<goal>single</goal>
+						</goals>
+						<configuration>
+							<finalName>zip-with-dependencies</finalName>
+							<appendAssemblyId>false</appendAssemblyId>
+							<descriptors>
+								<descriptor>assembly.xml</descriptor>
+							</descriptors>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
 		</plugins>
 	</build>
-	
+
 	<reporting>
 		<excludeDefaults>true</excludeDefaults>
 		<plugins>
@@ -290,16 +335,15 @@
 				<artifactId>allure-maven-plugin</artifactId>
 				<version>2.5</version>
 				<configuration>
-				 <resultsPattern>${allure.results_pattern}</resultsPattern>
-                    <resultsDirectory>target/allure-results</resultsDirectory>
-                    <reportDirectory>target/allure-report</reportDirectory>
-                    <outputDirectory>${basedir}/site</outputDirectory>
-                    <!--<reportVersion>1.4.15</reportVersion>-->
+					<resultsPattern>${allure.results_pattern}</resultsPattern>
+					<resultsDirectory>target/allure-results</resultsDirectory>
+					<reportDirectory>target/allure-report</reportDirectory>
+					<outputDirectory>${basedir}/site</outputDirectory>
+					<!--<reportVersion>1.4.15</reportVersion> -->
 					<inputDirectories>/target/allure-results_${timestamp}</inputDirectories>
 					<reportingOutputDirectory>${allure.report.directory}</reportingOutputDirectory>
 					<failReportIfEmpty>false</failReportIfEmpty>
-					<!-- <reportDirectory>${allure.report.directory}</reportDirectory>
-					<resultsDirectory>/target/allure-results_${timestamp}</resultsDirectory> -->
+					<!-- <reportDirectory>${allure.report.directory}</reportDirectory> <resultsDirectory>/target/allure-results_${timestamp}</resultsDirectory> -->
 					<properties>
 						<allure.issues.tracker.pattern>http://localhost:9000/tests</allure.issues.tracker.pattern>
 					</properties>

@@ -1,0 +1,11 @@
+2017-07-12 13:35:10,563 INFO test.baseclasses.TestBase - {
+  "DriverProperties" : {
+    "appURL" : "\"http://www.google.com\""
+  }
+}
+2017-07-12 13:35:10,577 INFO test.baseclasses.TestBase - Base setup complete!
+2017-07-12 13:35:10,665 INFO configuration.driver.DriverProperties - Setting up driverProperties in @PostConstruct...
+2017-07-12 13:35:19,868 INFO pages.baseclasses.BasePage - Navigating to [SamplePage]...
+2017-07-12 13:35:22,400 INFO test.baseclasses.TestBase - Test result: Failed
+
+2017-07-12 13:35:22,401 INFO test.baseclasses.TestBase - Test is finished, removing the tag [58f3eed7-4e72-4e2f-a830-167e69ad840f]...

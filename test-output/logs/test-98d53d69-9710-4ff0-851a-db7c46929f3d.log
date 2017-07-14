@@ -1,0 +1,9 @@
+2017-07-12 15:32:54,239 INFO test.baseclasses.TestBase - {
+  "DriverProperties" : {
+    "appURL" : "\"http://www.google.com\"",
+    "browserType" : "firefox"
+  }
+}
+2017-07-12 15:32:54,256 INFO test.baseclasses.TestBase - Base setup complete!
+2017-07-12 15:32:54,334 INFO configuration.driver.DriverProperties - Setting up driverProperties in @PostConstruct...
+2017-07-12 15:33:01,565 INFO configuration.driver.DriverProperties - Setting up driverProperties in @PostConstruct...

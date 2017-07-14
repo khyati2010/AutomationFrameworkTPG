@@ -1,0 +1,8 @@
+2017-07-12 11:37:43,632 INFO test.baseclasses.TestBase - {
+  "DriverProperties" : {
+    "appURL" : ""
+  }
+}
+2017-07-12 11:37:43,646 INFO test.baseclasses.TestBase - Base setup complete!
+2017-07-12 11:37:43,743 INFO configuration.driver.DriverProperties - Setting up driverProperties in @PostConstruct...
+2017-07-12 11:38:08,227 INFO configuration.driver.DriverProperties - Setting up driverProperties in @PostConstruct...

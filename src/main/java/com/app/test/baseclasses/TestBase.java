@@ -1,10 +1,10 @@
-package com.iambank.execution.test;
+package com.app.test.baseclasses;
 
+import com.app.configuration.driver.DriverProperties;
+import com.app.driver.instance.WebDriverInstance;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
-import com.iambank.configuration.app.AppiumCapabilities;
-import com.iambank.execution.app.IAMBankAppInstance;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.ThreadContext;
@@ -20,22 +20,17 @@ import java.io.IOException;
 import java.lang.reflect.Method;
 import java.net.MalformedURLException;
 import java.nio.file.NotDirectoryException;
-import java.nio.file.Paths;
 import java.util.UUID;
 
-/**
- * This base class is leveraged by any tests that interacts with mobile application.
- */
 public abstract class TestBase extends AbstractTestNGSpringContextTests  {
 
 	protected static final Logger logger = LogManager.getLogger(TestBase.class);
 	private static final String THREAD_TAG = "FISHTAG";
 	private static final String DEFAULT_SUITE_LOG = "test-output/logs/default.log";
-	private static final String SNAPSHOTS_PATH = "test-output/screenshots";
-	private IAMBankAppInstance iAMBANKInstance;
+	private WebDriverInstance webDriverInstance;
 
 	@Autowired
-	protected AppiumCapabilities appiumCapabilities;
+	protected DriverProperties driverProperties;
 
 	@BeforeSuite(alwaysRun = true)
 	protected void suiteInit() throws Exception {
@@ -49,8 +44,8 @@ public abstract class TestBase extends AbstractTestNGSpringContextTests  {
 
 	@BeforeMethod(alwaysRun = true)
 	public void baseSetup(Method method, Object[] params) throws MalformedURLException, NoSuchFieldException, NotDirectoryException, JsonProcessingException {
-		if (params.length > 0 && params[0] instanceof IAMBankAppInstance){
-			iAMBANKInstance = (IAMBankAppInstance)params[0];
+		if (params.length > 0 && params[0] instanceof WebDriverInstance){
+			webDriverInstance = (WebDriverInstance)params[0];
 		}
 		String tag = UUID.randomUUID().toString();
 		logger.info("Tagging test thread with [{}]...", tag);
@@ -61,12 +56,9 @@ public abstract class TestBase extends AbstractTestNGSpringContextTests  {
 
 	@AfterMethod(alwaysRun = true)
 	public void baseCleanup(ITestContext context, ITestResult result, Object[] params) throws IOException {
-		if (params.length > 0 && params[0] instanceof IAMBankAppInstance){
-			IAMBankAppInstance iAMBANKInstance = (IAMBankAppInstance)params[0];
-			if (result.getStatus() == ITestResult.FAILURE) {
-				captureScreenshot(result, iAMBANKInstance);
-			}
-			iAMBANKInstance.cleanup();
+		if (params.length > 0 && params[0] instanceof WebDriverInstance){
+			WebDriverInstance webDriverInstance = (WebDriverInstance)params[0];
+			webDriverInstance.cleanup();
 		}
 		logTestResult(result);
 		String tag = ThreadContext.get(THREAD_TAG);
@@ -75,15 +67,8 @@ public abstract class TestBase extends AbstractTestNGSpringContextTests  {
 		result.setAttribute(THREAD_TAG, tag);
 	}
 
-	public IAMBankAppInstance getIAMBankAppInstance() {
-		return iAMBANKInstance;
-	}
-
-	private void captureScreenshot(ITestResult result, IAMBankAppInstance iAMBANKInstance) throws IOException {
-		String fileName = String.format("test-%s.%s", ThreadContext.get("FISHTAG"), "png");
-		if (iAMBANKInstance.saveScreenshot(Paths.get(SNAPSHOTS_PATH, fileName).toFile())) {
-			result.setAttribute("screenshot", Paths.get("screenshots", fileName).toString());
-		}
+	public WebDriverInstance getDriverInstance() {
+		return webDriverInstance;
 	}
 	
 	private void logTestSetup(Method method) throws JsonProcessingException {
@@ -91,7 +76,7 @@ public abstract class TestBase extends AbstractTestNGSpringContextTests  {
 		ObjectMapper mapper = new ObjectMapper();
 		mapper.configure(SerializationFeature.WRAP_ROOT_VALUE, true);
 		mapper.enable(SerializationFeature.INDENT_OUTPUT);
-		sb.append(mapper.writeValueAsString(appiumCapabilities));
+		sb.append(mapper.writeValueAsString(driverProperties));
 		logger.info(sb.toString());
 	}
 	

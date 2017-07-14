@@ -1,0 +1,14 @@
+2017-07-14 13:20:50,666 INFO test.baseclasses.TestBase - {
+  "DriverProperties" : {
+    "appURL" : "http://www.isro.gov.in",
+    "browserType" : "chrome"
+  }
+}
+2017-07-14 13:20:50,680 INFO test.baseclasses.TestBase - Base setup complete!
+2017-07-14 13:20:50,775 INFO configuration.driver.DriverProperties - Setting up driverProperties in @PostConstruct...
+2017-07-14 13:21:09,008 INFO pages.baseclasses.BasePage - Using webdriver proxy function....
+2017-07-14 13:21:09,123 INFO test.baseclasses.TestBase - http://www.isro.gov.in/
+2017-07-14 13:21:09,125 INFO pages.baseclasses.BasePage - Using webdriver proxy function....
+2017-07-14 13:21:11,414 INFO test.baseclasses.TestBase - Test result: Passed
+
+2017-07-14 13:21:11,414 INFO test.baseclasses.TestBase - Test is finished, removing the tag [77faddd7-6084-4a10-92ab-87cef348d0d8]...

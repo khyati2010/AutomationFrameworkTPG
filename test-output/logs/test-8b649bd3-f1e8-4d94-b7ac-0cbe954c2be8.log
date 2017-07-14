@@ -1,0 +1,13 @@
+2017-07-12 16:26:11,160 INFO test.baseclasses.TestBase - {
+  "DriverProperties" : {
+    "appURL" : "http://www.google.com",
+    "browserType" : "chrome"
+  }
+}
+2017-07-12 16:26:11,181 INFO test.baseclasses.TestBase - Base setup complete!
+2017-07-12 16:26:11,267 INFO configuration.driver.DriverProperties - Setting up driverProperties in @PostConstruct...
+2017-07-12 16:26:22,258 INFO pages.baseclasses.BasePage - Navigating to [SamplePage]...
+2017-07-12 16:26:22,354 INFO test.baseclasses.TestBase - https://www.google.co.in/?gfe_rd=cr&ei=VABmWdXVC4Lz8Afn8K7oDA&gws_rd=ssl
+2017-07-12 16:26:25,234 INFO test.baseclasses.TestBase - Test result: Passed
+
+2017-07-12 16:26:25,235 INFO test.baseclasses.TestBase - Test is finished, removing the tag [8b649bd3-f1e8-4d94-b7ac-0cbe954c2be8]...

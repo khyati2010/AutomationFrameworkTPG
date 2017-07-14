@@ -1,0 +1,11 @@
+2017-07-13 14:16:05,095 INFO test.baseclasses.TestBase - {
+  "DriverProperties" : {
+    "appURL" : "http://www.isro.gov.in/",
+    "browserType" : "chrome"
+  }
+}
+2017-07-13 14:16:05,107 INFO test.baseclasses.TestBase - Base setup complete!
+2017-07-13 14:16:05,177 INFO configuration.driver.DriverProperties - Setting up driverProperties in @PostConstruct...
+2017-07-13 14:16:23,783 INFO test.baseclasses.TestBase - Test result: Failed
+
+2017-07-13 14:16:23,784 INFO test.baseclasses.TestBase - Test is finished, removing the tag [f0d2233d-fa8b-4f65-86bc-69ae497fb971]...

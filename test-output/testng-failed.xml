@@ -2,26 +2,20 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
-    <groups>
-      <run>
-        <include name="Smoke_Suite"/>
-      </run>
-    </groups>
     <classes>
-      <class name="com.iambank.test.app.IntroScreens.FirstIntroScreenTest">
+      <class name="com.app.test.SampleTests.SampleTest">
         <methods>
           <include name="springTestContextBeforeTestClass"/>
-          <include name="baseCleanup"/>
           <include name="suiteInit"/>
-          <include name="testFirstIntroScreenUI" invocation-numbers="0"/>
+          <include name="verifySignInFunction" invocation-numbers="0"/>
+          <include name="baseSetup"/>
           <include name="springTestContextPrepareTestInstance"/>
           <include name="springTestContextAfterTestClass"/>
           <include name="springTestContextBeforeTestMethod"/>
-          <include name="testSkipintroscreenFunctionality" invocation-numbers="0"/>
           <include name="springTestContextAfterTestMethod"/>
-          <include name="baseSetup"/>
+          <include name="baseCleanup"/>
         </methods>
-      </class> <!-- com.iambank.test.app.IntroScreens.FirstIntroScreenTest -->
+      </class> <!-- com.app.test.SampleTests.SampleTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

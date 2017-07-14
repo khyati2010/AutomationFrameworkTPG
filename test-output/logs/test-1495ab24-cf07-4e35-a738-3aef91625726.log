@@ -1,0 +1,9 @@
+2017-07-14 13:16:31,139 INFO test.baseclasses.TestBase - {
+  "DriverProperties" : {
+    "appURL" : "http://www.isro.gov.in",
+    "browserType" : "firefox"
+  }
+}
+2017-07-14 13:16:31,153 INFO test.baseclasses.TestBase - Base setup complete!
+2017-07-14 13:16:31,248 INFO configuration.driver.DriverProperties - Setting up driverProperties in @PostConstruct...
+2017-07-14 13:16:32,298 INFO configuration.driver.DriverProperties - Setting up driverProperties in @PostConstruct...
