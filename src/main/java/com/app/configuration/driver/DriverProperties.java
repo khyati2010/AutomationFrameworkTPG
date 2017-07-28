@@ -1,14 +1,17 @@
 package com.app.configuration.driver;
 
 import javax.annotation.PostConstruct;
+
 import org.apache.commons.lang3.builder.ToStringBuilder;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
+
 import com.app.driver.instance.WebDriverProxy;
 
 @Component
@@ -41,6 +44,8 @@ public final class DriverProperties {
 			break;
 		case "firefox":
 			System.setProperty("webdriver.gecko.driver",driverPath);
+		case "ie":
+			System.setProperty("webdriver.ie.driver",driverPath);
 			break;
 		default:
 			System.out.println("browser : " + getBrowserType()
@@ -65,6 +70,13 @@ public final class DriverProperties {
 		driver.navigate().to(appURL);
 		return new WebDriverProxy(driver);
 	}
+	private WebDriverProxy initIeDriver(String appURL) {
+		System.out.println("Launching IE browser..");
+		WebDriver driver = new InternetExplorerDriver();
+		//driver.manage().window().maximize();
+		driver.navigate().to(appURL);
+		return new WebDriverProxy(driver);
+	}
 
 	public WebDriverProxy setDriver(String appURL){
 		logger.info("Setting up driverProperties in @PostConstruct...");
@@ -75,6 +87,9 @@ public final class DriverProperties {
 			break;
 		case "chrome":
 			driver = initChromeDriver(appURL);
+			break;
+		case "ie":
+			driver = initIeDriver(appURL);
 			break;
 		default:
 			System.out.println("browser : " + getBrowserType()

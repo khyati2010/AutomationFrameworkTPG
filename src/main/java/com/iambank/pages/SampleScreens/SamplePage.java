@@ -1,5 +1,7 @@
 package com.iambank.pages.SampleScreens;
 
+import org.openqa.selenium.WebDriver;
+
 import com.app.driver.instance.WebDriverProxy;
 import com.app.pages.baseclasses.AppBasePage;
 

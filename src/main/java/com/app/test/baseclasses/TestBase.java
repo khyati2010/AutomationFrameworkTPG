@@ -52,6 +52,7 @@ public abstract class TestBase extends AbstractTestNGSpringContextTests  {
 		ThreadContext.put(THREAD_TAG, tag);
 		logTestSetup(method);
 		logger.info("Base setup complete!");
+		
 	}
 
 	@AfterMethod(alwaysRun = true)

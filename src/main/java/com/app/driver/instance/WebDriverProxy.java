@@ -130,12 +130,14 @@ public class WebDriverProxy implements WebDriver, WebDriverEventListener {
 	}
 
 	public WebElement findElement(By arg0) {
-		return null;
+		log.info("Using webdriver proxy function....");
+		return driver.findElement(arg0);
 	}
 
 	public List<WebElement> findElements(By arg0) {
 		// TODO Auto-generated method stub
-		return null;
+		log.info("Using webdriver proxy function....");
+		return driver.findElements(arg0);
 	}
 
 	public void get(String arg0) {
@@ -179,7 +181,7 @@ public class WebDriverProxy implements WebDriver, WebDriverEventListener {
 	}
 
 	public void quit() {
-		driver.quit();
+		//driver.quit();
 	}
 
 	public TargetLocator switchTo() {
